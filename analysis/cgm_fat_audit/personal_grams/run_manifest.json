@@ -1,0 +1,7 @@
+{
+  "primary_method": "personal_linear_10",
+  "script_sha256": "e332ea562ce9918c4f978cada21121bf2370efc012b1a0b718bbce79ae43f03c",
+  "event_sha256": "6a4711035928799ea91286bc67c7cf7aeeb93566e0d89e7ed46fa79459c8f1e9",
+  "parameters_selected_using_test_results": false,
+  "caveat": "Retrospective development dataset already inspected. Meal times and isolation use logs. No detection or daily-total validation. Zero gram labels require zero prediction for relative tolerance."
+}

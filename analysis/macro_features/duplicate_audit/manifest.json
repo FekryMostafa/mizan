@@ -1,0 +1,10 @@
+{
+  "script_sha256": "c435ff1b1616d7d5b1255949e29e9cb9d968c943e85c6cc809285f4cb58426ed",
+  "source_feature_hash_verified": true,
+  "input_hashes": {
+    "features.csv": "76227155a025321b0c9ad701b682536cb5d6295cb48a75b923f1dfeaab5558f6",
+    "curves.npz": "62479e21d2f5c1b6832d3d4abff40378f2e4173444ed007286b1c0d4d9097553"
+  },
+  "reserved_accessed": false,
+  "scope": "Existing 738 eligible curves only; not raw full releases or all forms of data leakage."
+}

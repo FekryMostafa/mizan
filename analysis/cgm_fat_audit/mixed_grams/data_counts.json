@@ -1,0 +1,14 @@
+[
+  {
+    "sensor": "Libre GL",
+    "available_people": 32,
+    "available_postcalibration_meals": 286,
+    "evaluation_meals": 88
+  },
+  {
+    "sensor": "Dexcom GL",
+    "available_people": 31,
+    "available_postcalibration_meals": 259,
+    "evaluation_meals": 84
+  }
+]

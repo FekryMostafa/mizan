@@ -1,0 +1,9 @@
+{
+  "change": "Add 52 known calibration meals as labeled training examples; no changes to gamma, ridge, input features or preprocessing statistics.",
+  "gamma": 1.0,
+  "ridge": 10.0,
+  "old_training": 211,
+  "new_training": 263,
+  "final_later": 107,
+  "caveat": "Controlled development ablation motivated after inspecting previous outcomes; not a fresh validation or proof of root cause."
+}

@@ -1,0 +1,24 @@
+{
+  "script_sha256": "f73dc0e0a56d8abe6f7c634aee7ffa39e2057580feb2e5806e72f78940a157ca",
+  "inputs": {
+    "<repo>/analysis/macro_features/features.csv": "76227155a025321b0c9ad701b682536cb5d6295cb48a75b923f1dfeaab5558f6",
+    "<repo>/analysis/macro_features/curve_audit/curves.npz": "62479e21d2f5c1b6832d3d4abff40378f2e4173444ed007286b1c0d4d9097553",
+    "<repo>/analysis/macro_features/personal_dose_repeat/contrasts.csv": "b177594efc498ca660ffbcaf49ad09ae2c3002ab4beb0e6fe929d7aa00073e58"
+  },
+  "same_query_keys_verified": true,
+  "plan": {
+    "primary": "half_population",
+    "weights": {
+      "personal_only": 0,
+      "half_population": 0.5,
+      "population_only": 1
+    },
+    "representation": "37 baseline-subtracted CGM samples, 0 through 180 minutes at five-minute intervals; equal weights.",
+    "population": "Mean high-minus-low direction per gram from first calibration pairs of other people only.",
+    "personal": "Blend population and own dose direction, retain own calibration midpoint; orthogonal projection gives grams.",
+    "target": "Same later controlled-dose queries as personal_dose_repeat; each macro evaluated separately.",
+    "tuning": false,
+    "reserved_accessed": false,
+    "caveat": "Known controlled composition during evaluation. Not arbitrary-meal or unknown-dose validation."
+  }
+}

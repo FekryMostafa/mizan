@@ -1,0 +1,74 @@
+{
+  "clock": {
+    "detector": {
+      "auc": 0.743370514574345,
+      "average_precision": 0.2954283140147966,
+      "precision_at_half": 0.0,
+      "recall_at_half": 0.0,
+      "event_fraction": 0.16287878787878787
+    },
+    "passive": {
+      "n": 44,
+      "hits": 10,
+      "mape": 27.74828030243733,
+      "mae": 53.86117893597841
+    },
+    "known_events_not_passive": {
+      "n": 44,
+      "hits": 12,
+      "mape": 24.219088775204618,
+      "mae": 47.96282837519948
+    }
+  },
+  "cgm": {
+    "detector": {
+      "auc": 0.7421373513627275,
+      "average_precision": 0.38439472160503596,
+      "precision_at_half": 0.5416666666666666,
+      "recall_at_half": 0.22674418604651161,
+      "event_fraction": 0.16287878787878787
+    },
+    "passive": {
+      "n": 44,
+      "hits": 10,
+      "mape": 29.32497461476463,
+      "mae": 61.457516630636476
+    },
+    "known_events_not_passive": {
+      "n": 44,
+      "hits": 10,
+      "mape": 23.94095993114231,
+      "mae": 51.00873056152341
+    }
+  },
+  "cgm_clock": {
+    "detector": {
+      "auc": 0.8381103335788698,
+      "average_precision": 0.4801184433313158,
+      "precision_at_half": 0.5108695652173914,
+      "recall_at_half": 0.27325581395348836,
+      "event_fraction": 0.16287878787878787
+    },
+    "passive": {
+      "n": 44,
+      "hits": 9,
+      "mape": 29.927054592306984,
+      "mae": 63.17220531325256
+    },
+    "known_events_not_passive": {
+      "n": 44,
+      "hits": 8,
+      "mape": 25.21945264327584,
+      "mae": 54.065456842269676
+    }
+  },
+  "counts": {
+    "training_days": 64,
+    "training_hours": 1536,
+    "training_eating_hours": 249,
+    "later_days": 44,
+    "later_hours": 1056,
+    "later_eating_hours": 172,
+    "all44": true
+  }
+}

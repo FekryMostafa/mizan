@@ -1,0 +1,26 @@
+{
+  "verified_prediction_vectors": 42,
+  "prediction_vectors_mape_at_most10": 0,
+  "prediction_vectors_all44_within10": 0,
+  "best_recorded_mape": 18.39512371240827,
+  "best_reference_failed_days": 28,
+  "completion": false,
+  "requirements": {
+    "daily_grams": "evaluated against recorded daily labels",
+    "personalization": "historical known labels allowed; tested",
+    "passive_inputs": "strict reference uses sensors and calibration only",
+    "within10": "contradicted by current results",
+    "generalization": "44 later days repeatedly inspected; no independent confirmation",
+    "all_days_retained": "verified for all audited vectors"
+  },
+  "additional_data": {
+    "unused_earlier_days": 27,
+    "already_eligible": 0,
+    "incomplete_sensor_days": 16,
+    "complete_sensor_days": 11,
+    "complete_missing_main_only": 4,
+    "complete_unresolved_labels": 7,
+    "non100_meals_on_complete_days": 8,
+    "allzero_meals_on_complete_days": 3
+  }
+}

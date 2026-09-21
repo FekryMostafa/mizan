@@ -1,0 +1,217 @@
+[
+  {
+    "sensor": "Dexcom GL",
+    "pid": 2,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 4,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 5,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 6,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 8,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 9,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 10,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 14,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 17,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 27,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 31,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 32,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 34,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 35,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 36,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 38,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 41,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 42,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 43,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 45,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 49,
+    "choice": "start/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 1,
+    "choice": "pre10/180/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 2,
+    "choice": "pre10/180/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 5,
+    "choice": "pre10/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 6,
+    "choice": "pre10/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 8,
+    "choice": "pre10/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 9,
+    "choice": "pre10/180/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 10,
+    "choice": "pre10/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 14,
+    "choice": "pre10/180/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 17,
+    "choice": "pre10/180/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 27,
+    "choice": "pre10/180/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 31,
+    "choice": "pre10/180/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 32,
+    "choice": "pre10/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 34,
+    "choice": "pre10/180/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 35,
+    "choice": "pre10/180/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 36,
+    "choice": "pre10/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 38,
+    "choice": "pre10/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 41,
+    "choice": "pre10/120/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 42,
+    "choice": "pre10/180/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 43,
+    "choice": "pre10/180/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 44,
+    "choice": "start/60/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 45,
+    "choice": "pre10/180/prior0/lambda100"
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 49,
+    "choice": "pre10/180/prior0/lambda100"
+  }
+]

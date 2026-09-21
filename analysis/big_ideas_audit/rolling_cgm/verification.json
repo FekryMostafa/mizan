@@ -1,0 +1,7 @@
+{
+  "verified_predictions": 260,
+  "history_rows_verified": 65,
+  "calibration_min": 4,
+  "calibration_max": 19,
+  "posthoc_rolling_mode_hits": 5
+}

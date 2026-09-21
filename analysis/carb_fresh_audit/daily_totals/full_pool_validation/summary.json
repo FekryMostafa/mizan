@@ -1,0 +1,33 @@
+{
+  "selected": {
+    "family": "glucose",
+    "kind": "kernel",
+    "reg": 0.1,
+    "n": 33,
+    "hits": 13,
+    "mape": 20.692286855777656,
+    "mae": 40.352864100030295
+  },
+  "old_settings_on_new_validation": {
+    "family": "summary",
+    "kind": "ridge",
+    "reg": 1000.0,
+    "n": 33,
+    "hits": 10,
+    "mape": 24.411150521025668,
+    "mae": 45.23749278741144
+  },
+  "validation_days": 33,
+  "validation_pool_range": [
+    60,
+    62
+  ],
+  "later": {
+    "n": 44,
+    "hits": 15,
+    "mape": 20.99940931316249,
+    "mae": 42.590495406918464
+  },
+  "no_query_label_dependence": true,
+  "all44": true
+}

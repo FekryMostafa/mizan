@@ -1,0 +1,26 @@
+[
+  {
+    "macro": "Carbs",
+    "median_slope_ratio": 0.4091808571577358,
+    "median_abs_midpoint_drift_g": 16.361005527452537,
+    "slope_ratio_between_08_12": 4,
+    "both_doses_hit": 0,
+    "people": 26
+  },
+  {
+    "macro": "Fat",
+    "median_slope_ratio": 0.28571428571428636,
+    "median_abs_midpoint_drift_g": 14.291666666666668,
+    "slope_ratio_between_08_12": 4,
+    "both_doses_hit": 0,
+    "people": 25
+  },
+  {
+    "macro": "Protein",
+    "median_slope_ratio": 0.49393113446538395,
+    "median_abs_midpoint_drift_g": 24.817864653695388,
+    "slope_ratio_between_08_12": 1,
+    "both_doses_hit": 0,
+    "people": 28
+  }
+]

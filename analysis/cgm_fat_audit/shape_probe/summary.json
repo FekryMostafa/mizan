@@ -1,0 +1,2690 @@
+[
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_60/lda",
+    "meals": 84,
+    "all_three_within10": 23,
+    "MAE": [
+      16.5,
+      14.666666666666666,
+      12.0
+    ],
+    "macro_hits": [
+      51,
+      56,
+      52
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_60/linear_0.1",
+    "meals": 84,
+    "all_three_within10": 23,
+    "MAE": [
+      14.5,
+      16.238095238095237,
+      12.75
+    ],
+    "macro_hits": [
+      55,
+      53,
+      50
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_60/rbf_1",
+    "meals": 84,
+    "all_three_within10": 25,
+    "MAE": [
+      15.5,
+      11.0,
+      10.875
+    ],
+    "macro_hits": [
+      53,
+      63,
+      55
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_60/rbf_10",
+    "meals": 84,
+    "all_three_within10": 24,
+    "MAE": [
+      15.5,
+      13.619047619047619,
+      11.625
+    ],
+    "macro_hits": [
+      53,
+      58,
+      53
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_60/tree1",
+    "meals": 84,
+    "all_three_within10": 21,
+    "MAE": [
+      17.5,
+      13.619047619047619,
+      13.5
+    ],
+    "macro_hits": [
+      49,
+      58,
+      48
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_60/tree4",
+    "meals": 84,
+    "all_three_within10": 23,
+    "MAE": [
+      16.5,
+      13.619047619047619,
+      12.0
+    ],
+    "macro_hits": [
+      51,
+      58,
+      52
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_60/lda",
+    "meals": 84,
+    "all_three_within10": 24,
+    "MAE": [
+      15.5,
+      13.095238095238095,
+      12.75
+    ],
+    "macro_hits": [
+      53,
+      59,
+      50
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_60/linear_0.1",
+    "meals": 84,
+    "all_three_within10": 21,
+    "MAE": [
+      15.5,
+      15.714285714285714,
+      13.5
+    ],
+    "macro_hits": [
+      53,
+      54,
+      48
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_60/rbf_1",
+    "meals": 84,
+    "all_three_within10": 30,
+    "MAE": [
+      14.0,
+      10.476190476190476,
+      9.75
+    ],
+    "macro_hits": [
+      56,
+      64,
+      58
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_60/rbf_10",
+    "meals": 84,
+    "all_three_within10": 23,
+    "MAE": [
+      14.0,
+      14.666666666666666,
+      12.75
+    ],
+    "macro_hits": [
+      56,
+      56,
+      50
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_60/tree1",
+    "meals": 84,
+    "all_three_within10": 24,
+    "MAE": [
+      16.0,
+      13.095238095238095,
+      12.75
+    ],
+    "macro_hits": [
+      52,
+      59,
+      50
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_60/tree4",
+    "meals": 84,
+    "all_three_within10": 23,
+    "MAE": [
+      16.0,
+      14.666666666666666,
+      11.25
+    ],
+    "macro_hits": [
+      52,
+      56,
+      54
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_60/lda",
+    "meals": 84,
+    "all_three_within10": 23,
+    "MAE": [
+      15.0,
+      16.761904761904763,
+      11.625
+    ],
+    "macro_hits": [
+      54,
+      52,
+      53
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_60/linear_0.1",
+    "meals": 84,
+    "all_three_within10": 24,
+    "MAE": [
+      14.0,
+      13.619047619047619,
+      10.875
+    ],
+    "macro_hits": [
+      56,
+      58,
+      55
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_60/rbf_1",
+    "meals": 84,
+    "all_three_within10": 25,
+    "MAE": [
+      13.5,
+      12.047619047619047,
+      10.875
+    ],
+    "macro_hits": [
+      57,
+      61,
+      55
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_60/rbf_10",
+    "meals": 84,
+    "all_three_within10": 21,
+    "MAE": [
+      13.5,
+      17.285714285714285,
+      10.875
+    ],
+    "macro_hits": [
+      57,
+      51,
+      55
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_60/tree1",
+    "meals": 84,
+    "all_three_within10": 17,
+    "MAE": [
+      16.5,
+      16.238095238095237,
+      14.25
+    ],
+    "macro_hits": [
+      51,
+      53,
+      46
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_60/tree4",
+    "meals": 84,
+    "all_three_within10": 24,
+    "MAE": [
+      15.0,
+      14.666666666666666,
+      12.375
+    ],
+    "macro_hits": [
+      54,
+      56,
+      51
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_60/lda",
+    "meals": 84,
+    "all_three_within10": 22,
+    "MAE": [
+      15.5,
+      16.238095238095237,
+      12.0
+    ],
+    "macro_hits": [
+      53,
+      53,
+      52
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_60/linear_0.1",
+    "meals": 84,
+    "all_three_within10": 24,
+    "MAE": [
+      15.5,
+      14.142857142857142,
+      12.75
+    ],
+    "macro_hits": [
+      53,
+      57,
+      50
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_60/rbf_1",
+    "meals": 84,
+    "all_three_within10": 26,
+    "MAE": [
+      13.5,
+      14.142857142857142,
+      10.125
+    ],
+    "macro_hits": [
+      57,
+      57,
+      57
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_60/rbf_10",
+    "meals": 84,
+    "all_three_within10": 21,
+    "MAE": [
+      11.5,
+      18.333333333333332,
+      12.75
+    ],
+    "macro_hits": [
+      61,
+      49,
+      50
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_60/tree1",
+    "meals": 84,
+    "all_three_within10": 24,
+    "MAE": [
+      14.0,
+      16.238095238095237,
+      13.125
+    ],
+    "macro_hits": [
+      56,
+      53,
+      49
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_60/tree4",
+    "meals": 84,
+    "all_three_within10": 24,
+    "MAE": [
+      16.5,
+      14.666666666666666,
+      12.375
+    ],
+    "macro_hits": [
+      51,
+      56,
+      51
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_120/lda",
+    "meals": 84,
+    "all_three_within10": 25,
+    "MAE": [
+      14.5,
+      13.619047619047619,
+      10.5
+    ],
+    "macro_hits": [
+      55,
+      58,
+      56
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_120/linear_0.1",
+    "meals": 84,
+    "all_three_within10": 24,
+    "MAE": [
+      15.5,
+      16.761904761904763,
+      9.75
+    ],
+    "macro_hits": [
+      53,
+      52,
+      58
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_120/rbf_1",
+    "meals": 84,
+    "all_three_within10": 26,
+    "MAE": [
+      12.0,
+      16.238095238095237,
+      10.125
+    ],
+    "macro_hits": [
+      60,
+      53,
+      57
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_120/rbf_10",
+    "meals": 84,
+    "all_three_within10": 25,
+    "MAE": [
+      12.5,
+      15.19047619047619,
+      11.25
+    ],
+    "macro_hits": [
+      59,
+      55,
+      54
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_120/tree1",
+    "meals": 84,
+    "all_three_within10": 23,
+    "MAE": [
+      13.5,
+      13.095238095238095,
+      10.875
+    ],
+    "macro_hits": [
+      57,
+      59,
+      55
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_120/tree4",
+    "meals": 84,
+    "all_three_within10": 26,
+    "MAE": [
+      14.0,
+      12.571428571428571,
+      11.25
+    ],
+    "macro_hits": [
+      56,
+      60,
+      54
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_120/lda",
+    "meals": 84,
+    "all_three_within10": 22,
+    "MAE": [
+      15.0,
+      14.142857142857142,
+      11.25
+    ],
+    "macro_hits": [
+      54,
+      57,
+      54
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_120/linear_0.1",
+    "meals": 84,
+    "all_three_within10": 23,
+    "MAE": [
+      13.0,
+      16.761904761904763,
+      10.125
+    ],
+    "macro_hits": [
+      58,
+      52,
+      57
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_120/rbf_1",
+    "meals": 84,
+    "all_three_within10": 27,
+    "MAE": [
+      9.5,
+      17.285714285714285,
+      11.25
+    ],
+    "macro_hits": [
+      65,
+      51,
+      54
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_120/rbf_10",
+    "meals": 84,
+    "all_three_within10": 26,
+    "MAE": [
+      11.5,
+      16.238095238095237,
+      11.25
+    ],
+    "macro_hits": [
+      61,
+      53,
+      54
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_120/tree1",
+    "meals": 84,
+    "all_three_within10": 26,
+    "MAE": [
+      11.5,
+      14.142857142857142,
+      10.5
+    ],
+    "macro_hits": [
+      61,
+      57,
+      56
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_120/tree4",
+    "meals": 84,
+    "all_three_within10": 25,
+    "MAE": [
+      13.0,
+      13.095238095238095,
+      11.25
+    ],
+    "macro_hits": [
+      58,
+      59,
+      54
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_120/lda",
+    "meals": 84,
+    "all_three_within10": 27,
+    "MAE": [
+      11.5,
+      16.238095238095237,
+      9.75
+    ],
+    "macro_hits": [
+      61,
+      53,
+      58
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_120/linear_0.1",
+    "meals": 84,
+    "all_three_within10": 26,
+    "MAE": [
+      10.5,
+      15.714285714285714,
+      11.25
+    ],
+    "macro_hits": [
+      63,
+      54,
+      54
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_120/rbf_1",
+    "meals": 84,
+    "all_three_within10": 28,
+    "MAE": [
+      10.5,
+      17.285714285714285,
+      10.125
+    ],
+    "macro_hits": [
+      63,
+      51,
+      57
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_120/rbf_10",
+    "meals": 84,
+    "all_three_within10": 30,
+    "MAE": [
+      8.5,
+      17.80952380952381,
+      10.125
+    ],
+    "macro_hits": [
+      67,
+      50,
+      57
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_120/tree1",
+    "meals": 84,
+    "all_three_within10": 31,
+    "MAE": [
+      12.5,
+      15.714285714285714,
+      8.25
+    ],
+    "macro_hits": [
+      59,
+      54,
+      62
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_120/tree4",
+    "meals": 84,
+    "all_three_within10": 27,
+    "MAE": [
+      12.5,
+      15.714285714285714,
+      9.75
+    ],
+    "macro_hits": [
+      59,
+      54,
+      58
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_120/lda",
+    "meals": 84,
+    "all_three_within10": 22,
+    "MAE": [
+      14.5,
+      17.285714285714285,
+      9.375
+    ],
+    "macro_hits": [
+      55,
+      51,
+      59
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_120/linear_0.1",
+    "meals": 84,
+    "all_three_within10": 21,
+    "MAE": [
+      14.0,
+      18.857142857142858,
+      10.125
+    ],
+    "macro_hits": [
+      56,
+      48,
+      57
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_120/rbf_1",
+    "meals": 84,
+    "all_three_within10": 28,
+    "MAE": [
+      11.0,
+      17.285714285714285,
+      10.125
+    ],
+    "macro_hits": [
+      62,
+      51,
+      57
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_120/rbf_10",
+    "meals": 84,
+    "all_three_within10": 30,
+    "MAE": [
+      10.5,
+      16.238095238095237,
+      10.5
+    ],
+    "macro_hits": [
+      63,
+      53,
+      56
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_120/tree1",
+    "meals": 84,
+    "all_three_within10": 27,
+    "MAE": [
+      10.0,
+      14.666666666666666,
+      10.5
+    ],
+    "macro_hits": [
+      64,
+      56,
+      56
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_120/tree4",
+    "meals": 84,
+    "all_three_within10": 24,
+    "MAE": [
+      12.0,
+      15.19047619047619,
+      11.25
+    ],
+    "macro_hits": [
+      60,
+      55,
+      54
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_180/lda",
+    "meals": 84,
+    "all_three_within10": 22,
+    "MAE": [
+      13.0,
+      17.285714285714285,
+      13.125
+    ],
+    "macro_hits": [
+      58,
+      51,
+      49
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_180/linear_0.1",
+    "meals": 84,
+    "all_three_within10": 23,
+    "MAE": [
+      12.0,
+      17.285714285714285,
+      13.125
+    ],
+    "macro_hits": [
+      60,
+      51,
+      49
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_180/rbf_1",
+    "meals": 84,
+    "all_three_within10": 30,
+    "MAE": [
+      9.0,
+      16.238095238095237,
+      12.375
+    ],
+    "macro_hits": [
+      66,
+      53,
+      51
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_180/rbf_10",
+    "meals": 84,
+    "all_three_within10": 34,
+    "MAE": [
+      10.0,
+      15.714285714285714,
+      9.75
+    ],
+    "macro_hits": [
+      64,
+      54,
+      58
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_180/tree1",
+    "meals": 84,
+    "all_three_within10": 29,
+    "MAE": [
+      9.5,
+      15.19047619047619,
+      11.25
+    ],
+    "macro_hits": [
+      65,
+      55,
+      54
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "basic_180/tree4",
+    "meals": 84,
+    "all_three_within10": 28,
+    "MAE": [
+      12.5,
+      14.142857142857142,
+      11.625
+    ],
+    "macro_hits": [
+      59,
+      57,
+      53
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_180/lda",
+    "meals": 84,
+    "all_three_within10": 24,
+    "MAE": [
+      12.5,
+      16.238095238095237,
+      12.375
+    ],
+    "macro_hits": [
+      59,
+      53,
+      51
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_180/linear_0.1",
+    "meals": 84,
+    "all_three_within10": 24,
+    "MAE": [
+      11.5,
+      17.80952380952381,
+      13.125
+    ],
+    "macro_hits": [
+      61,
+      50,
+      49
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_180/rbf_1",
+    "meals": 84,
+    "all_three_within10": 28,
+    "MAE": [
+      9.5,
+      17.285714285714285,
+      12.0
+    ],
+    "macro_hits": [
+      65,
+      51,
+      52
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_180/rbf_10",
+    "meals": 84,
+    "all_three_within10": 29,
+    "MAE": [
+      11.0,
+      19.38095238095238,
+      9.75
+    ],
+    "macro_hits": [
+      62,
+      47,
+      58
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_180/tree1",
+    "meals": 84,
+    "all_three_within10": 26,
+    "MAE": [
+      10.5,
+      16.761904761904763,
+      11.25
+    ],
+    "macro_hits": [
+      63,
+      52,
+      54
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "rich_180/tree4",
+    "meals": 84,
+    "all_three_within10": 28,
+    "MAE": [
+      11.5,
+      13.619047619047619,
+      12.375
+    ],
+    "macro_hits": [
+      61,
+      58,
+      51
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_180/lda",
+    "meals": 84,
+    "all_three_within10": 31,
+    "MAE": [
+      9.5,
+      16.761904761904763,
+      10.875
+    ],
+    "macro_hits": [
+      65,
+      52,
+      55
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_180/linear_0.1",
+    "meals": 84,
+    "all_three_within10": 35,
+    "MAE": [
+      9.0,
+      14.666666666666666,
+      9.0
+    ],
+    "macro_hits": [
+      66,
+      56,
+      60
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_180/rbf_1",
+    "meals": 84,
+    "all_three_within10": 33,
+    "MAE": [
+      8.0,
+      13.619047619047619,
+      12.0
+    ],
+    "macro_hits": [
+      68,
+      58,
+      52
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_180/rbf_10",
+    "meals": 84,
+    "all_three_within10": 34,
+    "MAE": [
+      9.5,
+      13.619047619047619,
+      10.5
+    ],
+    "macro_hits": [
+      65,
+      58,
+      56
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_180/tree1",
+    "meals": 84,
+    "all_three_within10": 35,
+    "MAE": [
+      10.0,
+      12.047619047619047,
+      10.875
+    ],
+    "macro_hits": [
+      64,
+      61,
+      55
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "shape_180/tree4",
+    "meals": 84,
+    "all_three_within10": 33,
+    "MAE": [
+      12.0,
+      13.095238095238095,
+      10.5
+    ],
+    "macro_hits": [
+      60,
+      59,
+      56
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_180/lda",
+    "meals": 84,
+    "all_three_within10": 23,
+    "MAE": [
+      11.5,
+      17.285714285714285,
+      12.75
+    ],
+    "macro_hits": [
+      61,
+      51,
+      50
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_180/linear_0.1",
+    "meals": 84,
+    "all_three_within10": 20,
+    "MAE": [
+      12.0,
+      18.333333333333332,
+      12.75
+    ],
+    "macro_hits": [
+      60,
+      49,
+      50
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_180/rbf_1",
+    "meals": 84,
+    "all_three_within10": 30,
+    "MAE": [
+      9.5,
+      16.238095238095237,
+      11.625
+    ],
+    "macro_hits": [
+      65,
+      53,
+      53
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_180/rbf_10",
+    "meals": 84,
+    "all_three_within10": 35,
+    "MAE": [
+      9.5,
+      14.142857142857142,
+      10.125
+    ],
+    "macro_hits": [
+      65,
+      57,
+      57
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_180/tree1",
+    "meals": 84,
+    "all_three_within10": 30,
+    "MAE": [
+      10.5,
+      12.571428571428571,
+      12.0
+    ],
+    "macro_hits": [
+      63,
+      60,
+      52
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "context_180/tree4",
+    "meals": 84,
+    "all_three_within10": 25,
+    "MAE": [
+      12.0,
+      15.19047619047619,
+      12.0
+    ],
+    "macro_hits": [
+      60,
+      55,
+      52
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal/euclidean_60",
+    "meals": 84,
+    "all_three_within10": 28,
+    "MAE": [
+      13.0,
+      14.142857142857142,
+      12.375
+    ],
+    "macro_hits": [
+      58,
+      57,
+      51
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal/shape_60",
+    "meals": 84,
+    "all_three_within10": 21,
+    "MAE": [
+      16.0,
+      17.285714285714285,
+      10.5
+    ],
+    "macro_hits": [
+      52,
+      51,
+      56
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal/dtw_60",
+    "meals": 84,
+    "all_three_within10": 29,
+    "MAE": [
+      11.5,
+      14.142857142857142,
+      12.0
+    ],
+    "macro_hits": [
+      61,
+      57,
+      52
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal/euclidean_120",
+    "meals": 84,
+    "all_three_within10": 28,
+    "MAE": [
+      13.5,
+      17.80952380952381,
+      10.125
+    ],
+    "macro_hits": [
+      57,
+      50,
+      57
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal/shape_120",
+    "meals": 84,
+    "all_three_within10": 29,
+    "MAE": [
+      13.0,
+      15.714285714285714,
+      10.5
+    ],
+    "macro_hits": [
+      58,
+      54,
+      56
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal/dtw_120",
+    "meals": 84,
+    "all_three_within10": 28,
+    "MAE": [
+      14.0,
+      16.238095238095237,
+      10.875
+    ],
+    "macro_hits": [
+      56,
+      53,
+      55
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal/euclidean_180",
+    "meals": 84,
+    "all_three_within10": 26,
+    "MAE": [
+      15.0,
+      17.285714285714285,
+      10.125
+    ],
+    "macro_hits": [
+      54,
+      51,
+      57
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal/shape_180",
+    "meals": 84,
+    "all_three_within10": 32,
+    "MAE": [
+      11.5,
+      13.619047619047619,
+      9.75
+    ],
+    "macro_hits": [
+      61,
+      58,
+      58
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal/dtw_180",
+    "meals": 84,
+    "all_three_within10": 33,
+    "MAE": [
+      10.5,
+      15.714285714285714,
+      10.125
+    ],
+    "macro_hits": [
+      63,
+      54,
+      57
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "nested_selected",
+    "meals": 84,
+    "all_three_within10": 26,
+    "MAE": [
+      10.0,
+      18.333333333333332,
+      13.125
+    ],
+    "macro_hits": [
+      64,
+      49,
+      49
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "nested_glucose_only",
+    "meals": 84,
+    "all_three_within10": 28,
+    "MAE": [
+      10.5,
+      17.285714285714285,
+      12.0
+    ],
+    "macro_hits": [
+      63,
+      51,
+      52
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "no_sensor_reference",
+    "meals": 84,
+    "all_three_within10": 21,
+    "MAE": [
+      10.5,
+      11.0,
+      7.875
+    ],
+    "macro_hits": [
+      63,
+      63,
+      63
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_60/lda",
+    "meals": 88,
+    "all_three_within10": 26,
+    "MAE": [
+      15.75,
+      12.5,
+      11.096590909090908
+    ],
+    "macro_hits": [
+      55,
+      63,
+      57
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_60/linear_0.1",
+    "meals": 88,
+    "all_three_within10": 22,
+    "MAE": [
+      16.704545454545453,
+      15.0,
+      11.096590909090908
+    ],
+    "macro_hits": [
+      53,
+      58,
+      57
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_60/rbf_1",
+    "meals": 88,
+    "all_three_within10": 28,
+    "MAE": [
+      17.65909090909091,
+      11.5,
+      9.306818181818182
+    ],
+    "macro_hits": [
+      51,
+      65,
+      62
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_60/rbf_10",
+    "meals": 88,
+    "all_three_within10": 31,
+    "MAE": [
+      10.977272727272727,
+      12.5,
+      9.664772727272727
+    ],
+    "macro_hits": [
+      65,
+      63,
+      61
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_60/tree1",
+    "meals": 88,
+    "all_three_within10": 27,
+    "MAE": [
+      13.840909090909092,
+      12.5,
+      10.738636363636363
+    ],
+    "macro_hits": [
+      59,
+      63,
+      58
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_60/tree4",
+    "meals": 88,
+    "all_three_within10": 22,
+    "MAE": [
+      20.522727272727273,
+      12.5,
+      11.454545454545455
+    ],
+    "macro_hits": [
+      45,
+      63,
+      56
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_60/lda",
+    "meals": 88,
+    "all_three_within10": 20,
+    "MAE": [
+      15.75,
+      15.0,
+      12.886363636363637
+    ],
+    "macro_hits": [
+      55,
+      58,
+      52
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_60/linear_0.1",
+    "meals": 88,
+    "all_three_within10": 20,
+    "MAE": [
+      16.227272727272727,
+      15.5,
+      11.454545454545455
+    ],
+    "macro_hits": [
+      54,
+      57,
+      56
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_60/rbf_1",
+    "meals": 88,
+    "all_three_within10": 23,
+    "MAE": [
+      15.272727272727273,
+      14.0,
+      10.380681818181818
+    ],
+    "macro_hits": [
+      56,
+      60,
+      59
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_60/rbf_10",
+    "meals": 88,
+    "all_three_within10": 30,
+    "MAE": [
+      12.886363636363637,
+      13.0,
+      10.022727272727273
+    ],
+    "macro_hits": [
+      61,
+      62,
+      60
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_60/tree1",
+    "meals": 88,
+    "all_three_within10": 26,
+    "MAE": [
+      16.704545454545453,
+      14.5,
+      10.022727272727273
+    ],
+    "macro_hits": [
+      53,
+      59,
+      60
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_60/tree4",
+    "meals": 88,
+    "all_three_within10": 25,
+    "MAE": [
+      17.65909090909091,
+      14.0,
+      9.664772727272727
+    ],
+    "macro_hits": [
+      51,
+      60,
+      61
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_60/lda",
+    "meals": 88,
+    "all_three_within10": 26,
+    "MAE": [
+      14.318181818181818,
+      12.5,
+      12.886363636363637
+    ],
+    "macro_hits": [
+      58,
+      63,
+      52
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_60/linear_0.1",
+    "meals": 88,
+    "all_three_within10": 21,
+    "MAE": [
+      14.318181818181818,
+      11.5,
+      17.181818181818183
+    ],
+    "macro_hits": [
+      58,
+      65,
+      40
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_60/rbf_1",
+    "meals": 88,
+    "all_three_within10": 25,
+    "MAE": [
+      11.931818181818182,
+      13.0,
+      11.8125
+    ],
+    "macro_hits": [
+      63,
+      62,
+      55
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_60/rbf_10",
+    "meals": 88,
+    "all_three_within10": 24,
+    "MAE": [
+      14.795454545454545,
+      14.5,
+      13.244318181818182
+    ],
+    "macro_hits": [
+      57,
+      59,
+      51
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_60/tree1",
+    "meals": 88,
+    "all_three_within10": 23,
+    "MAE": [
+      13.840909090909092,
+      16.5,
+      11.8125
+    ],
+    "macro_hits": [
+      59,
+      55,
+      55
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_60/tree4",
+    "meals": 88,
+    "all_three_within10": 25,
+    "MAE": [
+      13.840909090909092,
+      14.0,
+      13.602272727272727
+    ],
+    "macro_hits": [
+      59,
+      60,
+      50
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_60/lda",
+    "meals": 88,
+    "all_three_within10": 28,
+    "MAE": [
+      13.363636363636363,
+      15.5,
+      10.738636363636363
+    ],
+    "macro_hits": [
+      60,
+      57,
+      58
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_60/linear_0.1",
+    "meals": 88,
+    "all_three_within10": 23,
+    "MAE": [
+      16.704545454545453,
+      15.0,
+      11.454545454545455
+    ],
+    "macro_hits": [
+      53,
+      58,
+      56
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_60/rbf_1",
+    "meals": 88,
+    "all_three_within10": 26,
+    "MAE": [
+      17.181818181818183,
+      14.5,
+      8.948863636363637
+    ],
+    "macro_hits": [
+      52,
+      59,
+      63
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_60/rbf_10",
+    "meals": 88,
+    "all_three_within10": 31,
+    "MAE": [
+      12.409090909090908,
+      17.5,
+      9.306818181818182
+    ],
+    "macro_hits": [
+      62,
+      53,
+      62
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_60/tree1",
+    "meals": 88,
+    "all_three_within10": 27,
+    "MAE": [
+      15.272727272727273,
+      12.0,
+      12.528409090909092
+    ],
+    "macro_hits": [
+      56,
+      64,
+      53
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_60/tree4",
+    "meals": 88,
+    "all_three_within10": 31,
+    "MAE": [
+      14.318181818181818,
+      13.0,
+      10.738636363636363
+    ],
+    "macro_hits": [
+      58,
+      62,
+      58
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_120/lda",
+    "meals": 88,
+    "all_three_within10": 28,
+    "MAE": [
+      14.318181818181818,
+      13.0,
+      12.170454545454545
+    ],
+    "macro_hits": [
+      58,
+      62,
+      54
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_120/linear_0.1",
+    "meals": 88,
+    "all_three_within10": 26,
+    "MAE": [
+      11.454545454545455,
+      14.5,
+      12.886363636363637
+    ],
+    "macro_hits": [
+      64,
+      59,
+      52
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_120/rbf_1",
+    "meals": 88,
+    "all_three_within10": 28,
+    "MAE": [
+      12.886363636363637,
+      11.0,
+      14.676136363636363
+    ],
+    "macro_hits": [
+      61,
+      66,
+      47
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_120/rbf_10",
+    "meals": 88,
+    "all_three_within10": 30,
+    "MAE": [
+      10.977272727272727,
+      13.0,
+      11.454545454545455
+    ],
+    "macro_hits": [
+      65,
+      62,
+      56
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_120/tree1",
+    "meals": 88,
+    "all_three_within10": 25,
+    "MAE": [
+      11.931818181818182,
+      13.5,
+      11.454545454545455
+    ],
+    "macro_hits": [
+      63,
+      61,
+      56
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_120/tree4",
+    "meals": 88,
+    "all_three_within10": 23,
+    "MAE": [
+      14.795454545454545,
+      12.5,
+      13.244318181818182
+    ],
+    "macro_hits": [
+      57,
+      63,
+      51
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_120/lda",
+    "meals": 88,
+    "all_three_within10": 27,
+    "MAE": [
+      15.272727272727273,
+      12.5,
+      10.738636363636363
+    ],
+    "macro_hits": [
+      56,
+      63,
+      58
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_120/linear_0.1",
+    "meals": 88,
+    "all_three_within10": 23,
+    "MAE": [
+      11.454545454545455,
+      13.5,
+      12.528409090909092
+    ],
+    "macro_hits": [
+      64,
+      61,
+      53
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_120/rbf_1",
+    "meals": 88,
+    "all_three_within10": 28,
+    "MAE": [
+      10.5,
+      11.5,
+      15.75
+    ],
+    "macro_hits": [
+      66,
+      65,
+      44
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_120/rbf_10",
+    "meals": 88,
+    "all_three_within10": 27,
+    "MAE": [
+      11.454545454545455,
+      13.0,
+      12.886363636363637
+    ],
+    "macro_hits": [
+      64,
+      62,
+      52
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_120/tree1",
+    "meals": 88,
+    "all_three_within10": 28,
+    "MAE": [
+      11.454545454545455,
+      12.0,
+      11.454545454545455
+    ],
+    "macro_hits": [
+      64,
+      64,
+      56
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_120/tree4",
+    "meals": 88,
+    "all_three_within10": 31,
+    "MAE": [
+      12.886363636363637,
+      13.0,
+      10.380681818181818
+    ],
+    "macro_hits": [
+      61,
+      62,
+      59
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_120/lda",
+    "meals": 88,
+    "all_three_within10": 31,
+    "MAE": [
+      10.977272727272727,
+      14.0,
+      10.022727272727273
+    ],
+    "macro_hits": [
+      65,
+      60,
+      60
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_120/linear_0.1",
+    "meals": 88,
+    "all_three_within10": 29,
+    "MAE": [
+      12.409090909090908,
+      13.5,
+      8.590909090909092
+    ],
+    "macro_hits": [
+      62,
+      61,
+      64
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_120/rbf_1",
+    "meals": 88,
+    "all_three_within10": 29,
+    "MAE": [
+      10.977272727272727,
+      11.0,
+      11.8125
+    ],
+    "macro_hits": [
+      65,
+      66,
+      55
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_120/rbf_10",
+    "meals": 88,
+    "all_three_within10": 22,
+    "MAE": [
+      10.5,
+      17.0,
+      13.960227272727273
+    ],
+    "macro_hits": [
+      66,
+      54,
+      49
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_120/tree1",
+    "meals": 88,
+    "all_three_within10": 27,
+    "MAE": [
+      12.409090909090908,
+      15.0,
+      11.8125
+    ],
+    "macro_hits": [
+      62,
+      58,
+      55
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_120/tree4",
+    "meals": 88,
+    "all_three_within10": 26,
+    "MAE": [
+      12.409090909090908,
+      15.0,
+      11.454545454545455
+    ],
+    "macro_hits": [
+      62,
+      58,
+      56
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_120/lda",
+    "meals": 88,
+    "all_three_within10": 28,
+    "MAE": [
+      14.318181818181818,
+      14.0,
+      10.738636363636363
+    ],
+    "macro_hits": [
+      58,
+      60,
+      58
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_120/linear_0.1",
+    "meals": 88,
+    "all_three_within10": 26,
+    "MAE": [
+      10.022727272727273,
+      16.0,
+      11.454545454545455
+    ],
+    "macro_hits": [
+      67,
+      56,
+      56
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_120/rbf_1",
+    "meals": 88,
+    "all_three_within10": 30,
+    "MAE": [
+      11.454545454545455,
+      12.5,
+      13.960227272727273
+    ],
+    "macro_hits": [
+      64,
+      63,
+      49
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_120/rbf_10",
+    "meals": 88,
+    "all_three_within10": 35,
+    "MAE": [
+      8.590909090909092,
+      14.5,
+      11.096590909090908
+    ],
+    "macro_hits": [
+      70,
+      59,
+      57
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_120/tree1",
+    "meals": 88,
+    "all_three_within10": 31,
+    "MAE": [
+      10.022727272727273,
+      13.0,
+      11.454545454545455
+    ],
+    "macro_hits": [
+      67,
+      62,
+      56
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_120/tree4",
+    "meals": 88,
+    "all_three_within10": 24,
+    "MAE": [
+      12.886363636363637,
+      12.5,
+      12.528409090909092
+    ],
+    "macro_hits": [
+      61,
+      63,
+      53
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_180/lda",
+    "meals": 88,
+    "all_three_within10": 34,
+    "MAE": [
+      13.363636363636363,
+      13.5,
+      10.738636363636363
+    ],
+    "macro_hits": [
+      60,
+      61,
+      58
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_180/linear_0.1",
+    "meals": 88,
+    "all_three_within10": 36,
+    "MAE": [
+      10.977272727272727,
+      11.5,
+      11.8125
+    ],
+    "macro_hits": [
+      65,
+      65,
+      55
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_180/rbf_1",
+    "meals": 88,
+    "all_three_within10": 35,
+    "MAE": [
+      12.886363636363637,
+      14.5,
+      10.380681818181818
+    ],
+    "macro_hits": [
+      61,
+      59,
+      59
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_180/rbf_10",
+    "meals": 88,
+    "all_three_within10": 37,
+    "MAE": [
+      11.931818181818182,
+      11.5,
+      10.738636363636363
+    ],
+    "macro_hits": [
+      63,
+      65,
+      58
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_180/tree1",
+    "meals": 88,
+    "all_three_within10": 33,
+    "MAE": [
+      11.454545454545455,
+      14.0,
+      11.8125
+    ],
+    "macro_hits": [
+      64,
+      60,
+      55
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "basic_180/tree4",
+    "meals": 88,
+    "all_three_within10": 29,
+    "MAE": [
+      13.840909090909092,
+      14.5,
+      11.8125
+    ],
+    "macro_hits": [
+      59,
+      59,
+      55
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_180/lda",
+    "meals": 88,
+    "all_three_within10": 25,
+    "MAE": [
+      13.363636363636363,
+      15.5,
+      13.602272727272727
+    ],
+    "macro_hits": [
+      60,
+      57,
+      50
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_180/linear_0.1",
+    "meals": 88,
+    "all_three_within10": 27,
+    "MAE": [
+      12.886363636363637,
+      15.0,
+      12.170454545454545
+    ],
+    "macro_hits": [
+      61,
+      58,
+      54
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_180/rbf_1",
+    "meals": 88,
+    "all_three_within10": 41,
+    "MAE": [
+      11.454545454545455,
+      11.0,
+      10.022727272727273
+    ],
+    "macro_hits": [
+      64,
+      66,
+      60
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_180/rbf_10",
+    "meals": 88,
+    "all_three_within10": 37,
+    "MAE": [
+      11.454545454545455,
+      12.0,
+      10.380681818181818
+    ],
+    "macro_hits": [
+      64,
+      64,
+      59
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_180/tree1",
+    "meals": 88,
+    "all_three_within10": 36,
+    "MAE": [
+      10.5,
+      14.0,
+      10.738636363636363
+    ],
+    "macro_hits": [
+      66,
+      60,
+      58
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "rich_180/tree4",
+    "meals": 88,
+    "all_three_within10": 38,
+    "MAE": [
+      10.977272727272727,
+      11.5,
+      10.022727272727273
+    ],
+    "macro_hits": [
+      65,
+      65,
+      60
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_180/lda",
+    "meals": 88,
+    "all_three_within10": 31,
+    "MAE": [
+      10.5,
+      15.5,
+      10.380681818181818
+    ],
+    "macro_hits": [
+      66,
+      57,
+      59
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_180/linear_0.1",
+    "meals": 88,
+    "all_three_within10": 27,
+    "MAE": [
+      13.363636363636363,
+      14.0,
+      11.096590909090908
+    ],
+    "macro_hits": [
+      60,
+      60,
+      57
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_180/rbf_1",
+    "meals": 88,
+    "all_three_within10": 32,
+    "MAE": [
+      12.409090909090908,
+      12.5,
+      10.380681818181818
+    ],
+    "macro_hits": [
+      62,
+      63,
+      59
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_180/rbf_10",
+    "meals": 88,
+    "all_three_within10": 25,
+    "MAE": [
+      12.886363636363637,
+      15.0,
+      13.960227272727273
+    ],
+    "macro_hits": [
+      61,
+      58,
+      49
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_180/tree1",
+    "meals": 88,
+    "all_three_within10": 25,
+    "MAE": [
+      13.363636363636363,
+      15.0,
+      13.602272727272727
+    ],
+    "macro_hits": [
+      60,
+      58,
+      50
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "shape_180/tree4",
+    "meals": 88,
+    "all_three_within10": 23,
+    "MAE": [
+      16.227272727272727,
+      15.5,
+      12.170454545454545
+    ],
+    "macro_hits": [
+      54,
+      57,
+      54
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_180/lda",
+    "meals": 88,
+    "all_three_within10": 32,
+    "MAE": [
+      10.977272727272727,
+      17.5,
+      11.454545454545455
+    ],
+    "macro_hits": [
+      65,
+      53,
+      56
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_180/linear_0.1",
+    "meals": 88,
+    "all_three_within10": 34,
+    "MAE": [
+      9.545454545454545,
+      16.5,
+      10.738636363636363
+    ],
+    "macro_hits": [
+      68,
+      55,
+      58
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_180/rbf_1",
+    "meals": 88,
+    "all_three_within10": 40,
+    "MAE": [
+      10.977272727272727,
+      10.5,
+      11.096590909090908
+    ],
+    "macro_hits": [
+      65,
+      67,
+      57
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_180/rbf_10",
+    "meals": 88,
+    "all_three_within10": 40,
+    "MAE": [
+      9.068181818181818,
+      10.5,
+      11.454545454545455
+    ],
+    "macro_hits": [
+      69,
+      67,
+      56
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_180/tree1",
+    "meals": 88,
+    "all_three_within10": 35,
+    "MAE": [
+      11.454545454545455,
+      12.0,
+      11.096590909090908
+    ],
+    "macro_hits": [
+      64,
+      64,
+      57
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "context_180/tree4",
+    "meals": 88,
+    "all_three_within10": 33,
+    "MAE": [
+      12.886363636363637,
+      12.0,
+      11.096590909090908
+    ],
+    "macro_hits": [
+      61,
+      64,
+      57
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal/euclidean_60",
+    "meals": 88,
+    "all_three_within10": 23,
+    "MAE": [
+      16.227272727272727,
+      17.5,
+      12.886363636363637
+    ],
+    "macro_hits": [
+      54,
+      53,
+      52
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal/shape_60",
+    "meals": 88,
+    "all_three_within10": 21,
+    "MAE": [
+      17.181818181818183,
+      18.0,
+      11.8125
+    ],
+    "macro_hits": [
+      52,
+      52,
+      55
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal/dtw_60",
+    "meals": 88,
+    "all_three_within10": 24,
+    "MAE": [
+      15.272727272727273,
+      17.0,
+      13.244318181818182
+    ],
+    "macro_hits": [
+      56,
+      54,
+      51
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal/euclidean_120",
+    "meals": 88,
+    "all_three_within10": 29,
+    "MAE": [
+      13.363636363636363,
+      19.0,
+      9.306818181818182
+    ],
+    "macro_hits": [
+      60,
+      50,
+      62
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal/shape_120",
+    "meals": 88,
+    "all_three_within10": 33,
+    "MAE": [
+      11.931818181818182,
+      15.0,
+      8.948863636363637
+    ],
+    "macro_hits": [
+      63,
+      58,
+      63
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal/dtw_120",
+    "meals": 88,
+    "all_three_within10": 30,
+    "MAE": [
+      13.840909090909092,
+      18.0,
+      9.306818181818182
+    ],
+    "macro_hits": [
+      59,
+      52,
+      62
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal/euclidean_180",
+    "meals": 88,
+    "all_three_within10": 28,
+    "MAE": [
+      14.318181818181818,
+      19.0,
+      9.306818181818182
+    ],
+    "macro_hits": [
+      58,
+      50,
+      62
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal/shape_180",
+    "meals": 88,
+    "all_three_within10": 30,
+    "MAE": [
+      11.931818181818182,
+      15.5,
+      9.306818181818182
+    ],
+    "macro_hits": [
+      63,
+      57,
+      62
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal/dtw_180",
+    "meals": 88,
+    "all_three_within10": 26,
+    "MAE": [
+      14.318181818181818,
+      18.0,
+      10.022727272727273
+    ],
+    "macro_hits": [
+      58,
+      52,
+      60
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "nested_selected",
+    "meals": 88,
+    "all_three_within10": 42,
+    "MAE": [
+      10.022727272727273,
+      9.0,
+      10.022727272727273
+    ],
+    "macro_hits": [
+      67,
+      70,
+      60
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "nested_glucose_only",
+    "meals": 88,
+    "all_three_within10": 35,
+    "MAE": [
+      10.022727272727273,
+      12.0,
+      11.8125
+    ],
+    "macro_hits": [
+      67,
+      64,
+      55
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "no_sensor_reference",
+    "meals": 88,
+    "all_three_within10": 22,
+    "MAE": [
+      10.5,
+      11.0,
+      7.875
+    ],
+    "macro_hits": [
+      66,
+      66,
+      66
+    ]
+  }
+]

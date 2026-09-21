@@ -1,0 +1,7 @@
+{
+  "candidate_meals": 843,
+  "participants": 35,
+  "high_carb_at_least120": 8,
+  "high_carb_fat_protein": 2,
+  "status": "Candidate inventory only; 4h sensor coverage and row-level temporal split not yet fully audited; excludes evaluation people at/after first later-day cutoff"
+}

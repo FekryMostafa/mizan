@@ -1,0 +1,9 @@
+{
+  "arm": "known_composition",
+  "kind": "kernel",
+  "reg": 1000.0,
+  "n": 29,
+  "hits": 10,
+  "mape": 23.98621516376816,
+  "mae": 43.14119495684639
+}

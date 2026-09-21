@@ -1,0 +1,21 @@
+{
+  "observed": {
+    "n": 44,
+    "hits": 16,
+    "mape": 18.395123712408274,
+    "mae": 38.09514337393056
+  },
+  "personal_mean": {
+    "n": 44,
+    "hits": 14,
+    "mape": 20.57518464093853,
+    "mae": 39.653030303030306
+  },
+  "shuffled_mape_median": 21.814302678891217,
+  "shuffled_mape_min": 18.360573796744468,
+  "shuffled_mape_max": 25.20383397869525,
+  "shuffled_at_least_as_good": 1,
+  "n_controls": 100,
+  "reference_reproduced": true,
+  "all44": true
+}

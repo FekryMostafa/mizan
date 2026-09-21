@@ -1,0 +1,36 @@
+{
+  "status": "not achieved",
+  "joint_unfamiliar_results": [
+    {
+      "method": "fixed_kernel",
+      "unfamiliar_meals": 48,
+      "joint_hits": 0
+    },
+    {
+      "method": "rolling_kernel",
+      "unfamiliar_meals": 48,
+      "joint_hits": 0
+    },
+    {
+      "method": "rolling_median",
+      "unfamiliar_meals": 48,
+      "joint_hits": 0
+    },
+    {
+      "method": "rolling_nearest",
+      "unfamiliar_meals": 48,
+      "joint_hits": 0
+    }
+  ],
+  "pooled_predictions_rechecked": 474,
+  "eligible_repeated_calibration_dose_pairs": 106,
+  "later_queries_after_two_per_dose": 0,
+  "remaining_requirements": [
+    "Individually accurate carbohydrate, fat and protein converters",
+    "Simultaneous accuracy on the same unseen meals",
+    "A frozen pipeline validated on untouched data",
+    "Additional repetitions to test repeated-personal calibration"
+  ],
+  "limitation": "This is a failure of demonstrated feasibility, not proof of impossibility. Existing developer-selected cohorts and logged meal references do not establish true-intake accuracy.",
+  "blocker": "No evidence-supported pipeline meets the target; testing the next repeated-dose calibration hypothesis requires additional independent records."
+}

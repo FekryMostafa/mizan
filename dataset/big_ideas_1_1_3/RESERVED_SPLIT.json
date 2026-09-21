@@ -1,0 +1,25 @@
+{
+  "source": "https://physionet.org/content/big-ideas-glycemic-wearable/1.1.3/",
+  "created_utc": "2026-09-08T04:39:16.769306+00:00",
+  "development_participants": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "reserved_participants": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "rule": "Do not inspect reserved participant meal values, traces or model outcomes until preprocessing and model protocol have been frozen using development data. Download and checksum verification do not expose labels. A final test is one-time; do not reuse it as untouched after evaluation."
+}

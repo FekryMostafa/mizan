@@ -1,0 +1,35 @@
+{
+  "reference": {
+    "n": 44,
+    "hits": 16,
+    "mape": 18.395123712408274,
+    "mae": 38.09514337393056
+  },
+  "sensitivity": {
+    "n": 44,
+    "hits": 16,
+    "mape": 18.529648375190455,
+    "mae": 37.71122210739113
+  },
+  "p27": [
+    {
+      "pid": 27,
+      "day": "2024-06-17",
+      "actual": 204.0,
+      "reference": 166.08448573968676,
+      "added_day": 198.18533200455
+    },
+    {
+      "pid": 27,
+      "day": "2024-06-18",
+      "actual": 133.0,
+      "reference": 172.67188272185496,
+      "added_day": 210.82294544901902
+    }
+  ],
+  "training_days": 65,
+  "all44": true,
+  "reextraction_checked_rows": 6,
+  "source_unchanged": true,
+  "query_labels_unused": true
+}

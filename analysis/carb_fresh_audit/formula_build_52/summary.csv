@@ -1,0 +1,31 @@
+step,stage,terms,rank,hits,mae
+0,previous_20_formula_unchanged,14,,24,18.098438555221623
+1,same_14_terms_refit_on_52,14,15.0,11,12.593080150377109
+2,add_pre24_activity,15,16.0,15,11.859480609814945
+3,add_personal_area_0_60,16,17.0,17,10.785679183905424
+4,add_pre24_glucose,17,18.0,14,10.920821320613705
+5,add_pre1_glucose,18,19.0,16,10.280943386167905
+6,add_early_hr,19,20.0,18,10.2037280872518
+7,add_pre1_hr_coverage,20,21.0,18,9.588065035227954
+8,add_pre24_activity_coverage,21,22.0,21,8.87360029863959
+9,add_personal_peak,22,23.0,21,8.71013293135152
+10,add_baseline_difference,23,24.0,18,8.6077986905585
+11,add_early_hr_coverage,24,25.0,22,8.09837387766677
+12,add_late_hr,25,26.0,23,8.088962332372706
+13,add_pre6_activity,26,27.0,20,8.139753302571599
+14,add_pre6_hr,27,28.0,21,7.880288698152981
+15,add_late_glucose,28,29.0,23,7.7799614100873375
+16,add_pre6_glucose,29,30.0,20,7.804955400629539
+17,add_early_glucose,30,31.0,20,7.838143400570671
+18,add_middle_glucose,31,32.0,21,7.786718342355678
+19,add_pre1_hr,32,33.0,20,7.813235635422843
+20,add_personal_area_120_180,33,34.0,21,7.775237136823197
+21,add_prior_food_review,34,35.0,20,7.751417323821347
+22,add_personal_peak_time,35,36.0,20,7.780799163199417
+23,add_personal_area_60_120 * shape_start,36,37.0,28,5.379423332497525
+24,add_baseline_difference * pre24_glucose,37,38.0,29,4.555785473727549
+25,add_personal_peak_time * baseline_difference,38,39.0,40,3.000337501336462
+26,add_shape_minimum * pre1_hr,39,40.0,41,2.098905365971961
+27,add_personal_peak_time * shape_minimum,40,41.0,47,1.4743089200168151
+28,add_shape_minimum * late_activity,41,42.0,49,0.9533834447838008
+29,add_pre1_activity * late_hr,42,43.0,52,0.7129723678911521

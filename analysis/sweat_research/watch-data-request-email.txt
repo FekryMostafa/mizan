@@ -1,0 +1,8 @@
+Subject: Data request for your 2021 WATCH sweat study
+
+Hi Professor Prasad,
+
+I’m a software and AI engineer in New Orleans exploring a startup around estimating food intake from sweat, with a few measured meals for personal calibration. I read your 2021 WATCH study and searched the supplements and public repositories, but couldn’t find the participant-level sweat measurements paired with food intake. Could you share the de-identified glucose/cortisol time series, meal times and recorded macronutrient amounts with participant IDs, or point me to an existing download and its permitted uses?
+
+Thank you,
+Fekry

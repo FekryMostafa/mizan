@@ -1,0 +1,80 @@
+[
+  {
+    "sensor": "Libre GL",
+    "mode": "all_inputs",
+    "frozen_method": "rich_180/rbf_1",
+    "people": 10,
+    "meals": 19,
+    "all_three_within10": 11,
+    "MAE": [
+      6.631578947368421,
+      11.578947368421053,
+      8.289473684210526
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "mode": "glucose_only",
+    "frozen_method": "rich_180/rbf_1",
+    "people": 10,
+    "meals": 19,
+    "all_three_within10": 11,
+    "MAE": [
+      6.631578947368421,
+      11.578947368421053,
+      8.289473684210526
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "mode": "no_sensor",
+    "frozen_method": "reference",
+    "people": 10,
+    "meals": 19,
+    "all_three_within10": 4,
+    "MAE": [
+      13.263157894736842,
+      6.947368421052632,
+      9.947368421052632
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "mode": "all_inputs",
+    "frozen_method": "shape_180/linear_0.1",
+    "people": 10,
+    "meals": 20,
+    "all_three_within10": 5,
+    "MAE": [
+      16.8,
+      13.2,
+      14.175
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "mode": "glucose_only",
+    "frozen_method": "shape_180/linear_0.1",
+    "people": 10,
+    "meals": 20,
+    "all_three_within10": 5,
+    "MAE": [
+      16.8,
+      13.2,
+      14.175
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "mode": "no_sensor",
+    "frozen_method": "reference",
+    "people": 10,
+    "meals": 20,
+    "all_three_within10": 4,
+    "MAE": [
+      14.7,
+      8.8,
+      7.875
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+sheet,meal,n_timepoints,first_second,last_second,max_step_seconds,ATP_points,sweat_rate_points,pH_voltage_header
+4e,Fasting,3301,1.0,3301.0,1.0,5,16,Voltage (mV)
+4f,Bacon and eggs,3436,1.0,3436.0,1.0,5,16,Voltage (V)
+4g,Pizza,3434,1.0,3434.0,1.0,5,15,Voltage (mV)
+4h,Ground beef,3335,1.0,3335.0,1.0,5,18,Voltage (mV)
+4i,Milkshake,3423,1.0,3423.0,1.0,5,16,Voltage (mV)

@@ -1,0 +1,242 @@
+{
+  "event_count": 1706,
+  "meal_types": {
+    "dinner": 492,
+    "breakfast": 436,
+    "lunch": 435,
+    "snack": 304,
+    "snacks": 38,
+    "snack 1": 1
+  },
+  "amount_consumed_counts": {
+    "100.0": 1120,
+    "1.0": 207,
+    "missing": 64,
+    "300.0": 42,
+    "200.0": 39,
+    "0.0": 39,
+    "2.0": 35,
+    "3.0": 30,
+    "75.0": 29,
+    "400.0": 21,
+    "4.0": 15,
+    "600.0": 13,
+    "500.0": 11,
+    "50.0": 8,
+    "5.0": 8,
+    "6.0": 5,
+    "60.0": 4,
+    "9.0": 2,
+    "700.0": 2,
+    "70.0": 2,
+    "90.0": 2,
+    "80.0": 1,
+    "0.75": 1,
+    "7.0": 1,
+    "8.0": 1,
+    "150.0": 1,
+    "375.0": 1,
+    "25.0": 1,
+    "900.0": 1
+  },
+  "macro_ranges": {
+    "Carbs": {
+      "min": 0.0,
+      "max": 761.0
+    },
+    "Protein": {
+      "min": 0.0,
+      "max": 148.0
+    },
+    "Fat": {
+      "min": 0.0,
+      "max": 508.0
+    },
+    "Fiber": {
+      "min": 0.0,
+      "max": 2830.0
+    }
+  },
+  "calorie_mismatch_over20percent": 106,
+  "matched_recipe_counts_all": {
+    "protein_high": 89,
+    "fat_high": 89,
+    "carb_low": 89,
+    "reference": 87,
+    "fat_protein_high": 44,
+    "fiber_high": 38
+  },
+  "matched_recipe_counts_100percent": {
+    "protein_high": 69,
+    "fat_high": 69,
+    "carb_low": 69,
+    "reference": 68,
+    "fat_protein_high": 35,
+    "fiber_high": 28
+  },
+  "contrasts": [
+    {
+      "sensor": "Libre GL",
+      "contrast": "Carbs: 24 \u2192 66 g",
+      "paired_people": 33,
+      "usable_low_events": 62,
+      "usable_high_events": 66,
+      "Libre GL_mean180_median_difference": 23.573240740740747,
+      "Libre GL_mean180_positive_people": 32,
+      "Libre GL_peak180_median_difference": 35.60000000000001,
+      "Libre GL_peak180_positive_people": 32,
+      "Libre GL_peak_time180_median_difference": 16.0,
+      "Libre GL_peak_time180_positive_people": 28,
+      "Libre GL_tail180_median_difference": 16.03666666666667,
+      "Libre GL_tail180_positive_people": 26,
+      "Libre GL_mean0base180_median_difference": 23.8787962962963,
+      "Libre GL_mean0base180_positive_people": 30,
+      "Libre GL_base_median_difference": 0.06666666666667709,
+      "Libre GL_base_positive_people": 17,
+      "Libre GL_slope30_median_difference": 0.012643678160919325,
+      "Libre GL_slope30_positive_people": 18
+    },
+    {
+      "sensor": "Libre GL",
+      "contrast": "Protein: 22 \u2192 66 g",
+      "paired_people": 34,
+      "usable_low_events": 66,
+      "usable_high_events": 63,
+      "Libre GL_mean180_median_difference": -14.745648148148144,
+      "Libre GL_mean180_positive_people": 4,
+      "Libre GL_peak180_median_difference": -22.141666666666676,
+      "Libre GL_peak180_positive_people": 3,
+      "Libre GL_peak_time180_median_difference": -3.0,
+      "Libre GL_peak_time180_positive_people": 12,
+      "Libre GL_tail180_median_difference": -3.9804166666666703,
+      "Libre GL_tail180_positive_people": 12,
+      "Libre GL_mean0base180_median_difference": -13.843379629629634,
+      "Libre GL_mean0base180_positive_people": 5,
+      "Libre GL_base_median_difference": 2.0833333333333286,
+      "Libre GL_base_positive_people": 20,
+      "Libre GL_slope30_median_difference": 0.051724137931034475,
+      "Libre GL_slope30_positive_people": 18
+    },
+    {
+      "sensor": "Libre GL",
+      "contrast": "Fat: 10.5 \u2192 42 g",
+      "paired_people": 33,
+      "usable_low_events": 66,
+      "usable_high_events": 63,
+      "Libre GL_mean180_median_difference": -5.3107407407407266,
+      "Libre GL_mean180_positive_people": 12,
+      "Libre GL_peak180_median_difference": -11.483333333333334,
+      "Libre GL_peak180_positive_people": 8,
+      "Libre GL_peak_time180_median_difference": 10.5,
+      "Libre GL_peak_time180_positive_people": 22,
+      "Libre GL_tail180_median_difference": 3.961111111111113,
+      "Libre GL_tail180_positive_people": 18,
+      "Libre GL_mean0base180_median_difference": -4.734907407407434,
+      "Libre GL_mean0base180_positive_people": 13,
+      "Libre GL_base_median_difference": -1.7166666666666686,
+      "Libre GL_base_positive_people": 15,
+      "Libre GL_slope30_median_difference": 0.018390804597700094,
+      "Libre GL_slope30_positive_people": 19
+    },
+    {
+      "sensor": "Dexcom GL",
+      "contrast": "Carbs: 24 \u2192 66 g",
+      "paired_people": 32,
+      "usable_low_events": 61,
+      "usable_high_events": 65,
+      "Dexcom GL_mean180_median_difference": 30.367777777777782,
+      "Dexcom GL_mean180_positive_people": 29,
+      "Dexcom GL_peak180_median_difference": 39.3,
+      "Dexcom GL_peak180_positive_people": 29,
+      "Dexcom GL_peak_time180_median_difference": 15.75,
+      "Dexcom GL_peak_time180_positive_people": 24,
+      "Dexcom GL_tail180_median_difference": 26.30041666666667,
+      "Dexcom GL_tail180_positive_people": 29,
+      "Dexcom GL_mean0base180_median_difference": 30.363750000000003,
+      "Dexcom GL_mean0base180_positive_people": 30,
+      "Dexcom GL_base_median_difference": -0.375,
+      "Dexcom GL_base_positive_people": 15,
+      "Dexcom GL_slope30_median_difference": 3.469446951953614e-18,
+      "Dexcom GL_slope30_positive_people": 16
+    },
+    {
+      "sensor": "Dexcom GL",
+      "contrast": "Protein: 22 \u2192 66 g",
+      "paired_people": 34,
+      "usable_low_events": 65,
+      "usable_high_events": 63,
+      "Dexcom GL_mean180_median_difference": -15.093611111111112,
+      "Dexcom GL_mean180_positive_people": 4,
+      "Dexcom GL_peak180_median_difference": -32.09999999999999,
+      "Dexcom GL_peak180_positive_people": 2,
+      "Dexcom GL_peak_time180_median_difference": -9.75,
+      "Dexcom GL_peak_time180_positive_people": 12,
+      "Dexcom GL_tail180_median_difference": -6.231666666666668,
+      "Dexcom GL_tail180_positive_people": 12,
+      "Dexcom GL_mean0base180_median_difference": -14.99361111111111,
+      "Dexcom GL_mean0base180_positive_people": 4,
+      "Dexcom GL_base_median_difference": 0.04999999999999005,
+      "Dexcom GL_base_positive_people": 17,
+      "Dexcom GL_slope30_median_difference": -0.048275862068965475,
+      "Dexcom GL_slope30_positive_people": 15
+    },
+    {
+      "sensor": "Dexcom GL",
+      "contrast": "Fat: 10.5 \u2192 42 g",
+      "paired_people": 33,
+      "usable_low_events": 65,
+      "usable_high_events": 61,
+      "Dexcom GL_mean180_median_difference": -5.486666666666665,
+      "Dexcom GL_mean180_positive_people": 10,
+      "Dexcom GL_peak180_median_difference": -16.55000000000001,
+      "Dexcom GL_peak180_positive_people": 7,
+      "Dexcom GL_peak_time180_median_difference": 11.0,
+      "Dexcom GL_peak_time180_positive_people": 26,
+      "Dexcom GL_tail180_median_difference": 2.739166666666648,
+      "Dexcom GL_tail180_positive_people": 17,
+      "Dexcom GL_mean0base180_median_difference": -5.3447222222222095,
+      "Dexcom GL_mean0base180_positive_people": 11,
+      "Dexcom GL_base_median_difference": -0.6500000000000057,
+      "Dexcom GL_base_positive_people": 16,
+      "Dexcom GL_slope30_median_difference": 0.05172413793103424,
+      "Dexcom GL_slope30_positive_people": 18
+    }
+  ],
+  "sensor_agreement": {
+    "mean180": {
+      "n": 1063,
+      "pearson": 0.8726677232457599,
+      "median_abs_difference": 7.7627777777777816
+    },
+    "peak180": {
+      "n": 1063,
+      "pearson": 0.910184439651919,
+      "median_abs_difference": 12.633333333333326
+    },
+    "peak_time180": {
+      "n": 1063,
+      "pearson": 0.609684619405161,
+      "median_abs_difference": 12.0
+    }
+  },
+  "next_logged_food_within_minutes": {
+    "30": 103,
+    "60": 168,
+    "120": 251,
+    "180": 349,
+    "300": 913
+  },
+  "late_missing_or_overlapping": {
+    "Libre GL": 1114,
+    "Dexcom GL": 1150
+  },
+  "median_participant_sensor_offset": 33.53333333333332,
+  "activity_header_counts": {
+    "METs": 34,
+    "Intensity": 11
+  },
+  "both_activity_HR_low_missing": 27,
+  "total_timestamp_gaps": 1155,
+  "collision_count_RMSE_under5": 7,
+  "no_model_trained": true
+}

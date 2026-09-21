@@ -1,0 +1,20 @@
+{
+  "representation": "37 baseline-relative Libre readings at 5-minute spacing, 0\u2013180 minutes; baseline mean at -10/-5 min. These are published interpolated observations, not independent native samples.",
+  "weights": [
+    0.0,
+    0.25,
+    1.0
+  ],
+  "warp_bins": [
+    0,
+    3,
+    6
+  ],
+  "k": [
+    1,
+    3
+  ],
+  "distance": "Shape is curve divided by its RMS. Mixture combines shape and raw-amplitude squared differences scaled by median earlier personal curve RMS. Constrained dynamic time warping up to 0/15/30 minutes.",
+  "selection": "Earlier rolling windows only; equal dose-band hit rate then MAE with inverse repeat weights. All matched examples are earlier meals of the same person, including initial anchors.",
+  "limitation": "Copying/averaging historical labels cannot extrapolate past their range; this tests representation, not the full goal by itself."
+}

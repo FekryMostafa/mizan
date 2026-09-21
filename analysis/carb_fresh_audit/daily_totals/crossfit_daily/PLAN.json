@@ -1,0 +1,7 @@
+{
+  "target": "Same 44 later daily carb totals with next-morning sensor availability",
+  "training": "64 earlier days, sensor-only shared forest. No carbohydrate mean in model input. Personal additive offset is mean known-label minus out-of-bag prediction.",
+  "selection": "Same purged 29 earlier validation days, minimum MAPE then MAE. RandomForest/ExtraTrees, glucose/context, leaf2/5, offset multiplier 0/.5/1; 200 bootstrap trees, fixed seed.",
+  "controls": "Personal intake mean baseline; verify every OOB prediction has voters excluding that row; mutate a training answer and verify its own OOB prediction is unchanged.",
+  "limitations": "OOB is calibration cross-fitting, not chronological evaluation. Later evaluation is chronological. Reused development cohort, not prospective proof."
+}

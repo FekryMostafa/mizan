@@ -1,0 +1,54 @@
+[
+  {
+    "macro": "Fat",
+    "calibration_repeats": 1,
+    "people": 2,
+    "queries": 8,
+    "hits": 0,
+    "MAE": 7.221230214717772,
+    "positive_dose_queries": 5,
+    "positive_dose_hits": 0,
+    "positive_dose_MAE": 8.770825843235531,
+    "control_queries": 3,
+    "control_hits": 0
+  },
+  {
+    "macro": "Fat",
+    "calibration_repeats": 2,
+    "people": 2,
+    "queries": 8,
+    "hits": 0,
+    "MAE": 6.450582655408755,
+    "positive_dose_queries": 5,
+    "positive_dose_hits": 0,
+    "positive_dose_MAE": 9.522745206115852,
+    "control_queries": 3,
+    "control_hits": 0
+  },
+  {
+    "macro": "Protein",
+    "calibration_repeats": 1,
+    "people": 2,
+    "queries": 8,
+    "hits": 0,
+    "MAE": 4.583973038314878,
+    "positive_dose_queries": 5,
+    "positive_dose_hits": 0,
+    "positive_dose_MAE": 4.486591600937709,
+    "control_queries": 3,
+    "control_hits": 0
+  },
+  {
+    "macro": "Protein",
+    "calibration_repeats": 2,
+    "people": 2,
+    "queries": 8,
+    "hits": 2,
+    "MAE": 4.627019261122862,
+    "positive_dose_queries": 5,
+    "positive_dose_hits": 1,
+    "positive_dose_MAE": 4.42332983064726,
+    "control_queries": 3,
+    "control_hits": 1
+  }
+]

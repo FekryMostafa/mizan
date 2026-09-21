@@ -1,0 +1,4 @@
+dataset,pid,i,j,time_a,time_b,curve_rmse,peak_difference,peak_time_difference,exact_macro_repeat,Carbs_a,Carbs_b,Carbs_disjoint10,Protein_a,Protein_b,Protein_disjoint10,Fat_a,Fat_b,Fat_disjoint10
+BIG_IDEAs_development,6,698,697,2020-03-04T08:25:00,2020-03-02T22:00:00,43.22252568375048,2.373737541528243,60.0,False,56.5,226.0,True,8.0,31.0,True,2.5,31.1,True
+BIG_IDEAs_development,6,704,697,2020-03-05T23:30:00,2020-03-02T22:00:00,26.602912279416607,5.640273651188721,80.0,False,228.0,226.0,False,56.0,31.0,True,31.6,31.1,False
+BIG_IDEAs_development,6,704,698,2020-03-05T23:30:00,2020-03-04T08:25:00,34.22150736552937,8.014011192716964,20.0,False,228.0,56.5,True,56.0,8.0,True,31.6,2.5,True

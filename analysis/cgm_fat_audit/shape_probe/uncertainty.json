@@ -1,0 +1,38 @@
+[
+  {
+    "sensor": "Dexcom GL",
+    "experiment": "balanced_nested",
+    "rate": 0.30952380952380953,
+    "participant_bootstrap_95_percentile": [
+      0.21428571428571427,
+      0.40476190476190477
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "experiment": "balanced_nested",
+    "rate": 0.4772727272727273,
+    "participant_bootstrap_95_percentile": [
+      0.38636363636363635,
+      0.5568181818181818
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "experiment": "additional_people",
+    "rate": 0.25,
+    "participant_bootstrap_95_percentile": [
+      0.05263157894736842,
+      0.47058823529411764
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "experiment": "additional_people",
+    "rate": 0.5789473684210527,
+    "participant_bootstrap_95_percentile": [
+      0.391304347826087,
+      0.8125
+    ]
+  }
+]

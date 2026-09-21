@@ -1,0 +1,9 @@
+dataset,feature,repeated_macro_groups,pairs,median_absolute_feature_difference
+BIG_IDEAs_development,middle_positive_area,10,27,747.8517796494043
+BIG_IDEAs_development,peak_height,10,27,12.987731326644358
+BIG_IDEAs_development,response_std,10,27,5.694588166917354
+BIG_IDEAs_development,rise_max,10,27,0.6558258647318298
+CGMacros,middle_positive_area,119,121,896.5000000000002
+CGMacros,peak_height,119,121,20.099999999999994
+CGMacros,response_std,119,121,7.521367575275001
+CGMacros,rise_max,119,121,0.8800000000000008

@@ -1,0 +1,574 @@
+[
+  {
+    "view": "full_signal",
+    "permutation": -1,
+    "meals": 65,
+    "hits": 1,
+    "MAE": {
+      "Carbs": 37.12256630437843,
+      "Protein": 13.476767270854268,
+      "Fat": 12.45450899258611
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 0,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 42.06629826930236,
+      "Protein": 15.074318734546928,
+      "Fat": 12.524347965762596
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 1,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 38.804676797494956,
+      "Protein": 15.720103950360544,
+      "Fat": 13.350101576751227
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 2,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 40.63244763001251,
+      "Protein": 14.516419436833068,
+      "Fat": 12.830142712103946
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 3,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.95495571099961,
+      "Protein": 14.825086810139158,
+      "Fat": 13.527135603239829
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 4,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 42.203867256268566,
+      "Protein": 14.903705791159494,
+      "Fat": 13.304592408239374
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 5,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 40.17506328547119,
+      "Protein": 14.336961068511663,
+      "Fat": 12.835898150900341
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 6,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.61566087237645,
+      "Protein": 13.660854295581641,
+      "Fat": 13.427487052721828
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 7,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 42.889772523849544,
+      "Protein": 14.934207561366001,
+      "Fat": 13.918795521535372
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 8,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 40.27445931961041,
+      "Protein": 13.12847876358433,
+      "Fat": 12.937572827626822
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 9,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 39.842107757790146,
+      "Protein": 15.0270910776715,
+      "Fat": 13.37257518479977
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 10,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.160204153633664,
+      "Protein": 15.052511675579606,
+      "Fat": 13.252772963334607
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 11,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.7027391589734,
+      "Protein": 15.231128587917617,
+      "Fat": 13.680858261820989
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 12,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.41085240350177,
+      "Protein": 14.496908156963638,
+      "Fat": 13.03462180039483
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 13,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 40.89722170942956,
+      "Protein": 14.174038151734628,
+      "Fat": 12.821081315318404
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 14,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 40.756425360526265,
+      "Protein": 15.058574392086879,
+      "Fat": 12.645878852182756
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 15,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 42.277672315015366,
+      "Protein": 14.947222201597924,
+      "Fat": 13.632096968135327
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 16,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.33792462501352,
+      "Protein": 15.196623249903581,
+      "Fat": 13.398435168956508
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 17,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.53908082540852,
+      "Protein": 15.674214814248423,
+      "Fat": 12.73548485290273
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 18,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.38773737122143,
+      "Protein": 13.714833950293439,
+      "Fat": 13.182331086064607
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 19,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.48784891170634,
+      "Protein": 13.511465113555703,
+      "Fat": 12.960410052699695
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 20,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.73710580427286,
+      "Protein": 14.092288330603262,
+      "Fat": 14.145100100085216
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 21,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 44.392534463946795,
+      "Protein": 15.421915305260182,
+      "Fat": 13.779140214988102
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 22,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 40.9805973496571,
+      "Protein": 14.870584441544896,
+      "Fat": 13.042099844574844
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 23,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 43.02018587795931,
+      "Protein": 14.997162730287519,
+      "Fat": 13.779184187441707
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 24,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.51528015087322,
+      "Protein": 14.48329794067005,
+      "Fat": 13.21864363775602
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 25,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 42.28957191509088,
+      "Protein": 15.118638945709051,
+      "Fat": 12.566880521554658
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 26,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 43.02927288772993,
+      "Protein": 14.385675159821988,
+      "Fat": 12.961554676785557
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 27,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 43.8247814248855,
+      "Protein": 14.93831647773046,
+      "Fat": 13.475164426230991
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 28,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 43.686412552720576,
+      "Protein": 14.604422113919142,
+      "Fat": 13.294893707329692
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 29,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 45.0178948921449,
+      "Protein": 15.273112033767083,
+      "Fat": 13.913473082446421
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 30,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 39.13034934399428,
+      "Protein": 14.469659629165834,
+      "Fat": 12.056710909544895
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 31,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 38.78164599077881,
+      "Protein": 15.091940405568455,
+      "Fat": 12.8193024270398
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 32,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 40.85915919925223,
+      "Protein": 15.633573227043016,
+      "Fat": 13.235115081895676
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 33,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.953084287103636,
+      "Protein": 13.71372581181583,
+      "Fat": 13.15787994988039
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 34,
+    "meals": 65,
+    "hits": 1,
+    "MAE": {
+      "Carbs": 39.61465557898942,
+      "Protein": 14.130913434462725,
+      "Fat": 13.290118324297868
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 35,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 42.926833410712355,
+      "Protein": 14.890394927532686,
+      "Fat": 13.698005077721252
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 36,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 40.81482818514609,
+      "Protein": 14.002171836120873,
+      "Fat": 13.203457627322662
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 37,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 44.30188431970759,
+      "Protein": 14.893346125931556,
+      "Fat": 14.081228633039938
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 38,
+    "meals": 65,
+    "hits": 1,
+    "MAE": {
+      "Carbs": 42.029496277242906,
+      "Protein": 13.802307321080086,
+      "Fat": 12.800706560632015
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 39,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 42.485279744097674,
+      "Protein": 13.714655756634016,
+      "Fat": 13.135541091026097
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 40,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 42.97157142070556,
+      "Protein": 14.07963480179213,
+      "Fat": 13.647941201153575
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 41,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.7918373213218,
+      "Protein": 13.269472799010748,
+      "Fat": 13.192422770418569
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 42,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 40.849433248876394,
+      "Protein": 16.74145179670933,
+      "Fat": 13.106713953938664
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 43,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 42.20091228264114,
+      "Protein": 14.657677868939563,
+      "Fat": 13.292009238669115
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 44,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.63216857027007,
+      "Protein": 13.851646858060498,
+      "Fat": 12.79108500048514
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 45,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 42.25384230663408,
+      "Protein": 14.904041392815131,
+      "Fat": 12.964154294469413
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 46,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 42.02932262616862,
+      "Protein": 14.965107106106261,
+      "Fat": 13.967996630287773
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 47,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.15994120508569,
+      "Protein": 15.841902108336464,
+      "Fat": 13.401548783356356
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 48,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 42.57627810062389,
+      "Protein": 15.584270533378941,
+      "Fat": 13.327848112419456
+    }
+  },
+  {
+    "view": "full_signal",
+    "permutation": 49,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.63684273155597,
+      "Protein": 15.30091772170072,
+      "Fat": 13.811217020056823
+    }
+  },
+  {
+    "view": "premeal_only",
+    "permutation": -1,
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 41.03038009595356,
+      "Protein": 14.214150633343683,
+      "Fat": 13.19195945994324
+    }
+  }
+]

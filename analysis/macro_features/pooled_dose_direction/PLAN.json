@@ -1,0 +1,15 @@
+{
+  "primary": "half_population",
+  "weights": {
+    "personal_only": 0,
+    "half_population": 0.5,
+    "population_only": 1
+  },
+  "representation": "37 baseline-subtracted CGM samples, 0 through 180 minutes at five-minute intervals; equal weights.",
+  "population": "Mean high-minus-low direction per gram from first calibration pairs of other people only.",
+  "personal": "Blend population and own dose direction, retain own calibration midpoint; orthogonal projection gives grams.",
+  "target": "Same later controlled-dose queries as personal_dose_repeat; each macro evaluated separately.",
+  "tuning": false,
+  "reserved_accessed": false,
+  "caveat": "Known controlled composition during evaluation. Not arbitrary-meal or unknown-dose validation."
+}

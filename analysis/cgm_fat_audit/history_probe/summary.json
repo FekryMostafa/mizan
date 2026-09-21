@@ -1,0 +1,354 @@
+[
+  {
+    "sensor": "Libre GL",
+    "method": "60/rbf0.1",
+    "meals": 88,
+    "hits": 38,
+    "MAE": [
+      11.454545454545455,
+      13.0,
+      10.022727272727273
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "60/rbf1",
+    "meals": 88,
+    "hits": 40,
+    "MAE": [
+      10.5,
+      12.0,
+      10.022727272727273
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "60/rbf10",
+    "meals": 88,
+    "hits": 37,
+    "MAE": [
+      11.454545454545455,
+      13.0,
+      9.306818181818182
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "60/lda",
+    "meals": 88,
+    "hits": 25,
+    "MAE": [
+      13.840909090909092,
+      17.5,
+      11.8125
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "60/tree",
+    "meals": 88,
+    "hits": 37,
+    "MAE": [
+      12.409090909090908,
+      11.5,
+      9.306818181818182
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "360/rbf0.1",
+    "meals": 88,
+    "hits": 33,
+    "MAE": [
+      13.363636363636363,
+      13.0,
+      9.664772727272727
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "360/rbf1",
+    "meals": 88,
+    "hits": 34,
+    "MAE": [
+      12.886363636363637,
+      13.5,
+      9.306818181818182
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "360/rbf10",
+    "meals": 88,
+    "hits": 34,
+    "MAE": [
+      12.409090909090908,
+      14.5,
+      8.948863636363637
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "360/lda",
+    "meals": 88,
+    "hits": 25,
+    "MAE": [
+      14.795454545454545,
+      16.5,
+      12.170454545454545
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "360/tree",
+    "meals": 88,
+    "hits": 31,
+    "MAE": [
+      14.318181818181818,
+      13.5,
+      9.664772727272727
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "720/rbf0.1",
+    "meals": 88,
+    "hits": 31,
+    "MAE": [
+      13.840909090909092,
+      14.5,
+      9.306818181818182
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "720/rbf1",
+    "meals": 88,
+    "hits": 31,
+    "MAE": [
+      13.840909090909092,
+      15.5,
+      8.948863636363637
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "720/rbf10",
+    "meals": 88,
+    "hits": 31,
+    "MAE": [
+      12.409090909090908,
+      15.5,
+      10.022727272727273
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "720/lda",
+    "meals": 88,
+    "hits": 27,
+    "MAE": [
+      13.840909090909092,
+      15.0,
+      12.528409090909092
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "720/tree",
+    "meals": 88,
+    "hits": 29,
+    "MAE": [
+      11.931818181818182,
+      15.0,
+      11.8125
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "nested_selected",
+    "meals": 88,
+    "hits": 36,
+    "MAE": [
+      11.454545454545455,
+      13.0,
+      9.306818181818182
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "60/rbf0.1",
+    "meals": 84,
+    "hits": 34,
+    "MAE": [
+      7.5,
+      16.238095238095237,
+      9.75
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "60/rbf1",
+    "meals": 84,
+    "hits": 35,
+    "MAE": [
+      8.5,
+      15.714285714285714,
+      9.75
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "60/rbf10",
+    "meals": 84,
+    "hits": 31,
+    "MAE": [
+      8.5,
+      17.285714285714285,
+      10.125
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "60/lda",
+    "meals": 84,
+    "hits": 32,
+    "MAE": [
+      9.5,
+      15.19047619047619,
+      10.5
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "60/tree",
+    "meals": 84,
+    "hits": 36,
+    "MAE": [
+      9.5,
+      12.571428571428571,
+      10.5
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "360/rbf0.1",
+    "meals": 84,
+    "hits": 28,
+    "MAE": [
+      11.5,
+      14.666666666666666,
+      10.5
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "360/rbf1",
+    "meals": 84,
+    "hits": 29,
+    "MAE": [
+      13.0,
+      13.619047619047619,
+      10.125
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "360/rbf10",
+    "meals": 84,
+    "hits": 32,
+    "MAE": [
+      11.0,
+      13.095238095238095,
+      9.0
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "360/lda",
+    "meals": 84,
+    "hits": 33,
+    "MAE": [
+      11.0,
+      15.714285714285714,
+      9.75
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "360/tree",
+    "meals": 84,
+    "hits": 27,
+    "MAE": [
+      12.5,
+      14.666666666666666,
+      12.375
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "720/rbf0.1",
+    "meals": 84,
+    "hits": 29,
+    "MAE": [
+      10.5,
+      17.80952380952381,
+      10.125
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "720/rbf1",
+    "meals": 84,
+    "hits": 30,
+    "MAE": [
+      13.0,
+      17.285714285714285,
+      8.25
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "720/rbf10",
+    "meals": 84,
+    "hits": 28,
+    "MAE": [
+      13.5,
+      15.714285714285714,
+      9.0
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "720/lda",
+    "meals": 84,
+    "hits": 28,
+    "MAE": [
+      13.0,
+      14.142857142857142,
+      11.625
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "720/tree",
+    "meals": 84,
+    "hits": 31,
+    "MAE": [
+      14.0,
+      15.19047619047619,
+      8.25
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "nested_selected",
+    "meals": 84,
+    "hits": 32,
+    "MAE": [
+      9.0,
+      16.238095238095237,
+      10.125
+    ]
+  }
+]

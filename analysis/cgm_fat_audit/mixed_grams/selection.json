@@ -1,0 +1,518 @@
+[
+  {
+    "sensor": "Libre GL",
+    "pid": 1,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.4512852755190757,
+      "tree1": 0.4345977546339865,
+      "tree5": 0.42480747965602816,
+      "absolute7": 0.43162920078700934,
+      "absolute15": 0.43645898924034027
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 2,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.45454987876724207,
+      "tree1": 0.43199031439940533,
+      "tree5": 0.4292576746125448,
+      "absolute7": 0.42961877117169556,
+      "absolute15": 0.43124916761801796
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 5,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.4517673739013073,
+      "tree1": 0.4375721281286974,
+      "tree5": 0.43270619055867,
+      "absolute7": 0.42875060431860307,
+      "absolute15": 0.4369838885109545
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 6,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.45196162305561893,
+      "tree1": 0.4328612023958739,
+      "tree5": 0.4300557331965121,
+      "absolute7": 0.4400657813028127,
+      "absolute15": 0.4363767796994999
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 8,
+    "selected": "absolute15",
+    "inner_scores": {
+      "ridge": 0.44685846886637653,
+      "tree1": 0.4256227546703737,
+      "tree5": 0.42660685598974524,
+      "absolute7": 0.4231866465303003,
+      "absolute15": 0.42235809829205423
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 9,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.4519260037838078,
+      "tree1": 0.43363312344221433,
+      "tree5": 0.42801865186774635,
+      "absolute7": 0.43553095758348453,
+      "absolute15": 0.432415121412585
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 10,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.4485651026585399,
+      "tree1": 0.43515703710649556,
+      "tree5": 0.429695025506931,
+      "absolute7": 0.423297933471643,
+      "absolute15": 0.427084199073941
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 14,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.4617166936559296,
+      "tree1": 0.44213800749515036,
+      "tree5": 0.4377580492454831,
+      "absolute7": 0.44065464975216856,
+      "absolute15": 0.4466496456118895
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 17,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.45339648991734466,
+      "tree1": 0.4288225739754517,
+      "tree5": 0.4274875548815397,
+      "absolute7": 0.438125078729641,
+      "absolute15": 0.4323453375556806
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 27,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.4520168004970315,
+      "tree1": 0.43129164313946916,
+      "tree5": 0.4260052957062353,
+      "absolute7": 0.4261728160548857,
+      "absolute15": 0.4308751162681243
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 31,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.45160990679872326,
+      "tree1": 0.43149883496803787,
+      "tree5": 0.4283549914792402,
+      "absolute7": 0.4360870883155521,
+      "absolute15": 0.43118439413548315
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 32,
+    "selected": "absolute15",
+    "inner_scores": {
+      "ridge": 0.44868777835673823,
+      "tree1": 0.4370244910858629,
+      "tree5": 0.4358961074620565,
+      "absolute7": 0.431531318887324,
+      "absolute15": 0.4306964401414721
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 34,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.4458695309458394,
+      "tree1": 0.4349793678377908,
+      "tree5": 0.42959659012917883,
+      "absolute7": 0.43570767867382715,
+      "absolute15": 0.435077285865713
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 35,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.44925666548815585,
+      "tree1": 0.43152112495072786,
+      "tree5": 0.43116860280833336,
+      "absolute7": 0.42695689145380966,
+      "absolute15": 0.4361858433945291
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 36,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.45622582081004703,
+      "tree1": 0.43566845511390967,
+      "tree5": 0.43118651882669196,
+      "absolute7": 0.4384617228705305,
+      "absolute15": 0.4327362331939893
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 38,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.4497332574939051,
+      "tree1": 0.43755471597529355,
+      "tree5": 0.4323914766368852,
+      "absolute7": 0.44356014866764365,
+      "absolute15": 0.44375928670313414
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 41,
+    "selected": "absolute15",
+    "inner_scores": {
+      "ridge": 0.45391629352077373,
+      "tree1": 0.43475363756613755,
+      "tree5": 0.4305876972685117,
+      "absolute7": 0.4353727170563135,
+      "absolute15": 0.42895285841386394
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 42,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.449991569136008,
+      "tree1": 0.4383418275971467,
+      "tree5": 0.42753528829665133,
+      "absolute7": 0.4359281452406742,
+      "absolute15": 0.43418674950714603
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 43,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.4516989129189244,
+      "tree1": 0.43217465371450875,
+      "tree5": 0.4308536189055153,
+      "absolute7": 0.4358925698059067,
+      "absolute15": 0.43770736573244967
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 44,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.44806874110700695,
+      "tree1": 0.42980928592341633,
+      "tree5": 0.4254900391295607,
+      "absolute7": 0.42807513756112187,
+      "absolute15": 0.43396621128458385
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 45,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.4528198632098948,
+      "tree1": 0.42871597270148004,
+      "tree5": 0.42709561666216045,
+      "absolute7": 0.4314765053398924,
+      "absolute15": 0.4352801595207938
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "pid": 49,
+    "selected": "tree5",
+    "inner_scores": {
+      "ridge": 0.44921046547151944,
+      "tree1": 0.43737588190656784,
+      "tree5": 0.43233959558522267,
+      "absolute7": 0.4385789305448362,
+      "absolute15": 0.43455231566667796
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 2,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.4575724587837587,
+      "tree1": 0.44104382899563616,
+      "tree5": 0.43624965240762564,
+      "absolute7": 0.4279804225899912,
+      "absolute15": 0.43424959408661934
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 4,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.46093172458298753,
+      "tree1": 0.45057378141715493,
+      "tree5": 0.442229514879954,
+      "absolute7": 0.44203810407645566,
+      "absolute15": 0.4429725545032651
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 5,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.4597493923855447,
+      "tree1": 0.45370527956213447,
+      "tree5": 0.4446942887981194,
+      "absolute7": 0.43618121548891164,
+      "absolute15": 0.4475747021376528
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 6,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.4600507164455034,
+      "tree1": 0.4498262531226241,
+      "tree5": 0.4402421935648423,
+      "absolute7": 0.438214178941407,
+      "absolute15": 0.44728160236039394
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 8,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.4461393969965365,
+      "tree1": 0.43478021978021975,
+      "tree5": 0.4315273217144561,
+      "absolute7": 0.42487267904436976,
+      "absolute15": 0.4284068369206604
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 9,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.46004296079623525,
+      "tree1": 0.44477065198839394,
+      "tree5": 0.43873457735638516,
+      "absolute7": 0.4366381521745901,
+      "absolute15": 0.43872812491040486
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 10,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.44775401333207254,
+      "tree1": 0.43998455911802525,
+      "tree5": 0.43723455483668605,
+      "absolute7": 0.42412781937196,
+      "absolute15": 0.4362885935265398
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 14,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.45501493412971644,
+      "tree1": 0.44242117044748636,
+      "tree5": 0.4404400270182956,
+      "absolute7": 0.42945549294475716,
+      "absolute15": 0.4378302089324656
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 17,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.4508316859548826,
+      "tree1": 0.44123401914076515,
+      "tree5": 0.4381838165258265,
+      "absolute7": 0.42204974889406305,
+      "absolute15": 0.428210774847
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 27,
+    "selected": "absolute15",
+    "inner_scores": {
+      "ridge": 0.4596155095667514,
+      "tree1": 0.4459864807957177,
+      "tree5": 0.4382229992773955,
+      "absolute7": 0.43389238457925683,
+      "absolute15": 0.4301647852717068
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 31,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.46120929173086384,
+      "tree1": 0.4467480986958899,
+      "tree5": 0.4420441086497973,
+      "absolute7": 0.4349163722551617,
+      "absolute15": 0.43654107362624267
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 32,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.46695445053879303,
+      "tree1": 0.4494415488215488,
+      "tree5": 0.4428828692461272,
+      "absolute7": 0.4394630640763979,
+      "absolute15": 0.4415690249698388
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 34,
+    "selected": "absolute15",
+    "inner_scores": {
+      "ridge": 0.45200112242070467,
+      "tree1": 0.442944968391397,
+      "tree5": 0.4367339869801447,
+      "absolute7": 0.4308719951341264,
+      "absolute15": 0.42974619527197283
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 35,
+    "selected": "absolute15",
+    "inner_scores": {
+      "ridge": 0.4598714377466073,
+      "tree1": 0.44857969696969696,
+      "tree5": 0.43828605037334806,
+      "absolute7": 0.43815542077189096,
+      "absolute15": 0.43176006056993627
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 36,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.45711563873257854,
+      "tree1": 0.4451884932708225,
+      "tree5": 0.43927419388802225,
+      "absolute7": 0.43379269601211246,
+      "absolute15": 0.43410090866949513
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 38,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.45051828495736007,
+      "tree1": 0.4444458433701462,
+      "tree5": 0.4345657053219739,
+      "absolute7": 0.43120040864835574,
+      "absolute15": 0.43791135420093646
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 41,
+    "selected": "absolute15",
+    "inner_scores": {
+      "ridge": 0.4633942098406071,
+      "tree1": 0.44863395372579046,
+      "tree5": 0.43567522837200123,
+      "absolute7": 0.43656607361437155,
+      "absolute15": 0.4253273323103983
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 42,
+    "selected": "absolute15",
+    "inner_scores": {
+      "ridge": 0.4521624311771129,
+      "tree1": 0.43542589763177997,
+      "tree5": 0.43293651951053524,
+      "absolute7": 0.4253018954619674,
+      "absolute15": 0.4230185002344073
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 43,
+    "selected": "absolute15",
+    "inner_scores": {
+      "ridge": 0.4624347970768993,
+      "tree1": 0.45202833092833095,
+      "tree5": 0.4403897120734938,
+      "absolute7": 0.4387037303318244,
+      "absolute15": 0.4347448379477349
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 45,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.4630399984332828,
+      "tree1": 0.4502448677248677,
+      "tree5": 0.43883189362827063,
+      "absolute7": 0.4303646947233838,
+      "absolute15": 0.4323353518501963
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "pid": 49,
+    "selected": "absolute7",
+    "inner_scores": {
+      "ridge": 0.45351562679491353,
+      "tree1": 0.4459423153945066,
+      "tree5": 0.437482603352062,
+      "absolute7": 0.43276170014047366,
+      "absolute15": 0.4451544223899905
+    }
+  }
+]

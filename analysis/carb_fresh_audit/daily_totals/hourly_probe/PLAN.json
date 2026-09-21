@@ -1,0 +1,7 @@
+{
+  "target": "Same44 CGMacros daily carbohydrate totals; no meal entries needed at inference.",
+  "method": "Train hourly carb targets by summing known calibration meal labels in each clock hour. Inputs are 15min Libre samples from1h before to4h after hour start, baseline-relative samples and hour sine/cosine. Sum24 hourly predictions.",
+  "controls": "Clock-only intake predictor; personal historical daily mean. No current food count/type/time supplied to model.",
+  "selection": "Full other-person calibration pool and chronological same-person history,33 earlier validation days. Poisson boosted trees; leaves7/15, min_leaf20,80iterations,regularization1; raw and calibration-offset corrected daily sums.",
+  "limits": "Hourly absence of a logged meal is treated as zero logged intake, not verified fasting. Adjacent windows overlap; validation separated by whole days and30h purge. Outputs require following-day observations. Same reused development cohort."
+}

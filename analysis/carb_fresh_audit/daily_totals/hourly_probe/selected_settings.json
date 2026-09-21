@@ -1,0 +1,9 @@
+{
+  "family": "clock",
+  "leaves": 15,
+  "correction": "offset",
+  "n": 33,
+  "hits": 9,
+  "mape": 25.20329463092728,
+  "mae": 46.964646464646464
+}

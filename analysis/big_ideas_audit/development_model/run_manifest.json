@@ -1,0 +1,7 @@
+{
+  "primary": "personal_kernel_1",
+  "script_sha256": "e3282e0dbaad33fa986dc6294225d87925c0a08bb60ff5fc0611b2f0e8f048f2",
+  "reserved_participants_accessed": false,
+  "hyperparameters_selected_from_test": false,
+  "note": "Fixed exploratory methods on development participants only; no independent validation claimed."
+}

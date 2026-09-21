@@ -1,0 +1,354 @@
+[
+  {
+    "macro": "Fat",
+    "pid": "XB19",
+    "n": 1,
+    "calibration": [
+      [
+        "XB19",
+        "Rice",
+        2
+      ],
+      [
+        "XB19",
+        "Rice+Fat",
+        1
+      ]
+    ],
+    "queries": [
+      [
+        "XB19",
+        "Rice",
+        4
+      ],
+      [
+        "XB19",
+        "Rice+Fat",
+        3
+      ],
+      [
+        "XB19",
+        "Rice+Fat",
+        4
+      ]
+    ]
+  },
+  {
+    "macro": "Fat",
+    "pid": "XB19",
+    "n": 2,
+    "calibration": [
+      [
+        "XB19",
+        "Rice",
+        2
+      ],
+      [
+        "XB19",
+        "Rice",
+        3
+      ],
+      [
+        "XB19",
+        "Rice+Fat",
+        1
+      ],
+      [
+        "XB19",
+        "Rice+Fat",
+        2
+      ]
+    ],
+    "queries": [
+      [
+        "XB19",
+        "Rice",
+        4
+      ],
+      [
+        "XB19",
+        "Rice+Fat",
+        3
+      ],
+      [
+        "XB19",
+        "Rice+Fat",
+        4
+      ]
+    ]
+  },
+  {
+    "macro": "Fat",
+    "pid": "XB6",
+    "n": 1,
+    "calibration": [
+      [
+        "XB6",
+        "Rice",
+        1
+      ],
+      [
+        "XB6",
+        "Rice+Fat",
+        1
+      ]
+    ],
+    "queries": [
+      [
+        "XB6",
+        "Rice",
+        3
+      ],
+      [
+        "XB6",
+        "Rice",
+        4
+      ],
+      [
+        "XB6",
+        "Rice+Fat",
+        3
+      ],
+      [
+        "XB6",
+        "Rice+Fat",
+        4
+      ],
+      [
+        "XB6",
+        "Rice+Fat",
+        5
+      ]
+    ]
+  },
+  {
+    "macro": "Fat",
+    "pid": "XB6",
+    "n": 2,
+    "calibration": [
+      [
+        "XB6",
+        "Rice",
+        1
+      ],
+      [
+        "XB6",
+        "Rice",
+        2
+      ],
+      [
+        "XB6",
+        "Rice+Fat",
+        1
+      ],
+      [
+        "XB6",
+        "Rice+Fat",
+        2
+      ]
+    ],
+    "queries": [
+      [
+        "XB6",
+        "Rice",
+        3
+      ],
+      [
+        "XB6",
+        "Rice",
+        4
+      ],
+      [
+        "XB6",
+        "Rice+Fat",
+        3
+      ],
+      [
+        "XB6",
+        "Rice+Fat",
+        4
+      ],
+      [
+        "XB6",
+        "Rice+Fat",
+        5
+      ]
+    ]
+  },
+  {
+    "macro": "Protein",
+    "pid": "XB19",
+    "n": 1,
+    "calibration": [
+      [
+        "XB19",
+        "Rice",
+        2
+      ],
+      [
+        "XB19",
+        "Rice+Protein",
+        1
+      ]
+    ],
+    "queries": [
+      [
+        "XB19",
+        "Rice",
+        4
+      ],
+      [
+        "XB19",
+        "Rice+Protein",
+        3
+      ],
+      [
+        "XB19",
+        "Rice+Protein",
+        4
+      ]
+    ]
+  },
+  {
+    "macro": "Protein",
+    "pid": "XB19",
+    "n": 2,
+    "calibration": [
+      [
+        "XB19",
+        "Rice",
+        2
+      ],
+      [
+        "XB19",
+        "Rice",
+        3
+      ],
+      [
+        "XB19",
+        "Rice+Protein",
+        1
+      ],
+      [
+        "XB19",
+        "Rice+Protein",
+        2
+      ]
+    ],
+    "queries": [
+      [
+        "XB19",
+        "Rice",
+        4
+      ],
+      [
+        "XB19",
+        "Rice+Protein",
+        3
+      ],
+      [
+        "XB19",
+        "Rice+Protein",
+        4
+      ]
+    ]
+  },
+  {
+    "macro": "Protein",
+    "pid": "XB6",
+    "n": 1,
+    "calibration": [
+      [
+        "XB6",
+        "Rice",
+        1
+      ],
+      [
+        "XB6",
+        "Rice+Protein",
+        1
+      ]
+    ],
+    "queries": [
+      [
+        "XB6",
+        "Rice",
+        3
+      ],
+      [
+        "XB6",
+        "Rice",
+        4
+      ],
+      [
+        "XB6",
+        "Rice+Protein",
+        3
+      ],
+      [
+        "XB6",
+        "Rice+Protein",
+        4
+      ],
+      [
+        "XB6",
+        "Rice+Protein",
+        5
+      ]
+    ]
+  },
+  {
+    "macro": "Protein",
+    "pid": "XB6",
+    "n": 2,
+    "calibration": [
+      [
+        "XB6",
+        "Rice",
+        1
+      ],
+      [
+        "XB6",
+        "Rice",
+        2
+      ],
+      [
+        "XB6",
+        "Rice+Protein",
+        1
+      ],
+      [
+        "XB6",
+        "Rice+Protein",
+        2
+      ]
+    ],
+    "queries": [
+      [
+        "XB6",
+        "Rice",
+        3
+      ],
+      [
+        "XB6",
+        "Rice",
+        4
+      ],
+      [
+        "XB6",
+        "Rice+Protein",
+        3
+      ],
+      [
+        "XB6",
+        "Rice+Protein",
+        4
+      ],
+      [
+        "XB6",
+        "Rice+Protein",
+        5
+      ]
+    ]
+  }
+]

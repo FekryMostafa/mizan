@@ -1,0 +1,34 @@
+{
+  "script_sha256": "f3b2329733b14351f2ee48b588bf675777a55ff4f52a7379f11d25a9f98bedd0",
+  "input_sha256": "76227155a025321b0c9ad701b682536cb5d6295cb48a75b923f1dfeaab5558f6",
+  "selected": "peak_area_context",
+  "source_rows": 2580,
+  "target_rows": 325,
+  "plan": {
+    "candidates": {
+      "peak": [
+        "peak_height"
+      ],
+      "area": [
+        "middle_positive_area"
+      ],
+      "peak_area": [
+        "peak_height",
+        "middle_positive_area"
+      ],
+      "peak_area_context": [
+        "peak_height",
+        "middle_positive_area",
+        "baseline",
+        "pre_slope"
+      ]
+    },
+    "ridge_alpha": 10,
+    "calibration_meals": 4,
+    "calibration": "Personal mean residual from first four meals; no target slope fitting.",
+    "selection": "Lowest person-balanced MAE in CGMacros leave-one-person-out evaluation.",
+    "target": "Same 65 later BIG IDEAs development meals; previously inspected, not pristine test.",
+    "zero_grams": "Within 10 percent requires zero absolute error when true amount is zero.",
+    "reserved_accessed": false
+  }
+}

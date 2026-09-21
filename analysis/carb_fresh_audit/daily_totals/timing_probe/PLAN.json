@@ -1,0 +1,8 @@
+{
+  "target": "Same44 daily carbohydrate totals",
+  "hypothesis": "If Libre(t) aligns with Dexcom(t-lag), hypothetical aligned Libre at clock t is original Libre(t+lag). Dexcom clock is not established ground truth.",
+  "offsets": "Frozen from earlier calibration sensor comparisons; no later carb labels used. Offsets not retuned.",
+  "model": "Fixed glucose-only kernel ridge, reg0.1 from prior full-pool selection. Re-extract glucose summaries with and without offset; same64 calibration days and44 later days.",
+  "availability": "Diagnostic uses shifted raw sensor times, up to next06:00 plus positive offset. Not necessarily available exactly at06:00.",
+  "limitations": "Requires second sensor for this diagnostic calibration; not a CGM-only deployment improvement. No source changes. No later-label model selection."
+}

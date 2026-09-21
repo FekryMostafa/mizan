@@ -1,0 +1,6 @@
+{
+  "scope": "Same44 later CGMacros daily totals. Fixed31-member uniform passive ensemble.",
+  "history": "For each query participant retain first1/2/3/all allowed calibration days; retain every other participants original training days. Query days unchanged. No future labels or meal timestamps.",
+  "controls": "Personal mean at each history level. Levels with fewer available days use all available and are explicitly counted. No hyperparameter selection from later results.",
+  "limits": "History count and its time span co-vary. Same repeatedly inspected44development days. This measures this algorithm, not an extrapolated learning guarantee."
+}

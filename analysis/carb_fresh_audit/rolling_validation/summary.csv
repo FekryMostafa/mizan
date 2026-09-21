@@ -1,0 +1,4 @@
+model,n,hits,mae
+rolling_selected,107,4,26.876171102214652
+previous_single_window,107,5,27.573520170048035
+training_mean,107,3,29.02188067502325

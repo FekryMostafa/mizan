@@ -1,0 +1,12 @@
+{
+  "scope": "Same CGMacros 44 development days. Known meal times, not passive.",
+  "method": "For each query use only earlier nonoverlapping same-person out-of-sample residuals. Three nearest events, Gaussian similarity weights, two zero-residual pseudo-events. No later-label selection.",
+  "distances": "Equal mean across feature blocks: clock sin/cos scale1; relative glucose and prebaseline scale20 mg/dL; HR scale20 bpm; activity scale1 kcal/min. Missing pairs omitted; require half block coordinates available; unavailable blocks ignored.",
+  "arms": [
+    "clock",
+    "glucose",
+    "context",
+    "glucose_context"
+  ],
+  "validation": "Earlier event MAE on events with >=3 eligible prior residuals; compares identical events. Later scores remain all44 days."
+}

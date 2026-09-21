@@ -1,0 +1,22 @@
+{
+  "families": [
+    "CGM",
+    "CGM_activity"
+  ],
+  "conversion": [
+    "plain",
+    "anchored"
+  ],
+  "alpha": [
+    1.0,
+    10.0,
+    100.0
+  ],
+  "activity": "HR mean, 90th percentile and coverage, Fitbit kcal/min mean and coverage for -180:0,0:60,60:120,120:180 min",
+  "missing": "training-only median imputation; coverage columns retained; entirely missing training column filled zero",
+  "validation": "outer person held out, inner person-held-out alpha selection by within10 count then MAE; own earlier two calibration meals permitted",
+  "anchored": "linear ridge fitted to other-person later meals with exact equality constraints at evaluated personal calibration meals",
+  "plain": "same ridge without equality constraints; identical preprocessing",
+  "objective": "per-meal carbohydrate grams within \u00b110%; continuous predictions, only lower clipping at zero",
+  "scope": "52 previously inspected controlled repeat meals; no reserved data; no unseen-dose validation"
+}

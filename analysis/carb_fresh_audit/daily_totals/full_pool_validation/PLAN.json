@@ -1,0 +1,6 @@
+{
+  "target": "Same44 later daily carbohydrate totals",
+  "validation": "Each eligible earlier calibration day queried individually. Same-person training restricted to days whose30h sensor windows end before query midnight. All other participants original64 calibration-pool rows retained. Later44 never used.",
+  "grid": "Three sensor families, ridge/kernel, penalties .1/1/10/100/1000 and personal mean baseline. Select earlier MAPE then MAE.",
+  "limits": "Not population-held-out validation. Cohort dates shifted; chronology enforced within person. Later development set already exposed."
+}

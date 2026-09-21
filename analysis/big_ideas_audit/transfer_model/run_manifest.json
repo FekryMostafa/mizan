@@ -1,0 +1,8 @@
+{
+  "primary": "trees5/kernel",
+  "script_sha256": "26f0da9f375cc815ef70dff30287ea49b42e80aee7ce45a1543d8b445cedcd7b",
+  "target_features_sha256": "b667b3bd9da80c0af84adaf4946eee10c6ac52c2ad54cfb55c41355672c15b5b",
+  "reserved_participants_accessed": false,
+  "tuned_on_target_results": false,
+  "caveat": "Source and development cohorts already inspected. Fixed exploratory comparisons, not untouched validation."
+}

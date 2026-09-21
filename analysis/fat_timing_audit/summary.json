@@ -1,0 +1,20 @@
+[
+  {
+    "method": "fixed",
+    "n": 50,
+    "hits": 7,
+    "MAE": 17.75,
+    "median_near_fit_width": 12.25,
+    "mean_best_rmse": 24.764269939279835,
+    "both_correct": 0
+  },
+  {
+    "method": "gain_and_time",
+    "n": 50,
+    "hits": 8,
+    "MAE": 17.055,
+    "median_near_fit_width": 12.625,
+    "mean_best_rmse": 16.70618642682362,
+    "both_correct": 0
+  }
+]

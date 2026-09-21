@@ -1,0 +1,13 @@
+{
+  "python": "3.12.14",
+  "sklearn": "1.9.0",
+  "numpy": "2.5.3",
+  "pandas": "2.2.3",
+  "script_hashes": {
+    "analysis/cgm_fat_audit/grams_probe.py": "cef198e0be9f4dd9b1fd741a59a03744468d3c4468d22226b2d4b34b02d6a866",
+    "analysis/cgm_fat_audit/separability.py": "ab4f474515c5a9a3c63fbaf4f48338afe411deec61b4e935a74bebaa2f277bbd"
+  },
+  "data_quality_manifest": "../full_audit/device_context_quality.csv",
+  "exploratory": true,
+  "no_hyperparameters_selected_using_outer_test_person": true
+}

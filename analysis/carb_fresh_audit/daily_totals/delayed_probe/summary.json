@@ -1,0 +1,48 @@
+{
+  "training_days": 64,
+  "later_days": 44,
+  "complete_overnights": 44,
+  "next_morning_food_days": 0,
+  "settings": {
+    "midnight": {
+      "arm": "midnight",
+      "family": "midnight_summary_context",
+      "kind": "ridge",
+      "reg": 1000.0,
+      "n": 29,
+      "hits": 8,
+      "mape": 23.789791273244813,
+      "mae": 42.72477668169311
+    },
+    "delayed": {
+      "arm": "delayed",
+      "family": "delayed_summary_context",
+      "kind": "ridge",
+      "reg": 1000.0,
+      "n": 29,
+      "hits": 9,
+      "mape": 22.697763858341897,
+      "mae": 41.355067931487056
+    }
+  },
+  "scores": {
+    "midnight": {
+      "n": 44,
+      "hits": 15,
+      "mape": 20.17981086191421,
+      "mae": 39.692847703738664
+    },
+    "delayed": {
+      "n": 44,
+      "hits": 15,
+      "mape": 18.93591600272922,
+      "mae": 37.59604594618312
+    },
+    "baseline": {
+      "n": 44,
+      "hits": 14,
+      "mape": 20.57518464093853,
+      "mae": 39.653030303030306
+    }
+  }
+}

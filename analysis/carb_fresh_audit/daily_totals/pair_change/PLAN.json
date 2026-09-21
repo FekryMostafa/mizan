@@ -1,0 +1,6 @@
+{
+  "target": "Same 44 later daily carbohydrate totals",
+  "method": "Shared ExtraTrees on within-person sensor differences and carb differences. Symmetric correction, average historical day carb + predicted change. Never give current carb label as input.",
+  "selection": "Same existing29 chronological validation days, MAPE then MAE; leaf2/5/10; shape/glucose/context; personal mean baseline included.",
+  "caveat": "Pair rows reuse days and are not independent observations. Earliest validation fold has very few same-person training pairs. Reused development data."
+}

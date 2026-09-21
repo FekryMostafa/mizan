@@ -1,0 +1,9 @@
+{
+  "training_replay_matches": true,
+  "frozen_formula_unchanged": true,
+  "source_hashes_unchanged": true,
+  "predictions_before_scoring_sha256": "4d56178c5bf82d5fa16f0725f5b54d4aaee03ebe9289b402908eb6e6028634d2",
+  "examined_later_records": 99,
+  "eligible": 54,
+  "zero_carb_count": 0
+}

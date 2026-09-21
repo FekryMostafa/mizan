@@ -1,0 +1,7 @@
+{
+  "target": "Same 44 later calendar-day carbohydrate totals with next-morning sensors",
+  "training": "Same 64 earlier days; shared forest predicts deviation from personal mean daily carbs; input includes absolute and personally centered sensors and mean calibration carbs.",
+  "selection": "29 existing purged earlier chronological validation days; minimize MAPE then MAE; baseline is a candidate.",
+  "grid": "RandomForest/ExtraTrees, 100 trees, leaves 2/5/10, depth 3/unlimited, glucose/context. Fixed seed 20260908.",
+  "limitations": "Repeated development cohort, not fresh prospective data. Known personal calibration labels allowed; query food labels forbidden."
+}

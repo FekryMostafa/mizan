@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "family": "clock",
+    "leaves": 15,
+    "correction": "offset",
+    "n": 33,
+    "hits": 9,
+    "mape": 25.20329463092728,
+    "mae": 46.964646464646464
+  },
+  "later": {
+    "n": 44,
+    "hits": 14,
+    "mape": 20.57518464093853,
+    "mae": 39.653030303030306
+  },
+  "baseline": {
+    "n": 44,
+    "hits": 14,
+    "mape": 20.57518464093853,
+    "mae": 39.653030303030306
+  },
+  "training_days": 64,
+  "training_hour_bins": 1536,
+  "nonzero_training_bins": 248,
+  "all44": true,
+  "query_label_independence": true,
+  "source_unchanged": true
+}

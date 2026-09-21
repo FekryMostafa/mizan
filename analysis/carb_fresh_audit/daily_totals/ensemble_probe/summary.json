@@ -1,0 +1,24 @@
+{
+  "earlier_ensemble_fit": {
+    "n": 33,
+    "hits": 14,
+    "mape": 21.016147101493246,
+    "mae": 39.34157112771847
+  },
+  "later_ensemble": {
+    "n": 44,
+    "hits": 14,
+    "mape": 19.928424363848205,
+    "mae": 40.835321960448475
+  },
+  "later_uniform": {
+    "n": 44,
+    "hits": 16,
+    "mape": 18.395123712408267,
+    "mae": 38.09514337393056
+  },
+  "oracle_convex_range_coverage_days": 36,
+  "oracle_inaccessible_days": 8,
+  "positive_weights": 5,
+  "all44": true
+}

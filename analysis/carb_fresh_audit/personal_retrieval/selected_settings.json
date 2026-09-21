@@ -1,0 +1,7 @@
+{
+  "family": "glucose",
+  "scaling": "pooled_earlier",
+  "k": 3,
+  "balanced_hits": 0.18098958333333331,
+  "balanced_mae": 35.46547398798365
+}

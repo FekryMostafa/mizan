@@ -1,0 +1,7 @@
+sensor,macro,high_count,high_correct,low_count,low_correct,balanced_accuracy
+Dexcom GL,C,63,51,21,10,0.6428571428571428
+Dexcom GL,P,21,1,63,49,0.4126984126984127
+Dexcom GL,F,21,10,63,42,0.5714285714285714
+Libre GL,C,66,56,22,13,0.7196969696969697
+Libre GL,P,22,8,66,58,0.6212121212121212
+Libre GL,F,22,10,66,45,0.5681818181818181

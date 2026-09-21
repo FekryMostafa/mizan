@@ -1,0 +1,27 @@
+{
+  "candidates": {
+    "peak": [
+      "peak_height"
+    ],
+    "area": [
+      "middle_positive_area"
+    ],
+    "peak_area": [
+      "peak_height",
+      "middle_positive_area"
+    ],
+    "peak_area_context": [
+      "peak_height",
+      "middle_positive_area",
+      "baseline",
+      "pre_slope"
+    ]
+  },
+  "ridge_alpha": 10,
+  "calibration_meals": 4,
+  "calibration": "Personal mean residual from first four meals; no target slope fitting.",
+  "selection": "Lowest person-balanced MAE in CGMacros leave-one-person-out evaluation.",
+  "target": "Same 65 later BIG IDEAs development meals; previously inspected, not pristine test.",
+  "zero_grams": "Within 10 percent requires zero absolute error when true amount is zero.",
+  "reserved_accessed": false
+}

@@ -1,0 +1,11 @@
+{
+  "runs": 100,
+  "all_permutations_fit_all_training_days": true,
+  "later_mape_median": 24.91304368141396,
+  "later_mape_range": [
+    19.82025396901263,
+    33.253346352840005
+  ],
+  "later_hits_median": 13.0,
+  "interpretation": "Negative control with settings fixed; not a formal significance test or fresh validation."
+}

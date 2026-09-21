@@ -1,0 +1,6 @@
+{
+  "target": "Explain existing CGMacros daily errors; not a deployable model",
+  "arms": "sensors; known daily fat/protein/fiber; combined",
+  "selection": "Same64 earlier training days,29 earlier validation days,44 later evaluation days. Ridge/kernel, .1/1/10/100/1000; each arm independently selected by earlier MAPE thenMAE.",
+  "interpretation": "Food-only control detects dietary co-occurrence, so better combined predictions would not prove physiological compensation. No calorie field or carbohydrate-derived features."
+}

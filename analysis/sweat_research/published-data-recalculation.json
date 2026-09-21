@@ -1,0 +1,27 @@
+{
+  "source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs44460-026-00117-0/MediaObjects/44460_2026_117_MOESM6_ESM.xlsx",
+  "sha256": "4a4a1849bc53e6d124ea9609b7704ff4c1e2e2075fe7014c468fed344410a387",
+  "note": "Recalculation from published figure coordinates, not retraining or independent clinical validation. Pearson squared correlation is not predictive R squared. Figure subsets need not equal cross-validation averages.",
+  "sheets": {
+    "5b": {
+      "n_pairs": 76,
+      "pearson_r_squared": 0.023835701944609478
+    },
+    "5c": {
+      "n_pairs": 77,
+      "pearson_r_squared": 0.01995913069105153
+    },
+    "5l": {
+      "n_pairs": 35,
+      "pearson_r_squared": 0.7227744688781742,
+      "mae_mg_dl": 14.503787999999998,
+      "predictive_r_squared": 0.6464542924113275
+    },
+    "5m": {
+      "n_pairs": 30,
+      "pearson_r_squared": 0.941584461091113,
+      "mae_mg_dl": 16.841726333333334,
+      "predictive_r_squared": 0.9063325546254958
+    }
+  }
+}

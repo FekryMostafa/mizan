@@ -1,0 +1,23 @@
+{
+  "Carbs": {
+    "mean_MAE_improvement_with_postmeal": 3.9078137915751316,
+    "descriptive_participant_bootstrap_95_percent": [
+      -0.11985923661688863,
+      7.480906093026414
+    ]
+  },
+  "Protein": {
+    "mean_MAE_improvement_with_postmeal": 0.7373833624894173,
+    "descriptive_participant_bootstrap_95_percent": [
+      -0.9985312767320033,
+      2.41821753864073
+    ]
+  },
+  "Fat": {
+    "mean_MAE_improvement_with_postmeal": 0.7374504673571279,
+    "descriptive_participant_bootstrap_95_percent": [
+      -0.5571098297652387,
+      1.9702039851864683
+    ]
+  }
+}

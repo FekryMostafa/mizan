@@ -1,0 +1,14 @@
+{
+  "primary": "mean_sensor_full_curve",
+  "controls": [
+    "Dexcom GL",
+    "Libre GL"
+  ],
+  "calibration": "first 24 g and 66 g carb meals; recorded protein 22 g, fat 10.5 g",
+  "query": "two later controlled meals; existing development records",
+  "representation": "0..180 min every 5 min, baseline mean at -10 and -5 min",
+  "no_tuning": true,
+  "reserved_accessed": false,
+  "coverage": "both sensors required; interpolation brackets <=10 min",
+  "interpretation": "sensor diagnostic; repeated known recipes not unseen meal validation"
+}

@@ -1,0 +1,10 @@
+{
+  "family": "glucose_hr_activity",
+  "feature_count": 27,
+  "gamma": 0.001,
+  "ridge": 0.1,
+  "n": 75,
+  "hits": 28,
+  "mae": 16.922369182271975,
+  "median_error_g": 17.789114735681686
+}

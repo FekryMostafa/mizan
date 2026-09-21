@@ -1,0 +1,80 @@
+{
+  "origins": [
+    0.4,
+    0.6,
+    0.8
+  ],
+  "window": "Next 20% of each person\u2019s earlier-meal sequence, at least one observation; expanding fit prefix with at least two meals.",
+  "bins": {
+    "zero": "0 g; \u00b11 g tolerance",
+    "low": "0 < carbs <=30 g",
+    "medium": "30 < carbs <=70 g",
+    "high": "carbs >70 g"
+  },
+  "selection": "Maximize equal-weight mean of per-band within-tolerance rates across pooled rolling predictions. Repeated validation records have inverse multiplicity weights. Tie by equal-band MAE, then fewer inputs, stronger regularization, smaller gamma.",
+  "gamma": [
+    0.001,
+    0.01,
+    0.1,
+    1.0,
+    10.0
+  ],
+  "ridge": [
+    1e-08,
+    0.0001,
+    0.01,
+    0.1,
+    1.0,
+    10.0,
+    100.0
+  ],
+  "families": {
+    "glucose_only": [
+      "personal_peak",
+      "personal_area_0_60",
+      "personal_area_60_120",
+      "personal_area_120_180",
+      "personal_peak_time",
+      "personal_rise_0_30",
+      "shape_start",
+      "shape_minimum",
+      "baseline_difference",
+      "pre24_glucose",
+      "pre6_glucose",
+      "pre1_glucose",
+      "early_glucose",
+      "middle_glucose",
+      "late_glucose"
+    ],
+    "glucose_hr_activity": [
+      "personal_peak",
+      "personal_area_0_60",
+      "personal_area_60_120",
+      "personal_area_120_180",
+      "personal_peak_time",
+      "personal_rise_0_30",
+      "shape_start",
+      "shape_minimum",
+      "baseline_difference",
+      "pre24_glucose",
+      "pre24_hr",
+      "pre24_activity",
+      "pre6_glucose",
+      "pre6_hr",
+      "pre6_activity",
+      "pre1_glucose",
+      "pre1_hr",
+      "pre1_activity",
+      "early_glucose",
+      "early_hr",
+      "early_activity",
+      "middle_glucose",
+      "middle_hr",
+      "middle_activity",
+      "late_glucose",
+      "late_hr",
+      "late_activity"
+    ]
+  },
+  "heldout": "107 later meals excluded from selection; score once after saving model. These are previously exposed development outcomes, not a new independent trial."
+}

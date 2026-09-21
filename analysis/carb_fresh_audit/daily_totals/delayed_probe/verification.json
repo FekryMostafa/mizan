@@ -1,0 +1,6 @@
+{
+  "query_labels_do_not_affect_predictions": true,
+  "all_44_preserved": true,
+  "purged_training_days": 12,
+  "sources_unchanged": true
+}

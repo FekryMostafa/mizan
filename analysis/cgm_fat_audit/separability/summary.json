@@ -1,0 +1,230 @@
+[
+  {
+    "sensor": "Libre GL",
+    "baseline": "pre10",
+    "minutes": 60,
+    "people": 22,
+    "later_meals": 88,
+    "same_recipe_nearest_fraction": 0.26136363636363635,
+    "bootstrap_95_percentile": [
+      0.17045454545454544,
+      0.36363636363636365
+    ],
+    "chance": 0.25,
+    "permutation_p": 0.4345130973805239,
+    "binary_recipe_match": {
+      "carbs": 0.6590909090909091,
+      "protein": 0.5454545454545454,
+      "fat": 0.5454545454545454
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "baseline": "pre10",
+    "minutes": 120,
+    "people": 22,
+    "later_meals": 88,
+    "same_recipe_nearest_fraction": 0.32954545454545453,
+    "bootstrap_95_percentile": [
+      0.26136363636363635,
+      0.3977272727272727
+    ],
+    "chance": 0.25,
+    "permutation_p": 0.038992201559688064,
+    "binary_recipe_match": {
+      "carbs": 0.7045454545454546,
+      "protein": 0.5227272727272727,
+      "fat": 0.45454545454545453
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "baseline": "pre10",
+    "minutes": 180,
+    "people": 22,
+    "later_meals": 88,
+    "same_recipe_nearest_fraction": 0.3181818181818182,
+    "bootstrap_95_percentile": [
+      0.23863636363636365,
+      0.3977272727272727
+    ],
+    "chance": 0.25,
+    "permutation_p": 0.0625874825034993,
+    "binary_recipe_match": {
+      "carbs": 0.6363636363636364,
+      "protein": 0.45454545454545453,
+      "fat": 0.4772727272727273
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "baseline": "start",
+    "minutes": 60,
+    "people": 22,
+    "later_meals": 88,
+    "same_recipe_nearest_fraction": 0.26136363636363635,
+    "bootstrap_95_percentile": [
+      0.17045454545454544,
+      0.36363636363636365
+    ],
+    "chance": 0.25,
+    "permutation_p": 0.43071385722855426,
+    "binary_recipe_match": {
+      "carbs": 0.7045454545454546,
+      "protein": 0.5454545454545454,
+      "fat": 0.5454545454545454
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "baseline": "start",
+    "minutes": 120,
+    "people": 22,
+    "later_meals": 88,
+    "same_recipe_nearest_fraction": 0.29545454545454547,
+    "bootstrap_95_percentile": [
+      0.2159090909090909,
+      0.375
+    ],
+    "chance": 0.25,
+    "permutation_p": 0.1783643271345731,
+    "binary_recipe_match": {
+      "carbs": 0.7272727272727273,
+      "protein": 0.45454545454545453,
+      "fat": 0.5227272727272727
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "baseline": "start",
+    "minutes": 180,
+    "people": 22,
+    "later_meals": 88,
+    "same_recipe_nearest_fraction": 0.3068181818181818,
+    "bootstrap_95_percentile": [
+      0.22727272727272727,
+      0.3977272727272727
+    ],
+    "chance": 0.25,
+    "permutation_p": 0.11557688462307539,
+    "binary_recipe_match": {
+      "carbs": 0.6590909090909091,
+      "protein": 0.4772727272727273,
+      "fat": 0.5
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "baseline": "pre10",
+    "minutes": 60,
+    "people": 21,
+    "later_meals": 84,
+    "same_recipe_nearest_fraction": 0.3333333333333333,
+    "bootstrap_95_percentile": [
+      0.23809523809523808,
+      0.42857142857142855
+    ],
+    "chance": 0.25,
+    "permutation_p": 0.04019196160767846,
+    "binary_recipe_match": {
+      "carbs": 0.6190476190476191,
+      "protein": 0.6190476190476191,
+      "fat": 0.6190476190476191
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "baseline": "pre10",
+    "minutes": 120,
+    "people": 21,
+    "later_meals": 84,
+    "same_recipe_nearest_fraction": 0.3333333333333333,
+    "bootstrap_95_percentile": [
+      0.2261904761904762,
+      0.42857142857142855
+    ],
+    "chance": 0.25,
+    "permutation_p": 0.04439112177564487,
+    "binary_recipe_match": {
+      "carbs": 0.6666666666666666,
+      "protein": 0.5952380952380952,
+      "fat": 0.5714285714285714
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "baseline": "pre10",
+    "minutes": 180,
+    "people": 21,
+    "later_meals": 84,
+    "same_recipe_nearest_fraction": 0.30952380952380953,
+    "bootstrap_95_percentile": [
+      0.2261904761904762,
+      0.39285714285714285
+    ],
+    "chance": 0.25,
+    "permutation_p": 0.09478104379124175,
+    "binary_recipe_match": {
+      "carbs": 0.6190476190476191,
+      "protein": 0.5952380952380952,
+      "fat": 0.47619047619047616
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "baseline": "start",
+    "minutes": 60,
+    "people": 21,
+    "later_meals": 84,
+    "same_recipe_nearest_fraction": 0.35714285714285715,
+    "bootstrap_95_percentile": [
+      0.27380952380952384,
+      0.44047619047619047
+    ],
+    "chance": 0.25,
+    "permutation_p": 0.015396920615876825,
+    "binary_recipe_match": {
+      "carbs": 0.6904761904761905,
+      "protein": 0.5952380952380952,
+      "fat": 0.6428571428571429
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "baseline": "start",
+    "minutes": 120,
+    "people": 21,
+    "later_meals": 84,
+    "same_recipe_nearest_fraction": 0.3333333333333333,
+    "bootstrap_95_percentile": [
+      0.2261904761904762,
+      0.42857142857142855
+    ],
+    "chance": 0.25,
+    "permutation_p": 0.052189562087582485,
+    "binary_recipe_match": {
+      "carbs": 0.6904761904761905,
+      "protein": 0.6190476190476191,
+      "fat": 0.5
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "baseline": "start",
+    "minutes": 180,
+    "people": 21,
+    "later_meals": 84,
+    "same_recipe_nearest_fraction": 0.30952380952380953,
+    "bootstrap_95_percentile": [
+      0.21398809523809534,
+      0.4166666666666667
+    ],
+    "chance": 0.25,
+    "permutation_p": 0.10617876424715057,
+    "binary_recipe_match": {
+      "carbs": 0.6428571428571429,
+      "protein": 0.5714285714285714,
+      "fat": 0.47619047619047616
+    }
+  }
+]

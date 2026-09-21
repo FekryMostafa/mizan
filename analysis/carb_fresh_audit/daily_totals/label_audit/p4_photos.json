@@ -1,0 +1,66 @@
+[
+  {
+    "path": "<codex-run>/carb_fresh_audit/daily_totals/label_audit/p4_11501.jpg",
+    "timestamp": "2023-09-19T09:33:00",
+    "carbs": 66.0,
+    "fat": 42.0,
+    "protein": 22.0,
+    "calories": 712.0
+  },
+  {
+    "path": "<codex-run>/carb_fresh_audit/daily_totals/label_audit/p4_11830.jpg",
+    "timestamp": "2023-09-19T15:02:00",
+    "carbs": 43.0,
+    "fat": 20.0,
+    "protein": 20.0,
+    "calories": 445.0
+  },
+  {
+    "path": "<codex-run>/carb_fresh_audit/daily_totals/label_audit/p4_12027.jpg",
+    "timestamp": "2023-09-19T18:19:00",
+    "carbs": 124.0,
+    "fat": 141.0,
+    "protein": 116.0,
+    "calories": 2250.0
+  },
+  {
+    "path": "<codex-run>/carb_fresh_audit/daily_totals/label_audit/p4_12065.jpg",
+    "timestamp": "2023-09-19T18:57:00",
+    "carbs": 126.0,
+    "fat": 13.0,
+    "protein": 12.0,
+    "calories": 730.0
+  },
+  {
+    "path": "<codex-run>/carb_fresh_audit/daily_totals/label_audit/p4_12076.jpg",
+    "timestamp": "2023-09-19T19:08:00",
+    "carbs": 32.0,
+    "fat": 14.0,
+    "protein": 8.0,
+    "calories": 300.0
+  },
+  {
+    "path": "<codex-run>/carb_fresh_audit/daily_totals/label_audit/p4_12128.jpg",
+    "timestamp": "2023-09-19T20:00:00",
+    "carbs": 14.0,
+    "fat": 0.0,
+    "protein": 0.0,
+    "calories": 50.0
+  },
+  {
+    "path": "<codex-run>/carb_fresh_audit/daily_totals/label_audit/p4_12159.jpg",
+    "timestamp": "2023-09-19T20:31:00",
+    "carbs": 35.0,
+    "fat": 0.0,
+    "protein": 0.0,
+    "calories": 139.0
+  },
+  {
+    "path": "<codex-run>/carb_fresh_audit/daily_totals/label_audit/p4_12247.jpg",
+    "timestamp": "2023-09-19T21:59:00",
+    "carbs": 34.0,
+    "fat": 14.0,
+    "protein": 44.0,
+    "calories": 440.0
+  }
+]

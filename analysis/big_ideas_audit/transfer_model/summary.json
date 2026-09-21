@@ -1,0 +1,101 @@
+[
+  {
+    "method": "median_boost/kernel",
+    "meals": 65,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 38.11995005817463,
+      "Protein": 16.928072992650975,
+      "Fat": 13.568207401659873
+    }
+  },
+  {
+    "method": "median_boost/offset",
+    "meals": 65,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 38.76214283254876,
+      "Protein": 16.965367556048083,
+      "Fat": 13.553993829450848
+    }
+  },
+  {
+    "method": "median_boost/population",
+    "meals": 65,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 37.207185008046146,
+      "Protein": 20.84526587562657,
+      "Fat": 13.042479820147001
+    }
+  },
+  {
+    "method": "ridge100/kernel",
+    "meals": 65,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 39.17817975844932,
+      "Protein": 14.32838813468993,
+      "Fat": 13.015333576125057
+    }
+  },
+  {
+    "method": "ridge100/offset",
+    "meals": 65,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 39.71488227026762,
+      "Protein": 14.664963430254454,
+      "Fat": 13.035455982450395
+    }
+  },
+  {
+    "method": "ridge100/population",
+    "meals": 65,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 38.22677349471635,
+      "Protein": 22.256768589808658,
+      "Fat": 14.093824189872649
+    }
+  },
+  {
+    "method": "trees5/kernel",
+    "meals": 65,
+    "people": 5,
+    "hits": 1,
+    "MAE": {
+      "Carbs": 37.12256630437843,
+      "Protein": 13.476767270854268,
+      "Fat": 12.454508992586112
+    }
+  },
+  {
+    "method": "trees5/offset",
+    "meals": 65,
+    "people": 5,
+    "hits": 1,
+    "MAE": {
+      "Carbs": 37.639728793275076,
+      "Protein": 13.401254312698928,
+      "Fat": 12.49659191399802
+    }
+  },
+  {
+    "method": "trees5/population",
+    "meals": 65,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 36.08167413110891,
+      "Protein": 23.269855566143516,
+      "Fat": 13.272647055610804
+    }
+  }
+]

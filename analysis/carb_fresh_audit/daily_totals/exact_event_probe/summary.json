@@ -1,0 +1,29 @@
+{
+  "clock": {
+    "n": 44,
+    "hits": 10,
+    "mape": 25.399735482313552,
+    "mae": 48.992075003428475
+  },
+  "cgm": {
+    "n": 44,
+    "hits": 8,
+    "mape": 26.157183046255973,
+    "mae": 54.35070504583789
+  },
+  "cgm_clock": {
+    "n": 44,
+    "hits": 12,
+    "mape": 22.78574490102545,
+    "mae": 47.17156417944998
+  },
+  "counts": {
+    "training_days": 64,
+    "training_events": 267,
+    "later_days": 44,
+    "later_events": 189,
+    "incomplete_later_windows": 0,
+    "all44": true
+  },
+  "not_passive": true
+}

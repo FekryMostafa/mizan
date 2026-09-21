@@ -1,0 +1,110 @@
+[
+  {
+    "pid": 2,
+    "modality": "EDA",
+    "rows": 2519022,
+    "first_time": "2020-02-21 09:19:00",
+    "last_time": "2020-02-29 12:45:00",
+    "minimum": 0.0,
+    "maximum": 22.240353
+  },
+  {
+    "pid": 4,
+    "modality": "EDA",
+    "rows": 1798602,
+    "first_time": "2020-02-27 08:37:00",
+    "last_time": "2020-03-06 11:38:00",
+    "minimum": 0.0,
+    "maximum": 16.155537
+  },
+  {
+    "pid": 5,
+    "modality": "EDA",
+    "rows": 2914620,
+    "first_time": "2020-02-27 13:34:00",
+    "last_time": "2020-03-07 14:36:00",
+    "minimum": 0.0,
+    "maximum": 41.746975
+  },
+  {
+    "pid": 6,
+    "modality": "EDA",
+    "rows": 2000004,
+    "first_time": "2020-02-28 10:18:00",
+    "last_time": "2020-03-09 10:00:00",
+    "minimum": 0.0,
+    "maximum": 42.237225
+  },
+  {
+    "pid": 7,
+    "modality": "EDA",
+    "rows": 2595222,
+    "first_time": "2020-03-14 10:24:00",
+    "last_time": "2020-03-22 11:09:00",
+    "minimum": 0.0,
+    "maximum": 31.508194
+  },
+  {
+    "pid": 8,
+    "modality": "EDA",
+    "rows": 2664480,
+    "first_time": "2020-03-14 12:20:00",
+    "last_time": "2020-03-23 11:45:00",
+    "minimum": 0.0,
+    "maximum": 20.375313
+  },
+  {
+    "pid": 2,
+    "modality": "TEMP",
+    "rows": 2518992,
+    "first_time": "2020-02-21 09:19:00",
+    "last_time": "2020-02-29 12:45:00",
+    "minimum": 22.07,
+    "maximum": 36.75
+  },
+  {
+    "pid": 4,
+    "modality": "TEMP",
+    "rows": 1798592,
+    "first_time": "2020-02-27 08:37:00",
+    "last_time": "2020-03-06 11:38:00",
+    "minimum": 23.27,
+    "maximum": 36.53
+  },
+  {
+    "pid": 5,
+    "modality": "TEMP",
+    "rows": 2914592,
+    "first_time": "2020-02-27 13:34:00",
+    "last_time": "2020-03-07 14:36:00",
+    "minimum": 21.31,
+    "maximum": 37.81
+  },
+  {
+    "pid": 6,
+    "modality": "TEMP",
+    "rows": 2000000,
+    "first_time": "2020-02-28 10:18:00",
+    "last_time": "2020-03-09 10:00:00",
+    "minimum": 24.31,
+    "maximum": 37.37
+  },
+  {
+    "pid": 7,
+    "modality": "TEMP",
+    "rows": 2595184,
+    "first_time": "2020-03-14 10:24:00",
+    "last_time": "2020-03-22 11:09:00",
+    "minimum": 22.13,
+    "maximum": 36.53
+  },
+  {
+    "pid": 8,
+    "modality": "TEMP",
+    "rows": 2664464,
+    "first_time": "2020-03-14 12:20:00",
+    "last_time": "2020-03-23 11:45:00",
+    "minimum": 19.2,
+    "maximum": 36.57
+  }
+]

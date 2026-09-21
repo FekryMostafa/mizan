@@ -1,0 +1,32 @@
+{
+  "clock": {
+    "n": 44,
+    "hits": 14,
+    "mape": 19.72524342275019,
+    "mae": 40.26487639952567
+  },
+  "cgm": {
+    "n": 44,
+    "hits": 7,
+    "mape": 24.145707083335058,
+    "mae": 49.08260710736615
+  },
+  "cgm_clock": {
+    "n": 44,
+    "hits": 9,
+    "mape": 21.51820285210343,
+    "mae": 46.69331837795694
+  },
+  "audit": {
+    "candidate_events": 843,
+    "training_events": 820,
+    "training_people": 34,
+    "training_meals_at_least120": 8,
+    "later_events": 189,
+    "later_days": 44,
+    "all44": true,
+    "training_test_event_disjoint": true,
+    "source_hashes_unchanged": true,
+    "not_passive": true
+  }
+}

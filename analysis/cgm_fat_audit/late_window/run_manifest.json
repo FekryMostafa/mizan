@@ -1,0 +1,7 @@
+{
+  "script_sha256": "654f231dd6aa59a27d0125b60c7bfed4cdf7373a69f725661d30d735052588f9",
+  "primary": "personal_linear_10",
+  "tuned_on_test": false,
+  "matched_query_sets": true,
+  "limitation": "Small retrospective selected subset. Meal timing and five-hour isolation obtained from logs."
+}

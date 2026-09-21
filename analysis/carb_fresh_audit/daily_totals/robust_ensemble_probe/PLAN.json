@@ -1,0 +1,13 @@
+{
+  "scope": "Same31 fixed candidate models, original33earlier predictions and44later outcomes.",
+  "hypothesis": "Very low or high component predictions may dominate uniform mean.",
+  "rules": [
+    "original mean",
+    "median",
+    "trim3 at each tail then mean",
+    "trim6 at each tail then mean",
+    "winsorize3 each tail then mean"
+  ],
+  "selection": "Earlier33daily MAPE thenMAE only, freeze rule before later scoring. No per-person or failure-specific choice.",
+  "limitations": "Post hoc hypothesis from inspected failures; same development set, not fresh validation. Robustification does not prove biological conversion."
+}

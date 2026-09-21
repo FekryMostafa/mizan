@@ -1,0 +1,146 @@
+[
+  {
+    "method": "nearest_onboarding",
+    "scope": "all",
+    "meals": 65,
+    "people": 5,
+    "hits": 6,
+    "MAE": {
+      "total_carb": 47.53384615384615,
+      "protein": 19.952307692307695,
+      "total_fat": 15.824615384615386
+    }
+  },
+  {
+    "method": "nearest_onboarding",
+    "scope": "unfamiliar_macros",
+    "meals": 51,
+    "people": 5,
+    "hits": 1,
+    "MAE": {
+      "total_carb": 56.219607843137254,
+      "protein": 22.835294117647063,
+      "total_fat": 18.376470588235296
+    }
+  },
+  {
+    "method": "no_sensor_median",
+    "scope": "all",
+    "meals": 65,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "total_carb": 41.17923076923077,
+      "protein": 15.563846153846153,
+      "total_fat": 13.736153846153849
+    }
+  },
+  {
+    "method": "no_sensor_median",
+    "scope": "unfamiliar_macros",
+    "meals": 51,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "total_carb": 48.9813725490196,
+      "protein": 17.521568627450975,
+      "total_fat": 15.30196078431373
+    }
+  },
+  {
+    "method": "personal_kernel_1",
+    "scope": "all",
+    "meals": 65,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "total_carb": 39.56391641043939,
+      "protein": 13.734200066187741,
+      "total_fat": 13.017423834770444
+    }
+  },
+  {
+    "method": "personal_kernel_1",
+    "scope": "unfamiliar_macros",
+    "meals": 51,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "total_carb": 45.071228112289404,
+      "protein": 15.204495077444822,
+      "total_fat": 14.712440463770943
+    }
+  },
+  {
+    "method": "personal_linear_10",
+    "scope": "all",
+    "meals": 65,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "total_carb": 39.2968404792217,
+      "protein": 14.495900298179164,
+      "total_fat": 13.39876949508622
+    }
+  },
+  {
+    "method": "personal_linear_10",
+    "scope": "unfamiliar_macros",
+    "meals": 51,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "total_carb": 45.15572704805783,
+      "protein": 16.531962848932253,
+      "total_fat": 15.429628809097313
+    }
+  },
+  {
+    "method": "personal_offset",
+    "scope": "all",
+    "meals": 65,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "total_carb": 40.717532877382745,
+      "protein": 14.25620411839863,
+      "total_fat": 13.036227000931964
+    }
+  },
+  {
+    "method": "personal_offset",
+    "scope": "unfamiliar_macros",
+    "meals": 51,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "total_carb": 45.19454037153205,
+      "protein": 15.332963150085284,
+      "total_fat": 14.503523811942038
+    }
+  },
+  {
+    "method": "population_ridge",
+    "scope": "all",
+    "meals": 65,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "total_carb": 39.61742121053842,
+      "protein": 15.434494345125822,
+      "total_fat": 12.896807358278572
+    }
+  },
+  {
+    "method": "population_ridge",
+    "scope": "unfamiliar_macros",
+    "meals": 51,
+    "people": 5,
+    "hits": 0,
+    "MAE": {
+      "total_carb": 45.5361354335798,
+      "protein": 16.370645840324453,
+      "total_fat": 13.079829532699332
+    }
+  }
+]

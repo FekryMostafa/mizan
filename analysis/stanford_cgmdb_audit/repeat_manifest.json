@@ -1,0 +1,18 @@
+{
+  "script_sha256": "701866300777b7fc031fa641074750c95e5dd776cf36c6a2fb3aecfd89649a9d",
+  "input_sha256": "53d8ea2b3fa560b87183485186a01f34678aa55bc9f9351a31c0b611846b6f72",
+  "plan": {
+    "target": "Nominal added nutrient: 15 g fat or 10 g protein, not total meal macros.",
+    "calibration_counts": [
+      1,
+      2
+    ],
+    "query": "Every available repeat numbered >=3, identical queries for both counts.",
+    "inclusion": "At least three rice and three supplemented-condition sessions per person.",
+    "representation": "0..170 minute smoothed curves minus median at -25,-20,-15 minutes, before nominal preload.",
+    "conversion": "Project query onto high-minus-low calibration mean curve; clip below zero only.",
+    "tuning": false,
+    "chronological_validation": false,
+    "limitations": "Cross-condition dates unavailable; baseline spline is noncausal; intervention nutrition co-varies; only two people."
+  }
+}

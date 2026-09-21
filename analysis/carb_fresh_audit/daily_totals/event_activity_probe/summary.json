@@ -1,0 +1,35 @@
+{
+  "reference": {
+    "n": 44,
+    "hits": 9,
+    "mape": 21.51820285210343,
+    "mae": 46.69331837795694
+  },
+  "plus_activity": {
+    "n": 44,
+    "hits": 15,
+    "mape": 20.269347971381976,
+    "mae": 42.60023740019536
+  },
+  "plus_hr_activity": {
+    "n": 44,
+    "hits": 16,
+    "mape": 21.09978786471797,
+    "mae": 44.61739846632229
+  },
+  "context_without_glucose": {
+    "n": 44,
+    "hits": 14,
+    "mape": 19.734618436327082,
+    "mae": 42.33014984483571
+  },
+  "audit": {
+    "training_events": 820,
+    "later_events": 189,
+    "all44": true,
+    "reference_replayed": true,
+    "later_complete_hr_windows": 161,
+    "later_complete_activity_windows": 189,
+    "not_passive": true
+  }
+}

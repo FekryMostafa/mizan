@@ -1,0 +1,548 @@
+[
+  {
+    "sensor": "Dexcom GL",
+    "method": "no_sensor_calibration_median",
+    "scope": "all_later",
+    "meals": 259,
+    "people": 31,
+    "hits": 25,
+    "MAE": {
+      "Carbs": 20.617760617760617,
+      "Protein": 21.22007722007722,
+      "Fat": 11.681467181467182
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "no_sensor_calibration_median",
+    "scope": "calibrated_macros",
+    "meals": 104,
+    "people": 31,
+    "hits": 25,
+    "MAE": {
+      "Carbs": 11.307692307692308,
+      "Protein": 10.576923076923077,
+      "Fat": 7.875
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "no_sensor_calibration_median",
+    "scope": "unfamiliar_macros",
+    "meals": 155,
+    "people": 30,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 26.864516129032257,
+      "Protein": 28.361290322580643,
+      "Fat": 14.235483870967743
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal_kernel_1",
+    "scope": "all_later",
+    "meals": 259,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 20.36061700256311,
+      "Protein": 22.14743445991979,
+      "Fat": 10.204518418646565
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal_kernel_1",
+    "scope": "calibrated_macros",
+    "meals": 104,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 14.838037658352933,
+      "Protein": 16.3004987840658,
+      "Fat": 11.259655369912878
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal_kernel_1",
+    "scope": "unfamiliar_macros",
+    "meals": 155,
+    "people": 30,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 24.066089594807355,
+      "Protein": 26.07053968758957,
+      "Fat": 9.496555561022717
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal_linear_1",
+    "scope": "all_later",
+    "meals": 259,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 23.956321784079186,
+      "Protein": 24.95536025975032,
+      "Fat": 13.615573121082779
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal_linear_1",
+    "scope": "calibrated_macros",
+    "meals": 104,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 19.04413810451126,
+      "Protein": 17.770739519185227,
+      "Fat": 12.197293856204528
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal_linear_1",
+    "scope": "unfamiliar_macros",
+    "meals": 155,
+    "people": 30,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 27.252238575531216,
+      "Protein": 29.77600901471013,
+      "Fat": 14.567192756872053
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal_linear_10",
+    "scope": "all_later",
+    "meals": 259,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 21.29325149756137,
+      "Protein": 22.483509286090797,
+      "Fat": 11.227309880400545
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal_linear_10",
+    "scope": "calibrated_macros",
+    "meals": 104,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 15.739363337986985,
+      "Protein": 16.219048171516427,
+      "Fat": 11.405367170372093
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal_linear_10",
+    "scope": "unfamiliar_macros",
+    "meals": 155,
+    "people": 30,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 25.019731294953218,
+      "Protein": 26.686760614579413,
+      "Fat": 11.10783918261318
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal_linear_100",
+    "scope": "all_later",
+    "meals": 259,
+    "people": 31,
+    "hits": 1,
+    "MAE": {
+      "Carbs": 20.783293839561747,
+      "Protein": 22.03389807760999,
+      "Fat": 10.277971412555083
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal_linear_100",
+    "scope": "calibrated_macros",
+    "meals": 104,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 14.987185492042377,
+      "Protein": 16.150995043791607,
+      "Fat": 11.642113930130904
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal_linear_100",
+    "scope": "unfamiliar_macros",
+    "meals": 155,
+    "people": 30,
+    "hits": 1,
+    "MAE": {
+      "Carbs": 24.672295569510226,
+      "Protein": 25.981136242236516,
+      "Fat": 9.36267578785905
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal_offset",
+    "scope": "all_later",
+    "meals": 259,
+    "people": 31,
+    "hits": 1,
+    "MAE": {
+      "Carbs": 20.74131717386439,
+      "Protein": 21.979384489902912,
+      "Fat": 10.166783373731212
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal_offset",
+    "scope": "calibrated_macros",
+    "meals": 104,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 14.894409823705875,
+      "Protein": 16.08554004454552,
+      "Fat": 11.678212400631924
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "personal_offset",
+    "scope": "unfamiliar_macros",
+    "meals": 155,
+    "people": 30,
+    "hits": 1,
+    "MAE": {
+      "Carbs": 24.664403395906238,
+      "Protein": 25.933963988723352,
+      "Fat": 9.152663252455895
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "population_linear",
+    "scope": "all_later",
+    "meals": 259,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 20.56860947309632,
+      "Protein": 22.797145726434817,
+      "Fat": 11.348768765084735
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "population_linear",
+    "scope": "calibrated_macros",
+    "meals": 104,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 15.127788418374916,
+      "Protein": 18.25725988118041,
+      "Fat": 13.435745452386103
+    }
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "population_linear",
+    "scope": "unfamiliar_macros",
+    "meals": 155,
+    "people": 30,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 24.219224890457777,
+      "Protein": 25.843262680670026,
+      "Fat": 9.948474729734137
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "no_sensor_calibration_median",
+    "scope": "all_later",
+    "meals": 286,
+    "people": 32,
+    "hits": 26,
+    "MAE": {
+      "Carbs": 19.723776223776223,
+      "Protein": 19.545454545454547,
+      "Fat": 13.229020979020978
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "no_sensor_calibration_median",
+    "scope": "calibrated_macros",
+    "meals": 107,
+    "people": 32,
+    "hits": 26,
+    "MAE": {
+      "Carbs": 10.990654205607477,
+      "Protein": 10.280373831775702,
+      "Fat": 8.242990654205608
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "no_sensor_calibration_median",
+    "scope": "unfamiliar_macros",
+    "meals": 179,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 24.94413407821229,
+      "Protein": 25.083798882681563,
+      "Fat": 16.20949720670391
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal_kernel_1",
+    "scope": "all_later",
+    "meals": 286,
+    "people": 32,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 20.75872375224412,
+      "Protein": 21.586778144530523,
+      "Fat": 11.268420864722225
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal_kernel_1",
+    "scope": "calibrated_macros",
+    "meals": 107,
+    "people": 32,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 14.446931795176027,
+      "Protein": 16.554392997083994,
+      "Fat": 11.517716489972978
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal_kernel_1",
+    "scope": "unfamiliar_macros",
+    "meals": 179,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 24.53169436345242,
+      "Protein": 24.594963679596326,
+      "Fat": 11.119400574767864
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal_linear_1",
+    "scope": "all_later",
+    "meals": 286,
+    "people": 32,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 24.335029530358913,
+      "Protein": 24.76229478957824,
+      "Fat": 14.043024022627636
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal_linear_1",
+    "scope": "calibrated_macros",
+    "meals": 107,
+    "people": 32,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 17.77706307618077,
+      "Protein": 18.28544472268185,
+      "Fat": 12.512396367564994
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal_linear_1",
+    "scope": "unfamiliar_macros",
+    "meals": 179,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 28.255154729225186,
+      "Protein": 28.633931421745352,
+      "Fat": 14.957980218670667
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal_linear_10",
+    "scope": "all_later",
+    "meals": 286,
+    "people": 32,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 21.46112513816267,
+      "Protein": 22.030371590857378,
+      "Fat": 11.949028921211736
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal_linear_10",
+    "scope": "calibrated_macros",
+    "meals": 107,
+    "people": 32,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 14.827398903121122,
+      "Protein": 16.24188849126793,
+      "Fat": 11.580077222495673
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal_linear_10",
+    "scope": "unfamiliar_macros",
+    "meals": 179,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 25.42653690994729,
+      "Protein": 25.490526292846596,
+      "Fat": 12.169575467371617
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal_linear_100",
+    "scope": "all_later",
+    "meals": 286,
+    "people": 32,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 21.013466573819834,
+      "Protein": 21.45559799033125,
+      "Fat": 11.264769132751445
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal_linear_100",
+    "scope": "calibrated_macros",
+    "meals": 107,
+    "people": 32,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 14.672634929773533,
+      "Protein": 16.23849726697548,
+      "Fat": 11.854549459360715
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal_linear_100",
+    "scope": "unfamiliar_macros",
+    "meals": 179,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 24.803796104059803,
+      "Protein": 24.57420009870593,
+      "Fat": 10.912218881649812
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal_offset",
+    "scope": "all_later",
+    "meals": 286,
+    "people": 32,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 20.971358815546015,
+      "Protein": 21.331127430525786,
+      "Fat": 11.141525437419546
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal_offset",
+    "scope": "calibrated_macros",
+    "meals": 107,
+    "people": 32,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 14.745932602712672,
+      "Protein": 16.165818801858858,
+      "Fat": 11.90476780786196
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "personal_offset",
+    "scope": "unfamiliar_macros",
+    "meals": 179,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 24.692702976289972,
+      "Protein": 24.4187700186116,
+      "Fat": 10.685285584696986
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "population_linear",
+    "scope": "all_later",
+    "meals": 286,
+    "people": 32,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 20.414038700826566,
+      "Protein": 22.120229833880785,
+      "Fat": 12.264519248019262
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "population_linear",
+    "scope": "calibrated_macros",
+    "meals": 107,
+    "people": 32,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 14.533252629072944,
+      "Protein": 17.921834708090095,
+      "Fat": 13.960383040332685
+    }
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "population_linear",
+    "scope": "unfamiliar_macros",
+    "meals": 179,
+    "people": 31,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 23.92936892248934,
+      "Protein": 24.629885020805947,
+      "Fat": 11.250790612390572
+    }
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "development_food_items": 535,
+  "explicit_gram_items": 45,
+  "mass_conflict_items": 1,
+  "component_calorie_mismatches": 45,
+  "query_meals": 65,
+  "queries_with_mass_conflict": 0,
+  "queries_with_component_calorie_mismatch": 19,
+  "note": "Mass flags imply inconsistency among reported quantity, units and macros, not which field is wrong. Calorie mismatch is only a review flag: alcohol, fiber, food factors and rounding can contribute."
+}

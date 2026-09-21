@@ -1,0 +1,8 @@
+{
+  "non_deployable": true,
+  "query_other_macro_labels_supplied": true,
+  "query_target_macro_not_supplied": true,
+  "reserved_accessed": false,
+  "script_sha256": "b9956d4d0a4cea87121324cd9bc7fbea1859f9fe0d9650cb9b1bfaf171e5ad6f",
+  "caveat": "Diagnostic conditional prediction under fixed models; not a theoretical upper bound or verified wearable."
+}

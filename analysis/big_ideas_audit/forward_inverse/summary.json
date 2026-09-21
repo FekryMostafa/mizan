@@ -1,0 +1,44 @@
+[
+  {
+    "prior_strength": 0.0,
+    "meals": 65,
+    "people": 5,
+    "hits": 0,
+    "converged": 65,
+    "MAE": {
+      "Carbs": 79.95267200455973,
+      "Protein": 50.056382431776036,
+      "Fat": 50.89091284297442
+    },
+    "median_decoded_curve_RMSE": 10.043621144007176,
+    "median_true_grams_curve_RMSE": 17.696997272735693
+  },
+  {
+    "prior_strength": 0.1,
+    "meals": 65,
+    "people": 5,
+    "hits": 0,
+    "converged": 65,
+    "MAE": {
+      "Carbs": 39.014866517284666,
+      "Protein": 17.560398256925293,
+      "Fat": 15.398264681718073
+    },
+    "median_decoded_curve_RMSE": 15.386194696961347,
+    "median_true_grams_curve_RMSE": 17.696997272735693
+  },
+  {
+    "prior_strength": 1.0,
+    "meals": 65,
+    "people": 5,
+    "hits": 0,
+    "converged": 65,
+    "MAE": {
+      "Carbs": 39.44670166257073,
+      "Protein": 15.57835004541909,
+      "Fat": 13.747095130763986
+    },
+    "median_decoded_curve_RMSE": 17.723151430646197,
+    "median_true_grams_curve_RMSE": 17.696997272735693
+  }
+]

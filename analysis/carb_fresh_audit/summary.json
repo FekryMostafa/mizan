@@ -1,0 +1,26 @@
+[
+  {
+    "method": "Dexcom GL",
+    "people": 26,
+    "meals": 52,
+    "hits": 5,
+    "MAE": 19.248431387457963,
+    "both_correct": 0
+  },
+  {
+    "method": "Libre GL",
+    "people": 26,
+    "meals": 52,
+    "hits": 8,
+    "MAE": 17.509321725286636,
+    "both_correct": 1
+  },
+  {
+    "method": "mean_sensor_full_curve",
+    "people": 26,
+    "meals": 52,
+    "hits": 10,
+    "MAE": 17.95932865614208,
+    "both_correct": 0
+  }
+]

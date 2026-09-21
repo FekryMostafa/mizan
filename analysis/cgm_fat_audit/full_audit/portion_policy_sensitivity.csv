@@ -1,0 +1,19 @@
+policy,sensor,macro,people,median,positive
+100_only,Libre GL,carbs,33,23.573240740740747,32
+100_only,Libre GL,protein,34,-14.745648148148144,4
+100_only,Libre GL,fat,33,-5.3107407407407266,12
+100_only,Dexcom GL,carbs,32,30.367777777777782,29
+100_only,Dexcom GL,protein,34,-15.093611111111112,4
+100_only,Dexcom GL,fat,33,-5.486666666666665,10
+100_or_1_hypothesis,Libre GL,carbs,41,20.82796296296297,39
+100_or_1_hypothesis,Libre GL,protein,42,-11.912638888888894,7
+100_or_1_hypothesis,Libre GL,fat,41,-3.2997222222222167,17
+100_or_1_hypothesis,Dexcom GL,carbs,40,27.0375,36
+100_or_1_hypothesis,Dexcom GL,protein,42,-14.001111111111111,7
+100_or_1_hypothesis,Dexcom GL,fat,41,-3.7763888888888744,14
+ignore_portion_field,Libre GL,carbs,42,20.498888888888892,40
+ignore_portion_field,Libre GL,protein,44,-11.912638888888894,7
+ignore_portion_field,Libre GL,fat,43,-2.367962962962954,19
+ignore_portion_field,Dexcom GL,carbs,41,26.593888888888895,37
+ignore_portion_field,Dexcom GL,protein,44,-13.247222222222216,7
+ignore_portion_field,Dexcom GL,fat,43,-2.829444444444448,16

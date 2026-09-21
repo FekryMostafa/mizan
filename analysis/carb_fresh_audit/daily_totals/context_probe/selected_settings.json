@@ -1,0 +1,9 @@
+{
+  "family": "summary_context",
+  "kind": "kernel",
+  "reg": 0.1,
+  "n": 29,
+  "hits": 8,
+  "mape": 23.127688854776817,
+  "mae": 42.764861832927465
+}

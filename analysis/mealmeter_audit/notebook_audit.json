@@ -1,0 +1,211 @@
+{
+  "notebook_sha256": "27cf98714a7645a454abfee6d68fdc3edb619f59e258cfd694e47a57901a269a",
+  "scope": "Saved source and outputs, not a rerun on missing raw participant data.",
+  "signal_count": 173,
+  "label_count": 173,
+  "participant_counts": {
+    "P10": 14,
+    "P11": 13,
+    "P12": 13,
+    "P1": 15,
+    "P2": 15,
+    "P3": 14,
+    "P4": 14,
+    "P5": 13,
+    "P6": 13,
+    "P7": 19,
+    "P8": 15,
+    "P9": 15
+  },
+  "evaluation_blocks": [
+    {
+      "start_inclusive": 0,
+      "end_exclusive": 15,
+      "participant_counts_from_saved_filenames": {
+        "P10": 14,
+        "P11": 1
+      },
+      "mixed_participants": true
+    },
+    {
+      "start_inclusive": 15,
+      "end_exclusive": 30,
+      "participant_counts_from_saved_filenames": {
+        "P11": 12,
+        "P12": 3
+      },
+      "mixed_participants": true
+    },
+    {
+      "start_inclusive": 30,
+      "end_exclusive": 44,
+      "participant_counts_from_saved_filenames": {
+        "P12": 10,
+        "P1": 4
+      },
+      "mixed_participants": true
+    },
+    {
+      "start_inclusive": 44,
+      "end_exclusive": 58,
+      "participant_counts_from_saved_filenames": {
+        "P1": 11,
+        "P2": 3
+      },
+      "mixed_participants": true
+    },
+    {
+      "start_inclusive": 58,
+      "end_exclusive": 71,
+      "participant_counts_from_saved_filenames": {
+        "P2": 12,
+        "P3": 1
+      },
+      "mixed_participants": true
+    },
+    {
+      "start_inclusive": 71,
+      "end_exclusive": 84,
+      "participant_counts_from_saved_filenames": {
+        "P3": 13
+      },
+      "mixed_participants": false
+    },
+    {
+      "start_inclusive": 84,
+      "end_exclusive": 103,
+      "participant_counts_from_saved_filenames": {
+        "P4": 14,
+        "P5": 5
+      },
+      "mixed_participants": true
+    },
+    {
+      "start_inclusive": 103,
+      "end_exclusive": 118,
+      "participant_counts_from_saved_filenames": {
+        "P5": 8,
+        "P6": 7
+      },
+      "mixed_participants": true
+    },
+    {
+      "start_inclusive": 118,
+      "end_exclusive": 133,
+      "participant_counts_from_saved_filenames": {
+        "P6": 6,
+        "P7": 9
+      },
+      "mixed_participants": true
+    },
+    {
+      "start_inclusive": 133,
+      "end_exclusive": 147,
+      "participant_counts_from_saved_filenames": {
+        "P7": 10,
+        "P8": 4
+      },
+      "mixed_participants": true
+    },
+    {
+      "start_inclusive": 147,
+      "end_exclusive": 160,
+      "participant_counts_from_saved_filenames": {
+        "P8": 11,
+        "P9": 2
+      },
+      "mixed_participants": true
+    },
+    {
+      "start_inclusive": 160,
+      "end_exclusive": 173,
+      "participant_counts_from_saved_filenames": {
+        "P9": 13
+      },
+      "mixed_participants": false
+    }
+  ],
+  "mixed_evaluation_blocks": 10,
+  "filename_pair_mismatches": [
+    {
+      "row_zero_based": 73,
+      "signal": "P3_D1_snack2_short",
+      "label": "P3_D1_snack1_label"
+    },
+    {
+      "row_zero_based": 74,
+      "signal": "P3_D1_snacks1_short",
+      "label": "P3_D1_snack2_label"
+    }
+  ],
+  "feature_attribution_actual_signal_mixture_per_bar": {
+    "0": {
+      "0": 3,
+      "1": 2,
+      "2": 2,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2
+    },
+    "1": {
+      "0": 3,
+      "1": 2,
+      "2": 2,
+      "3": 2,
+      "4": 3,
+      "5": 2,
+      "6": 2
+    },
+    "2": {
+      "0": 2,
+      "1": 3,
+      "2": 2,
+      "3": 2,
+      "4": 3,
+      "5": 2,
+      "6": 2
+    },
+    "3": {
+      "0": 2,
+      "1": 3,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "5": 3,
+      "6": 2
+    },
+    "4": {
+      "0": 2,
+      "1": 2,
+      "2": 3,
+      "3": 2,
+      "4": 2,
+      "5": 3,
+      "6": 2
+    },
+    "5": {
+      "0": 2,
+      "1": 2,
+      "2": 3,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 3
+    },
+    "6": {
+      "0": 2,
+      "1": 2,
+      "2": 2,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 3
+    }
+  },
+  "cautions": [
+    "Notebook outputs may be stale relative to current cell source.",
+    "Filename discrepancies do not establish the contents of missing labels.",
+    "No clinical accuracy can be recomputed without released raw inputs."
+  ]
+}

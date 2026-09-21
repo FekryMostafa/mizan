@@ -1,0 +1,10 @@
+{
+  "selected": "peak_area_context",
+  "person_balanced_MAE": {
+    "area": 23.595922673438263,
+    "peak": 23.680646438622997,
+    "peak_area": 23.57613711881467,
+    "peak_area_context": 23.57180476875394,
+    "personal_median": 25.075687878265764
+  }
+}

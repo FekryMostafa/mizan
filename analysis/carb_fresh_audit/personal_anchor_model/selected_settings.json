@@ -1,0 +1,7 @@
+{
+  "family": "glucose",
+  "gamma": 0.1,
+  "ridge": 0.1,
+  "balanced_hits": 0.14417613636363635,
+  "balanced_mae": 37.80422671880003
+}

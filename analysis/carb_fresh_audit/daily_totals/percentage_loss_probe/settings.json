@@ -1,0 +1,5 @@
+{
+  "family": "context",
+  "loss": "absolute_error",
+  "leaves": 7
+}

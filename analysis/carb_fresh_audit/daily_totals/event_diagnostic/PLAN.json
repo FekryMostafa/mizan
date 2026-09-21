@@ -1,0 +1,7 @@
+{
+  "target": "Same44 daily carb totals; detect eating hours vs infer grams conditional on eating.",
+  "models": "Fixed80iteration histogram boosting,7leaves,min_leaf20,L2=1; classifier for any recordedfood hour including0carb, Poisson regressor for grams trained on recordedfood hours only.",
+  "comparisons": "clock-only/cgm-only/cgm+clock. Passive daily sums probability(food)*conditionalgrams. Oracle sums recordedfood mask*same conditionalgrams. Known eating-hour control is not passive.",
+  "selection": "No later-label hyperparameter selection; all three prespecified arms reported.",
+  "limits": "Hourly food logs may omit intake; detector performance is against recorded events. No threshold tuning. Overlapping windows separated by whole-day30h purge. Reused development cohort."
+}

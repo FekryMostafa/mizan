@@ -1,0 +1,8 @@
+{
+  "primary": "combined",
+  "reserved_accessed": false,
+  "original_glucose_predictions_reproduced": true,
+  "script_sha256": "fc3c4dacf93c628a4480da76e660cab4c46cf19aaf2051c504119339244656d7",
+  "hr_features_sha256": "739ee1ac9ffaf96eb7acfe2a6a1644ed46e21387b34de444b8ddf3742ee1ec0b",
+  "note": "Fixed development comparison; training-only imputation/scaling; no query removed for missing heart rate."
+}

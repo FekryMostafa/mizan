@@ -1,0 +1,42 @@
+[
+  {
+    "method": "area",
+    "source_selected": false,
+    "meals": 65,
+    "hits": 7,
+    "MAE": 40.068714148417726,
+    "median_error": 30.97262501731511
+  },
+  {
+    "method": "peak",
+    "source_selected": false,
+    "meals": 65,
+    "hits": 5,
+    "MAE": 39.7485985985892,
+    "median_error": 28.692385394257514
+  },
+  {
+    "method": "peak_area",
+    "source_selected": false,
+    "meals": 65,
+    "hits": 6,
+    "MAE": 39.85053035266426,
+    "median_error": 30.262437878031008
+  },
+  {
+    "method": "peak_area_context",
+    "source_selected": true,
+    "meals": 65,
+    "hits": 6,
+    "MAE": 39.683653967701495,
+    "median_error": 25.746880666717658
+  },
+  {
+    "method": "personal_median",
+    "source_selected": false,
+    "meals": 65,
+    "hits": 5,
+    "MAE": 41.17923076923077,
+    "median_error": 29.85
+  }
+]

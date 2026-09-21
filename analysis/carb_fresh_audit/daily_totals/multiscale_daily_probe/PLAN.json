@@ -1,0 +1,6 @@
+{
+  "scope": "Same CGMacros daily carb target,64 training days/44 later development days; no query meal times or amounts. Sensors through next06:00.",
+  "features": "Fixed glucose lag increments at15/30/60/120/240min, RMS/net positive/negative/90th percentile increments, autocorrelation; spectral power in30-60/60-120/120-240/240-480/480-1800min bands. Separate24h and30h traces. These are descriptors, not physiological carbohydrate flux estimates.",
+  "selection": "Same33 chronological earlier validation days retaining other people training pool; baseline, originalglucose, multiscale, combined; ridge/kernel regularization0.1/1/10/100/1000, MAPE thenMAE. Freeze selected settings before later scoring.",
+  "limits": "Repeatedly inspected44development days are not fresh validation."
+}

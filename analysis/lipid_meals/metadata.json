@@ -1,0 +1,27 @@
+{
+  "source_sha256": "a57eea125e80204ef73bd1d410bea0479f54be8188e498a89a964cd97f266edc",
+  "window_recording_minutes": [
+    1,
+    55.0
+  ],
+  "resampling_seconds": 60,
+  "reference_carbs_g_ASSUMED": 60,
+  "reference_fat_g_ASSUMED": 25,
+  "trained_on_measured_macros": false,
+  "ATP_correction_applied": false,
+  "independent_meal_validation": false,
+  "same_ATP_profiles": [
+    [
+      "4e",
+      "4g"
+    ],
+    [
+      "4e",
+      "4h"
+    ],
+    [
+      "4g",
+      "4h"
+    ]
+  ]
+}

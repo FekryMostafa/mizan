@@ -1,0 +1,8 @@
+{
+  "target": "Recorded carbohydrate grams per midnight-to-midnight day",
+  "eligibility": "1440 unique minutes and complete Libre; >=3 meal records including breakfast/lunch/dinner; every label eligible_full_consumption; positive daily carbs. Bounds retained and flagged.",
+  "split": "Per person: >=5 eligible days; final ceil(30%) reserved; last earlier day validates shared settings. Final fit uses all earlier days.",
+  "candidates": "Personal historical mean; ridge residual above personal mean using centered CGM or CGM+HR/activity, ridge 0.1,1,10,100,1000.",
+  "selection": "Minimum validation mean absolute percentage error, tie MAE. No later labels used for selection.",
+  "limitations": "Meal logging completeness cannot be proven. Source is already interpolated. Midnight responses cross day boundaries. Same participants as prior research; development evidence, not prospective validation."
+}

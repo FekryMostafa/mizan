@@ -1,0 +1,11 @@
+{
+  "algorithm": "ExtraTreesRegressor",
+  "n_estimators": 200,
+  "min_samples_leaf": 5,
+  "random_state": 20260908,
+  "personal_kernel_regularization": 1,
+  "calibration_meals": 4,
+  "primary": "glucose_both",
+  "tuning": false,
+  "note": "Exploratory development comparison, not fresh validation."
+}

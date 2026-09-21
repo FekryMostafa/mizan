@@ -1,0 +1,257 @@
+{
+  "source_sha256": "a57eea125e80204ef73bd1d410bea0479f54be8188e498a89a964cd97f266edc",
+  "meal_traces": [
+    {
+      "sheet": "4e",
+      "condition": "fasting",
+      "rows": 3301,
+      "first_time_s": 1,
+      "last_time_s": 3301,
+      "ph_voltage_header": "Voltage (mV)",
+      "known_consumed_macro_grams": null,
+      "participant_id": null,
+      "note": "Post-placement electrical signal, not premeal baseline or intake grams.",
+      "glucose_current_nA": {
+        "first_minute_median": 23.498820000000002,
+        "last_minute_median": 6.278605,
+        "minimum": 6.24282,
+        "maximum": 24.00827
+      },
+      "cholesterol_current_nA": {
+        "first_minute_median": 13.671154999999999,
+        "last_minute_median": 5.17429,
+        "minimum": 4.59536,
+        "maximum": 13.89393
+      },
+      "tg_proxy_current_nA": {
+        "first_minute_median": 59.2102,
+        "last_minute_median": 17.200255,
+        "minimum": 17.18069,
+        "maximum": 60.74933
+      }
+    },
+    {
+      "sheet": "4f",
+      "condition": "bacon_and_eggs",
+      "rows": 3436,
+      "first_time_s": 1,
+      "last_time_s": 3436,
+      "ph_voltage_header": "Voltage (V)",
+      "known_consumed_macro_grams": null,
+      "participant_id": null,
+      "note": "Post-placement electrical signal, not premeal baseline or intake grams.",
+      "glucose_current_nA": {
+        "first_minute_median": 18.219099999999997,
+        "last_minute_median": 14.849345,
+        "minimum": 14.67487,
+        "maximum": 23.73625
+      },
+      "cholesterol_current_nA": {
+        "first_minute_median": 17.509790000000002,
+        "last_minute_median": 8.636389999999999,
+        "minimum": 6.88361,
+        "maximum": 18.27187
+      },
+      "tg_proxy_current_nA": {
+        "first_minute_median": 26.432705,
+        "last_minute_median": 28.968585,
+        "minimum": 25.11909,
+        "maximum": 36.70062
+      }
+    },
+    {
+      "sheet": "4g",
+      "condition": "pizza",
+      "rows": 3434,
+      "first_time_s": 1,
+      "last_time_s": 3434,
+      "ph_voltage_header": "Voltage (mV)",
+      "known_consumed_macro_grams": null,
+      "participant_id": null,
+      "note": "Post-placement electrical signal, not premeal baseline or intake grams.",
+      "glucose_current_nA": {
+        "first_minute_median": 27.58446,
+        "last_minute_median": 19.41432,
+        "minimum": 19.21142,
+        "maximum": 63.20342
+      },
+      "cholesterol_current_nA": {
+        "first_minute_median": 15.797385,
+        "last_minute_median": 5.787635,
+        "minimum": 5.6969,
+        "maximum": 20.99791
+      },
+      "tg_proxy_current_nA": {
+        "first_minute_median": 37.126365,
+        "last_minute_median": 11.240245000000002,
+        "minimum": 11.08584,
+        "maximum": 82.27356
+      }
+    },
+    {
+      "sheet": "4h",
+      "condition": "ground_beef",
+      "rows": 3335,
+      "first_time_s": 1,
+      "last_time_s": 3335,
+      "ph_voltage_header": "Voltage (mV)",
+      "known_consumed_macro_grams": null,
+      "participant_id": null,
+      "note": "Post-placement electrical signal, not premeal baseline or intake grams.",
+      "glucose_current_nA": {
+        "first_minute_median": 29.671709999999997,
+        "last_minute_median": 14.669185,
+        "minimum": 14.39861,
+        "maximum": 30.48777
+      },
+      "cholesterol_current_nA": {
+        "first_minute_median": 15.907615,
+        "last_minute_median": 17.946325,
+        "minimum": 15.73054,
+        "maximum": 28.45362
+      },
+      "tg_proxy_current_nA": {
+        "first_minute_median": 22.08514,
+        "last_minute_median": 20.472175,
+        "minimum": 20.0769,
+        "maximum": 28.53033
+      }
+    },
+    {
+      "sheet": "4i",
+      "condition": "milkshake",
+      "rows": 3423,
+      "first_time_s": 1,
+      "last_time_s": 3423,
+      "ph_voltage_header": "Voltage (mV)",
+      "known_consumed_macro_grams": null,
+      "participant_id": null,
+      "note": "Post-placement electrical signal, not premeal baseline or intake grams.",
+      "glucose_current_nA": {
+        "first_minute_median": 51.240485,
+        "last_minute_median": 47.634150000000005,
+        "minimum": 29.50924,
+        "maximum": 66.95737
+      },
+      "cholesterol_current_nA": {
+        "first_minute_median": 19.064345000000003,
+        "last_minute_median": 6.32802,
+        "minimum": 2.59811,
+        "maximum": 19.17383
+      },
+      "tg_proxy_current_nA": {
+        "first_minute_median": 17.48874,
+        "last_minute_median": 7.5261,
+        "minimum": 7.4786,
+        "maximum": 31.44489
+      }
+    }
+  ],
+  "figure5hi_workbook_rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      "Mean CH MAE (mg dl-1)",
+      "Stdev CH MAE (mg dl-1)",
+      "CH (R2)",
+      "Stdev CH (R2)",
+      "Mean TG MAE (mg dl-1)",
+      "Stdev TG MAE (mg dl-1)",
+      "TG (R2)",
+      "Stdev TG (R2)"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "Simple",
+      23.2,
+      2.8,
+      -0.07,
+      0.08,
+      54.5,
+      11.2,
+      -0.01,
+      0.07
+    ],
+    [
+      null,
+      null,
+      "Multi",
+      23,
+      3.6,
+      -0.02,
+      0.04,
+      54.5,
+      10.5,
+      -0.01,
+      0.07
+    ],
+    [
+      null,
+      null,
+      "Ridge",
+      23,
+      3.6,
+      -0.03,
+      0.04,
+      46.4,
+      8,
+      0.2,
+      0.13
+    ],
+    [
+      null,
+      null,
+      "Lasso",
+      23,
+      3.6,
+      -0.03,
+      0.04,
+      46.4,
+      8,
+      0.2,
+      0.13
+    ],
+    [
+      null,
+      null,
+      "Causal ML",
+      15.27,
+      3.6,
+      0.61,
+      0.17,
+      20.8,
+      3.6,
+      0.91,
+      0.08
+    ]
+  ],
+  "interpretation": "Five plotted condition traces are not five independent dose cohorts. No participant grouping or consumed-dose labels inferred from figure order."
+}

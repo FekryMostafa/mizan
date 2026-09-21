@@ -1,0 +1,25 @@
+{
+  "selected": {
+    "band": 0,
+    "width": 5,
+    "mix": 0.5
+  },
+  "validation": {
+    "candidate": 2.0,
+    "band": 0.0,
+    "width": 5.0,
+    "mix": 0.5,
+    "n": 33.0,
+    "hits": 9.0,
+    "mape": 21.056485159999696,
+    "mae": 41.68451715154813
+  },
+  "later": {
+    "n": 44,
+    "hits": 15,
+    "mape": 22.30912332249172,
+    "mae": 45.122783804924765
+  },
+  "all44": true,
+  "query_labels_unused": true
+}

@@ -1,0 +1,7 @@
+{
+  "target": "Diagnostic for exact meal timing, still summed to same44 daily carb totals",
+  "events": "All recorded meal timestamps; merge only identical participant/timestamp. Keep overlapping responses and zero-carb events.",
+  "inputs": "Libre sampled -60..+240min around exact recorded meal time, raw and baseline-relative; clock-only/cgm-only/cgm+clock controls. No meal type, current macro amounts or food identity inputs.",
+  "models": "Same fixed Poisson boosting80iterations,7leaves,min_leaf20,L2=1 as hourly diagnostic; no later-label tuning.",
+  "limits": "Recorded meal times and event counts supplied at evaluation: not passive accuracy. Exact published timestamp not verified true ingestion onset. More events than hourly bins alters segmentation as well as alignment."
+}

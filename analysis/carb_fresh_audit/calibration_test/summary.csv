@@ -1,0 +1,9 @@
+family,anchored,stage,meals,hits,MAE
+CGM,False,calibration,52,6,9.612197155001104
+CGM,False,evaluation,52,9,15.820954337814708
+CGM,True,calibration,52,52,2.6645352591003757e-15
+CGM,True,evaluation,52,11,17.612297950767985
+CGM_activity,False,calibration,52,8,11.591256433015216
+CGM_activity,False,evaluation,52,4,22.005089301785578
+CGM_activity,True,calibration,52,52,4.645856349200655e-15
+CGM_activity,True,evaluation,52,10,17.29936796984725

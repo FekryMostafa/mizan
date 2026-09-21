@@ -1,0 +1,26 @@
+[
+  {
+    "dataset": "BIG_IDEAs_development",
+    "pairs": 705,
+    "repeat_pairs": 27,
+    "repeat_median_curve_rmse": 21.265399904650927,
+    "nearby_pairs": 267,
+    "nearby_disjoint10_counts": {
+      "Carbs": 228,
+      "Protein": 215,
+      "Fat": 225
+    }
+  },
+  {
+    "dataset": "CGMacros",
+    "pairs": 6267,
+    "repeat_pairs": 121,
+    "repeat_median_curve_rmse": 25.91370293879282,
+    "nearby_pairs": 2075,
+    "nearby_disjoint10_counts": {
+      "Carbs": 1522,
+      "Protein": 1644,
+      "Fat": 1653
+    }
+  }
+]

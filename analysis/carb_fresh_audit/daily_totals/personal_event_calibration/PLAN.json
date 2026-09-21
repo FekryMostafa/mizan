@@ -1,0 +1,9 @@
+{
+  "scope": "Same 44 development days, supplied meal times; not passive",
+  "arms": [
+    "reference",
+    "plus_hr_activity"
+  ],
+  "calibration": "For each earlier day of evaluation people, refit pooled model excluding that persons current and later days and overlapping earlier 4h response windows. Other participants earlier training rows retained. Residuals therefore exclude own target. Use fixed shrinkage of 5 pseudo-events: additive mean residual or multiplicative ratio of observed to predicted sums with 5 mean-prediction pseudo-events. No later-label tuning.",
+  "limits": "Same repeatedly inspected development outcomes; no independent validation. Calibration estimates average bias, not individual meal absorption."
+}

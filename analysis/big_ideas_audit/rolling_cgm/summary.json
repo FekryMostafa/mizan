@@ -1,0 +1,90 @@
+[
+  {
+    "method": "fixed_kernel",
+    "scope": "all",
+    "meals": 65,
+    "hits": 1,
+    "MAE": {
+      "Carbs": 37.12256630437843,
+      "Protein": 13.476767270854268,
+      "Fat": 12.45450899258611
+    }
+  },
+  {
+    "method": "fixed_kernel",
+    "scope": "unfamiliar_macros",
+    "meals": 48,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 44.90313467180238,
+      "Protein": 15.540390800798937,
+      "Fat": 13.20815790137504
+    }
+  },
+  {
+    "method": "rolling_kernel",
+    "scope": "all",
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 38.62316598372186,
+      "Protein": 14.339357823358542,
+      "Fat": 11.68432131467823
+    }
+  },
+  {
+    "method": "rolling_kernel",
+    "scope": "unfamiliar_macros",
+    "meals": 48,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 45.13976298956834,
+      "Protein": 16.09059860491179,
+      "Fat": 11.928026910467603
+    }
+  },
+  {
+    "method": "rolling_median",
+    "scope": "all",
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 40.30153846153846,
+      "Protein": 15.143076923076926,
+      "Fat": 12.726153846153847
+    }
+  },
+  {
+    "method": "rolling_median",
+    "scope": "unfamiliar_macros",
+    "meals": 48,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 48.835416666666674,
+      "Protein": 17.51458333333333,
+      "Fat": 13.61875
+    }
+  },
+  {
+    "method": "rolling_nearest",
+    "scope": "all",
+    "meals": 65,
+    "hits": 8,
+    "MAE": {
+      "Carbs": 42.50153846153846,
+      "Protein": 18.715384615384615,
+      "Fat": 12.740000000000002
+    }
+  },
+  {
+    "method": "rolling_nearest",
+    "scope": "unfamiliar_macros",
+    "meals": 48,
+    "hits": 0,
+    "MAE": {
+      "Carbs": 49.26458333333333,
+      "Protein": 22.472916666666663,
+      "Fat": 14.352083333333333
+    }
+  }
+]

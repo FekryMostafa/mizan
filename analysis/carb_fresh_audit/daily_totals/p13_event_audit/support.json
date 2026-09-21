@@ -1,0 +1,8 @@
+{
+  "training_meals": 267,
+  "meals_carbs_at_least120": 7,
+  "p13_training_meals": 19,
+  "p13_max_carbs": 112.0,
+  "broad_high_carb_fat_protein_count": 2,
+  "broad_bin_definition": "carbs>=100, fat>=40, protein>=60; post-hoc description, not model features or selection"
+}

@@ -1,0 +1,22 @@
+{
+  "script_sha256": {
+    "analysis/cgm_fat_audit/prerequisite_checks.py": "fb0514eb87e50790e0e1d18699581e8027b7fc5cc57e0ae143e8b555269ee364",
+    "analysis/cgm_fat_audit/audit.py": "9a0c8891732bc6b9b35436848cb2ac3c2480dcc463902c2f68221def2fb4dcbf",
+    "analysis/cgm_fat_audit/separability.py": "ab4f474515c5a9a3c63fbaf4f48338afe411deec61b4e935a74bebaa2f277bbd",
+    "analysis/cgm_fat_audit/extra_calibration.py": "ec11ad696823fcfc7987948ff910de5883a9224cc6fc2ed5df5c3a53ab1feb50",
+    "analysis/cgm_fat_audit/mixed_grams.py": "393c5be6790a007a38240165fa9189137d5a8340f727314d8327a7823d0e9b4c",
+    "analysis/cgm_fat_audit/shape_probe.py": "a162d2ebaa4ec859a93e882bf09f8e7d164ab9d0848f6230a4317e9c99b96517",
+    "analysis/cgm_fat_audit/grams_probe.py": "cef198e0be9f4dd9b1fd741a59a03744468d3c4468d22226b2d4b34b02d6a866",
+    "analysis/cgm_fat_audit/history_probe.py": "531e7624b88cd52b575bf110f5fdf9239defae1e785a04857e48e70156ee4f53",
+    "analysis/cgm_fat_audit/fat_heavy.py": "11556f3458e6f2510aa76016b002c4928151bb9ae72bcf55cda5d8c75ae91634",
+    "analysis/cgm_fat_audit/additional_people.py": "8d2c746ff7909f7052bcaf7304367bff16696b703786ac7b3939f0d8744cf0fc",
+    "analysis/cgm_fat_audit/pair_probe.py": "9a3e474730031d40b9139c9821f955b5a03c45083da9d91c3306c5ce49e45c67",
+    "analysis/cgm_fat_audit/full_audit.py": "16a47f565d800ae4ef267a1030d96543dd1a12f586c019493d8fa19767eba84d",
+    "analysis/cgm_fat_audit/inverse_basis.py": "aaf0604291034be04feecfaaf12fb8c9f1cdd5d3c67511eac6f68f4c94291ade",
+    "analysis/cgm_fat_audit/merge_verified_context.py": "8f5489eb2078a8eaeec54c5324c7b3fd9449dabbbcb91578d6c56cef68867405"
+  },
+  "source_data_hash_manifest": "full_audit/device_context_quality.csv",
+  "current_context_outputs": "shape_probe_verified",
+  "outer_evaluation_is_exploratory": true,
+  "provisional_context_scores_superseded": true
+}

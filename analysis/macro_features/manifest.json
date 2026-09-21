@@ -1,0 +1,28 @@
+{
+  "source_rows": 652,
+  "development_rows": 86,
+  "features": [
+    "baseline",
+    "pre_slope",
+    "peak_height",
+    "peak_minute",
+    "trough",
+    "end_change",
+    "response_std",
+    "rise_max",
+    "fall_min",
+    "negative_area",
+    "tail_mean",
+    "late_minus_early_peak",
+    "early_signed_area",
+    "early_positive_area",
+    "middle_signed_area",
+    "middle_positive_area",
+    "late_signed_area",
+    "late_positive_area"
+  ],
+  "reserved_accessed": false,
+  "coarse_cache_reproduced": true,
+  "script_sha256": "7e9afb6429ea97ebdfb66b1a67dd2dfaacca270562807cad03ebde079c2f2a08",
+  "caveat": "Exploratory partial rank associations, no causal or prediction accuracy claim."
+}

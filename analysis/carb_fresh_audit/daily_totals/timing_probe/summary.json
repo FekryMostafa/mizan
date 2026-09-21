@@ -1,0 +1,18 @@
+{
+  "original": {
+    "n": 44,
+    "hits": 15,
+    "mape": 20.9994093131625,
+    "mae": 42.59049540691846
+  },
+  "shifted": {
+    "n": 44,
+    "hits": 16,
+    "mape": 20.338147467003402,
+    "mae": 41.844524551521495
+  },
+  "all44": true,
+  "zero_shift_extraction_verified": true,
+  "source_hashes_unchanged": true,
+  "complete_shifted_later_days": 44
+}

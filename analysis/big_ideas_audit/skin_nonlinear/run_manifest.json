@@ -1,0 +1,19 @@
+{
+  "plan": {
+    "algorithm": "ExtraTreesRegressor",
+    "n_estimators": 200,
+    "min_samples_leaf": 5,
+    "random_state": 20260908,
+    "personal_kernel_regularization": 1,
+    "calibration_meals": 4,
+    "primary": "glucose_both",
+    "tuning": false,
+    "note": "Exploratory development comparison, not fresh validation."
+  },
+  "reserved_accessed": false,
+  "script_sha256": "f7281e7da769f7250905620d144ee991de7153785901130645aea3e34c3dadd6",
+  "inputs": {
+    "development_features.npz": "b667b3bd9da80c0af84adaf4946eee10c6ac52c2ad54cfb55c41355672c15b5b",
+    "skin_model/features.npz": "c933b0a413a0d7797d0cbb6a8477b4ace8513e002774ab8e9dfff86b8e4835d0"
+  }
+}

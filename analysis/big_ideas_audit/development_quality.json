@@ -1,0 +1,98 @@
+[
+  {
+    "pid": 1,
+    "schema_valid": true,
+    "food_rows": 61,
+    "missing_carb": 0,
+    "missing_protein": 0,
+    "missing_fat": 57,
+    "missing_times": 0,
+    "meals": 44,
+    "complete_meals": 3,
+    "eligible_3h": 0,
+    "cgm_rows": 2561
+  },
+  {
+    "pid": 2,
+    "schema_valid": true,
+    "food_rows": 68,
+    "missing_carb": 0,
+    "missing_protein": 0,
+    "missing_fat": 52,
+    "missing_times": 0,
+    "meals": 49,
+    "complete_meals": 12,
+    "eligible_3h": 1,
+    "cgm_rows": 2119
+  },
+  {
+    "pid": 3,
+    "schema_valid": false,
+    "reason": "Missing expected column names; first line appears to contain data. No guessed macro mapping."
+  },
+  {
+    "pid": 4,
+    "schema_valid": true,
+    "food_rows": 55,
+    "missing_carb": 0,
+    "missing_protein": 0,
+    "missing_fat": 0,
+    "missing_times": 0,
+    "meals": 25,
+    "complete_meals": 25,
+    "eligible_3h": 18,
+    "cgm_rows": 2164
+  },
+  {
+    "pid": 5,
+    "schema_valid": true,
+    "food_rows": 93,
+    "missing_carb": 0,
+    "missing_protein": 0,
+    "missing_fat": 0,
+    "missing_times": 0,
+    "meals": 45,
+    "complete_meals": 45,
+    "eligible_3h": 17,
+    "cgm_rows": 2558
+  },
+  {
+    "pid": 6,
+    "schema_valid": true,
+    "food_rows": 73,
+    "missing_carb": 0,
+    "missing_protein": 0,
+    "missing_fat": 0,
+    "missing_times": 0,
+    "meals": 48,
+    "complete_meals": 48,
+    "eligible_3h": 20,
+    "cgm_rows": 2847
+  },
+  {
+    "pid": 7,
+    "schema_valid": true,
+    "food_rows": 103,
+    "missing_carb": 0,
+    "missing_protein": 0,
+    "missing_fat": 0,
+    "missing_times": 0,
+    "meals": 36,
+    "complete_meals": 36,
+    "eligible_3h": 11,
+    "cgm_rows": 2207
+  },
+  {
+    "pid": 8,
+    "schema_valid": true,
+    "food_rows": 82,
+    "missing_carb": 0,
+    "missing_protein": 0,
+    "missing_fat": 0,
+    "missing_times": 0,
+    "meals": 30,
+    "complete_meals": 30,
+    "eligible_3h": 19,
+    "cgm_rows": 2505
+  }
+]

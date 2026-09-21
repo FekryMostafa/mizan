@@ -1,0 +1,7 @@
+target_macro,view,meals,hits,MAE
+Carbs,known_other_macros,65.0,7.0,39.55123696761881
+Carbs,known_other_macros_plus_glucose,65.0,6.0,38.06591906534314
+Fat,known_other_macros,65.0,3.0,9.94906673334704
+Fat,known_other_macros_plus_glucose,65.0,5.0,10.830514777552986
+Protein,known_other_macros,65.0,3.0,13.198627841638718
+Protein,known_other_macros_plus_glucose,65.0,6.0,13.13904108844152

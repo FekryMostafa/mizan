@@ -1,0 +1,11 @@
+{
+  "primary": "rolling_kernel",
+  "population": "CGMacros ExtraTrees 200 trees, leaf 5, seed 20260908",
+  "personal_kernel_regularization": 1,
+  "initial_calibration": 4,
+  "label_availability": "Every earlier eligible meal label becomes available after its 3-hour response.",
+  "inputs": "CGM only plus earlier recorded macro labels; no food identity or query macros.",
+  "interpretation": "Extra supervised calibration, not automatic learning from unlabeled meals.",
+  "tuning": false,
+  "reserved_accessed": false
+}

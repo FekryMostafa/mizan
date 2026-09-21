@@ -1,0 +1,26 @@
+Libre GL done
+Dexcom GL done
+[
+  {
+    "sensor": "Libre GL",
+    "method": "nested_selected",
+    "meals": 88,
+    "hits": 36,
+    "MAE": [
+      11.454545454545455,
+      13.0,
+      9.306818181818182
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "nested_selected",
+    "meals": 84,
+    "hits": 32,
+    "MAE": [
+      9.0,
+      16.238095238095237,
+      10.125
+    ]
+  }
+]

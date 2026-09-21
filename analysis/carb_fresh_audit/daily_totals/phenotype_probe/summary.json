@@ -1,0 +1,54 @@
+{
+  "settings": {
+    "none": {
+      "arm": "none",
+      "kind": "kernel",
+      "reg": 0.1,
+      "n": 33,
+      "hits": 13,
+      "mape": 20.692286855777656,
+      "mae": 40.352864100030295
+    },
+    "basic": {
+      "arm": "basic",
+      "kind": "kernel",
+      "reg": 1.0,
+      "n": 33,
+      "hits": 11,
+      "mape": 24.06643352152653,
+      "mae": 44.6716218327725
+    },
+    "labs": {
+      "arm": "labs",
+      "kind": "kernel",
+      "reg": 1.0,
+      "n": 33,
+      "hits": 11,
+      "mape": 23.148804615023273,
+      "mae": 43.58323792630282
+    }
+  },
+  "scores": {
+    "none": {
+      "n": 44,
+      "hits": 15,
+      "mape": 20.99940931316249,
+      "mae": 42.590495406918464
+    },
+    "basic": {
+      "n": 44,
+      "hits": 15,
+      "mape": 20.113180824187467,
+      "mae": 39.269724370578274
+    },
+    "labs": {
+      "n": 44,
+      "hits": 16,
+      "mape": 19.197646952608295,
+      "mae": 37.56618247582322
+    }
+  },
+  "no_query_label_dependence": true,
+  "reference_replayed": true,
+  "all44": true
+}

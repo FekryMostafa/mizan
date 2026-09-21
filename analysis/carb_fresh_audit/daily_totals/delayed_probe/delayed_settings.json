@@ -1,0 +1,10 @@
+{
+  "arm": "delayed",
+  "family": "delayed_summary_context",
+  "kind": "ridge",
+  "reg": 1000.0,
+  "n": 29,
+  "hits": 9,
+  "mape": 22.697763858341897,
+  "mae": 41.355067931487056
+}

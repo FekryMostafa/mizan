@@ -1,0 +1,25 @@
+{
+  "best": {
+    "family": "summary_context",
+    "kind": "kernel",
+    "reg": 0.1,
+    "n": 29,
+    "hits": 8,
+    "mape": 23.127688854776817,
+    "mae": 42.764861832927465
+  },
+  "later": {
+    "n": 44,
+    "hits": 18,
+    "mape": 20.765220831927305,
+    "mae": 42.45397560084564
+  },
+  "baseline": {
+    "n": 44,
+    "hits": 13,
+    "mape": 21.210224355674846,
+    "mae": 41.025757575757574
+  },
+  "validation_distinct_days": 29,
+  "unchanged_input_hashes": true
+}

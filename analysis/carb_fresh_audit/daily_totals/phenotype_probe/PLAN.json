@@ -1,0 +1,6 @@
+{
+  "target": "Same44 later CGMacros daily carbohydrate totals",
+  "inputs": "Known onboarding age/BMI/gender and optionally baseline lab measurements; interact with personally centered glucose features. No current meal labels.",
+  "selection": "Same33 full-pool personal chronological validation days; ridge/kernel; .1/1/10/100/1000. Each arm separately selected by MAPE then MAE.",
+  "interpretation": "Lab arm requires existing baseline blood tests, not CGM-only onboarding. Static phenotype enters interactions so personal centering does not erase it. This is predictive association, not a causal explanation."
+}

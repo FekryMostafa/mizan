@@ -1,0 +1,23 @@
+{
+  "development_participants_inspected": 8,
+  "parsed_participants": 7,
+  "logged_days": 68,
+  "candidate_days": 43,
+  "candidate_days_by_person": {
+    "1": 7,
+    "2": 5,
+    "4": 4,
+    "5": 8,
+    "6": 9,
+    "7": 6,
+    "8": 4
+  },
+  "issues": [
+    {
+      "pid": 3,
+      "issue": "Food file lacks expected header; no inferred macro column mapping"
+    }
+  ],
+  "reserved_people_9_to_16_not_read": true,
+  "criterion": ">=274 CGM readings (~95% of expected288), internal gap <=20min, >=3 eating times, positive logged carbs, no missing carb fields; not proof of complete food logging or exact 24h coverage"
+}

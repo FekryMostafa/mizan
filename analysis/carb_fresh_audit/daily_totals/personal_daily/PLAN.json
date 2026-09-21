@@ -1,0 +1,7 @@
+{
+  "target": "Same 44 later daily carbohydrate totals with next-morning CGM",
+  "fit": "Independent Gaussian kernel interpolation per person, ridge 1e-8; family summary/sequence/context; gamma .01,.1,1,10",
+  "select": "Minimum MAPE then MAE on existing 29 chronological earlier validation days; never select on later answers",
+  "checks": "Training-fit tolerance, later outcomes, saved-model replay, label-independence, pairwise earlier trace/dose comparisons",
+  "limitations": "Very few calibration days per person; interpolation success is a debugging checkpoint. Reused development cohort."
+}

@@ -1,0 +1,8 @@
+{
+  "later_n": 107,
+  "later_hits": 17,
+  "later_mae": 24.892736565755715,
+  "nearest_one_oracle_label_ceiling": 91,
+  "convex_combination_oracle_ceiling": 100,
+  "source_hashes_unchanged": true
+}

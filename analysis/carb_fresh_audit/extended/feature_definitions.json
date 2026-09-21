@@ -1,0 +1,8 @@
+{
+  "onset": "first 3 consecutive 5-min samples >=10 mg/dL above premeal baseline, else window+5",
+  "aligned_area": "positive area beginning at detected onset; truncated at window endpoint; available duration included",
+  "prehistory": "previous 60 min of Libre; baseline mean at -10 and -5",
+  "longer_window_rule": "all four meals sensor-covered and no later logged positive-calorie event through endpoint",
+  "missing_events": "absence of a logged event does not prove no food was eaten",
+  "reserved_accessed": false
+}

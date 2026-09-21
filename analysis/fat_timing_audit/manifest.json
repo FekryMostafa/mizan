@@ -1,0 +1,6 @@
+{
+  "<codex-run>/fat_timing_audit/run.py": "c4a32f6fda25f246261baa807cadcd339ec8f1db8fa9a45126979eaf6164cef0",
+  "<repo>/analysis/macro_features/features.csv": "76227155a025321b0c9ad701b682536cb5d6295cb48a75b923f1dfeaab5558f6",
+  "<repo>/analysis/macro_features/curve_audit/curves.npz": "62479e21d2f5c1b6832d3d4abff40378f2e4173444ed007286b1c0d4d9097553",
+  "<repo>/analysis/macro_features/personal_dose_repeat/contrasts.csv": "b177594efc498ca660ffbcaf49ad09ae2c3002ab4beb0e6fe929d7aa00073e58"
+}

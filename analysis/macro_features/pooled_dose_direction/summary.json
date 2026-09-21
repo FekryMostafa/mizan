@@ -1,0 +1,101 @@
+[
+  {
+    "macro": "Carbs",
+    "method": "half_population",
+    "people": 26,
+    "meals": 52,
+    "hits": 6,
+    "both_doses_hit": 1,
+    "abstentions": 0,
+    "MAE": 20.479414062852715,
+    "median_error": 17.578840076481445
+  },
+  {
+    "macro": "Carbs",
+    "method": "personal_only",
+    "people": 26,
+    "meals": 52,
+    "hits": 5,
+    "both_doses_hit": 0,
+    "abstentions": 0,
+    "MAE": 19.248431387457963,
+    "median_error": 15.416409114223743
+  },
+  {
+    "macro": "Carbs",
+    "method": "population_only",
+    "people": 26,
+    "meals": 52,
+    "hits": 4,
+    "both_doses_hit": 1,
+    "abstentions": 0,
+    "MAE": 22.617005279582674,
+    "median_error": 20.453232413972255
+  },
+  {
+    "macro": "Fat",
+    "method": "half_population",
+    "people": 25,
+    "meals": 50,
+    "hits": 5,
+    "both_doses_hit": 0,
+    "abstentions": 0,
+    "MAE": 26.89110655778662,
+    "median_error": 26.81823980660038
+  },
+  {
+    "macro": "Fat",
+    "method": "personal_only",
+    "people": 25,
+    "meals": 50,
+    "hits": 7,
+    "both_doses_hit": 0,
+    "abstentions": 0,
+    "MAE": 17.758421072132187,
+    "median_error": 15.186139788583496
+  },
+  {
+    "macro": "Fat",
+    "method": "population_only",
+    "people": 25,
+    "meals": 50,
+    "hits": 1,
+    "both_doses_hit": 0,
+    "abstentions": 0,
+    "MAE": 43.803698557003166,
+    "median_error": 27.448031619246226
+  },
+  {
+    "macro": "Protein",
+    "method": "half_population",
+    "people": 28,
+    "meals": 56,
+    "hits": 8,
+    "both_doses_hit": 0,
+    "abstentions": 0,
+    "MAE": 24.9537314620537,
+    "median_error": 18.964290670383825
+  },
+  {
+    "macro": "Protein",
+    "method": "personal_only",
+    "people": 28,
+    "meals": 56,
+    "hits": 9,
+    "both_doses_hit": 0,
+    "abstentions": 0,
+    "MAE": 23.220883129881486,
+    "median_error": 19.239099002415962
+  },
+  {
+    "macro": "Protein",
+    "method": "population_only",
+    "people": 28,
+    "meals": 56,
+    "hits": 4,
+    "both_doses_hit": 0,
+    "abstentions": 0,
+    "MAE": 29.963383953933967,
+    "median_error": 21.74938002663501
+  }
+]

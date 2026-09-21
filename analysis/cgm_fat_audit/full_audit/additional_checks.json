@@ -1,0 +1,228 @@
+{
+  "bio_ids_match": true,
+  "bio_missing_cells": 0,
+  "fiber_exceeds_carbs": 33,
+  "portion_above100": 131,
+  "complete_controlled_breakfasts": 338,
+  "breakfast_people": 35,
+  "onboarding_adequacy": [
+    {
+      "sensor": "Libre GL",
+      "usable_events": 306,
+      "people": 34,
+      "all_three_contrasts_people": 32,
+      "repeat_each_four_recipes_people": 23
+    },
+    {
+      "sensor": "Dexcom GL",
+      "usable_events": 283,
+      "people": 34,
+      "all_three_contrasts_people": 31,
+      "repeat_each_four_recipes_people": 22
+    }
+  ],
+  "repeatability": [
+    {
+      "sensor": "Libre GL",
+      "recipe": "reference",
+      "paired_people": 32,
+      "median_abs_3h_mean_difference": 11.356759259259261
+    },
+    {
+      "sensor": "Libre GL",
+      "recipe": "carb_low",
+      "paired_people": 29,
+      "median_abs_3h_mean_difference": 6.1350000000000025
+    },
+    {
+      "sensor": "Libre GL",
+      "recipe": "protein_high",
+      "paired_people": 29,
+      "median_abs_3h_mean_difference": 9.06851851851851
+    },
+    {
+      "sensor": "Libre GL",
+      "recipe": "fat_high",
+      "paired_people": 30,
+      "median_abs_3h_mean_difference": 11.95648148148147
+    },
+    {
+      "sensor": "Dexcom GL",
+      "recipe": "reference",
+      "paired_people": 31,
+      "median_abs_3h_mean_difference": 15.653333333333357
+    },
+    {
+      "sensor": "Dexcom GL",
+      "recipe": "carb_low",
+      "paired_people": 29,
+      "median_abs_3h_mean_difference": 12.788333333333345
+    },
+    {
+      "sensor": "Dexcom GL",
+      "recipe": "protein_high",
+      "paired_people": 29,
+      "median_abs_3h_mean_difference": 9.434999999999992
+    },
+    {
+      "sensor": "Dexcom GL",
+      "recipe": "fat_high",
+      "paired_people": 28,
+      "median_abs_3h_mean_difference": 13.298333333333323
+    }
+  ],
+  "health_contrasts": [
+    {
+      "sensor": "Libre GL",
+      "macro": "carbs",
+      "health": "healthy",
+      "people": 12,
+      "positive": 11,
+      "median_3h_mean_difference": 9.30236111111111
+    },
+    {
+      "sensor": "Libre GL",
+      "macro": "carbs",
+      "health": "prediabetes",
+      "people": 10,
+      "positive": 10,
+      "median_3h_mean_difference": 26.623425925925922
+    },
+    {
+      "sensor": "Libre GL",
+      "macro": "carbs",
+      "health": "T2D",
+      "people": 11,
+      "positive": 11,
+      "median_3h_mean_difference": 33.73657407407408
+    },
+    {
+      "sensor": "Libre GL",
+      "macro": "protein",
+      "health": "healthy",
+      "people": 12,
+      "positive": 1,
+      "median_3h_mean_difference": -7.118657407407406
+    },
+    {
+      "sensor": "Libre GL",
+      "macro": "protein",
+      "health": "prediabetes",
+      "people": 10,
+      "positive": 1,
+      "median_3h_mean_difference": -14.130787037037031
+    },
+    {
+      "sensor": "Libre GL",
+      "macro": "protein",
+      "health": "T2D",
+      "people": 12,
+      "positive": 2,
+      "median_3h_mean_difference": -21.352268518518514
+    },
+    {
+      "sensor": "Libre GL",
+      "macro": "fat",
+      "health": "healthy",
+      "people": 12,
+      "positive": 5,
+      "median_3h_mean_difference": -2.0382870370370467
+    },
+    {
+      "sensor": "Libre GL",
+      "macro": "fat",
+      "health": "prediabetes",
+      "people": 10,
+      "positive": 3,
+      "median_3h_mean_difference": -9.447268518518516
+    },
+    {
+      "sensor": "Libre GL",
+      "macro": "fat",
+      "health": "T2D",
+      "people": 11,
+      "positive": 4,
+      "median_3h_mean_difference": -6.718240740740754
+    },
+    {
+      "sensor": "Dexcom GL",
+      "macro": "carbs",
+      "health": "healthy",
+      "people": 12,
+      "positive": 10,
+      "median_3h_mean_difference": 18.546527777777783
+    },
+    {
+      "sensor": "Dexcom GL",
+      "macro": "carbs",
+      "health": "prediabetes",
+      "people": 9,
+      "positive": 9,
+      "median_3h_mean_difference": 30.314166666666665
+    },
+    {
+      "sensor": "Dexcom GL",
+      "macro": "carbs",
+      "health": "T2D",
+      "people": 11,
+      "positive": 10,
+      "median_3h_mean_difference": 38.75611111111108
+    },
+    {
+      "sensor": "Dexcom GL",
+      "macro": "protein",
+      "health": "healthy",
+      "people": 12,
+      "positive": 2,
+      "median_3h_mean_difference": -6.097361111111113
+    },
+    {
+      "sensor": "Dexcom GL",
+      "macro": "protein",
+      "health": "prediabetes",
+      "people": 10,
+      "positive": 1,
+      "median_3h_mean_difference": -13.247222222222216
+    },
+    {
+      "sensor": "Dexcom GL",
+      "macro": "protein",
+      "health": "T2D",
+      "people": 12,
+      "positive": 1,
+      "median_3h_mean_difference": -31.072638888888875
+    },
+    {
+      "sensor": "Dexcom GL",
+      "macro": "fat",
+      "health": "healthy",
+      "people": 12,
+      "positive": 5,
+      "median_3h_mean_difference": -3.5833333333333375
+    },
+    {
+      "sensor": "Dexcom GL",
+      "macro": "fat",
+      "health": "prediabetes",
+      "people": 10,
+      "positive": 3,
+      "median_3h_mean_difference": -4.845833333333324
+    },
+    {
+      "sensor": "Dexcom GL",
+      "macro": "fat",
+      "health": "T2D",
+      "people": 11,
+      "positive": 2,
+      "median_3h_mean_difference": -8.26833333333333
+    }
+  ],
+  "photo_event_rows": 1706,
+  "photo_paths_present": 1644,
+  "photo_basename_matches": 1644,
+  "calendar_days": 533,
+  "calendar_days_without_meals": 51,
+  "days_with_three_main_meals": 343,
+  "days_three_meals_all_amount100_no_obvious_label_flag": 103,
+  "note": "Calendar counts include deployment edges; three meals or a matching photograph cannot certify complete intake."
+}

@@ -1,0 +1,6 @@
+{
+  "scope": "Same64 earlier/44 later days, passive30h glucose traces.",
+  "distance": "Subtract each trace10th percentile, preserve amplitudes. Banded dynamic time warping: allowed clock shifts0/60/120min, squared differences, root total cost divided by120. No meal times or labels used in distance.",
+  "prediction": "Personal known-label mean plus weighted residuals of training days. Distances weight exp(-distance_squared/(2*bandwidth_squared)), bandwidth5/15/30mg/dL. Personal-only or pooled neighbors or equal blend. Pooled labels centered within person.",
+  "selection": "27 fixed configurations plus personalmean, choose33 earlier chronological validation MAP E thenMAE. All later44 retained; repeatedly inspected development data."
+}

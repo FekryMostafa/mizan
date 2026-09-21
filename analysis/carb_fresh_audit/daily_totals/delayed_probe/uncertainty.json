@@ -1,0 +1,10 @@
+{
+  "paired_mape_change_percentage_points": -1.2438948591849899,
+  "participant_cluster_bootstrap95": [
+    -2.218993105942984,
+    -0.3602408874755747
+  ],
+  "improved_days": 26,
+  "outside_calibration_range": 8,
+  "outside_range_even_with_tolerance": 4
+}

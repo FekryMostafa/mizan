@@ -1,0 +1,50 @@
+[
+  {
+    "representation": "baseline_relative_exact",
+    "dataset": "BIG_IDEAs_development",
+    "curves": 86,
+    "unique": 86,
+    "duplicate_rows": 0,
+    "duplicate_groups": 0
+  },
+  {
+    "representation": "baseline_relative_exact",
+    "dataset": "CGMacros",
+    "curves": 652,
+    "unique": 652,
+    "duplicate_rows": 0,
+    "duplicate_groups": 0
+  },
+  {
+    "representation": "absolute_rounded_6",
+    "dataset": "BIG_IDEAs_development",
+    "curves": 86,
+    "unique": 86,
+    "duplicate_rows": 0,
+    "duplicate_groups": 0
+  },
+  {
+    "representation": "absolute_rounded_6",
+    "dataset": "CGMacros",
+    "curves": 652,
+    "unique": 652,
+    "duplicate_rows": 0,
+    "duplicate_groups": 0
+  },
+  {
+    "representation": "shape_rounded_6",
+    "dataset": "BIG_IDEAs_development",
+    "curves": 86,
+    "unique": 86,
+    "duplicate_rows": 0,
+    "duplicate_groups": 0
+  },
+  {
+    "representation": "shape_rounded_6",
+    "dataset": "CGMacros",
+    "curves": 652,
+    "unique": 652,
+    "duplicate_rows": 0,
+    "duplicate_groups": 0
+  }
+]

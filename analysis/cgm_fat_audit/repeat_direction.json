@@ -1,0 +1,44 @@
+[
+  {
+    "sensor": "Libre GL",
+    "metric": "timepeak180",
+    "people": 28,
+    "same_direction": 18,
+    "any_zero": 2
+  },
+  {
+    "sensor": "Libre GL",
+    "metric": "mean180",
+    "people": 28,
+    "same_direction": 13,
+    "any_zero": 0
+  },
+  {
+    "sensor": "Libre GL",
+    "metric": "tail180",
+    "people": 28,
+    "same_direction": 7,
+    "any_zero": 0
+  },
+  {
+    "sensor": "Dexcom GL",
+    "metric": "timepeak180",
+    "people": 25,
+    "same_direction": 15,
+    "any_zero": 0
+  },
+  {
+    "sensor": "Dexcom GL",
+    "metric": "mean180",
+    "people": 25,
+    "same_direction": 12,
+    "any_zero": 0
+  },
+  {
+    "sensor": "Dexcom GL",
+    "metric": "tail180",
+    "people": 25,
+    "same_direction": 11,
+    "any_zero": 0
+  }
+]

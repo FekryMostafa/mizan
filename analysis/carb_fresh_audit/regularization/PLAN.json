@@ -1,0 +1,71 @@
+{
+  "inner_split": "Per person: earliest 70% of the 211 training meals for fitting, latest 30% (at least one) for selection. Final 107 later meals remain excluded from model selection.",
+  "families": {
+    "glucose_only": [
+      "personal_peak",
+      "personal_area_0_60",
+      "personal_area_60_120",
+      "personal_area_120_180",
+      "personal_peak_time",
+      "personal_rise_0_30",
+      "shape_start",
+      "shape_minimum",
+      "baseline_difference",
+      "pre24_glucose",
+      "pre6_glucose",
+      "pre1_glucose",
+      "early_glucose",
+      "middle_glucose",
+      "late_glucose"
+    ],
+    "glucose_hr_activity": [
+      "personal_peak",
+      "personal_area_0_60",
+      "personal_area_60_120",
+      "personal_area_120_180",
+      "personal_peak_time",
+      "personal_rise_0_30",
+      "shape_start",
+      "shape_minimum",
+      "baseline_difference",
+      "pre24_glucose",
+      "pre24_hr",
+      "pre24_activity",
+      "pre6_glucose",
+      "pre6_hr",
+      "pre6_activity",
+      "pre1_glucose",
+      "pre1_hr",
+      "pre1_activity",
+      "early_glucose",
+      "early_hr",
+      "early_activity",
+      "middle_glucose",
+      "middle_hr",
+      "middle_activity",
+      "late_glucose",
+      "late_hr",
+      "late_activity"
+    ]
+  },
+  "gamma": [
+    0.001,
+    0.01,
+    0.1,
+    1.0,
+    10.0
+  ],
+  "ridge": [
+    1e-08,
+    0.0001,
+    0.01,
+    0.1,
+    1.0,
+    10.0,
+    100.0
+  ],
+  "objective": "Maximize inner-validation meals within tolerance, then minimize MAE. Tie by fewer features, stronger ridge, smaller gamma.",
+  "tolerance": "Positive carbs \u00b110%; zero carbs \u00b11g, reported separately.",
+  "final": "Refit chosen settings on all 211 training meals, then evaluate the same 107 later meals once.",
+  "caveat": "Development holdout already exposed in prior run; no fresh prospective validation claim."
+}

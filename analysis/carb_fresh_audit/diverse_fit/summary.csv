@@ -1,0 +1,4 @@
+group,n,hits,mae,zero_carb_meals
+training,211,211,0.036380380256353984,1
+reserved,107,11,34.87598826841154,1
+reserved_training_mean_baseline,107,3,29.02188067502325,1

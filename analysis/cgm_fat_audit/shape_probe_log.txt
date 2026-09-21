@@ -1,0 +1,109 @@
+Dexcom GL held out 2 selected shape_180/lda
+Dexcom GL held out 4 selected context_180/rbf_10
+Dexcom GL held out 5 selected shape_180/tree1
+Dexcom GL held out 6 selected shape_180/tree1
+Dexcom GL held out 8 selected shape_180/tree1
+Dexcom GL held out 9 selected shape_180/rbf_1
+Dexcom GL held out 10 selected context_180/rbf_1
+Dexcom GL held out 14 selected shape_180/rbf_1
+Dexcom GL held out 17 selected shape_180/tree4
+Dexcom GL held out 27 selected shape_180/rbf_1
+Dexcom GL held out 31 selected shape_180/tree1
+Dexcom GL held out 32 selected shape_180/rbf_10
+Dexcom GL held out 34 selected shape_180/rbf_10
+Dexcom GL held out 35 selected shape_180/rbf_1
+Dexcom GL held out 36 selected shape_180/rbf_1
+Dexcom GL held out 38 selected shape_180/tree1
+Dexcom GL held out 41 selected shape_180/rbf_1
+Dexcom GL held out 42 selected basic_180/rbf_10
+Dexcom GL held out 43 selected basic_180/rbf_10
+Dexcom GL held out 45 selected context_180/rbf_10
+Dexcom GL held out 49 selected shape_180/rbf_10
+Libre GL held out 1 selected basic_180/linear_0.1
+Libre GL held out 2 selected basic_180/linear_0.1
+Libre GL held out 5 selected basic_180/linear_0.1
+Libre GL held out 6 selected basic_180/rbf_1
+Libre GL held out 8 selected context_180/rbf_10
+Libre GL held out 9 selected context_180/rbf_10
+Libre GL held out 10 selected context_180/rbf_10
+Libre GL held out 14 selected context_180/rbf_10
+Libre GL held out 17 selected context_180/rbf_10
+Libre GL held out 27 selected context_180/rbf_10
+Libre GL held out 31 selected context_180/rbf_10
+Libre GL held out 32 selected context_180/rbf_10
+Libre GL held out 34 selected rich_180/rbf_1
+Libre GL held out 35 selected rich_180/rbf_1
+Libre GL held out 36 selected context_180/rbf_1
+Libre GL held out 38 selected context_180/rbf_1
+Libre GL held out 41 selected context_180/rbf_1
+Libre GL held out 42 selected rich_180/rbf_1
+Libre GL held out 43 selected basic_180/linear_0.1
+Libre GL held out 44 selected basic_180/linear_0.1
+Libre GL held out 45 selected basic_180/linear_0.1
+Libre GL held out 49 selected context_180/rbf_1
+[
+  {
+    "sensor": "Dexcom GL",
+    "method": "nested_selected",
+    "meals": 84,
+    "all_three_within10": 26,
+    "MAE": [
+      10.0,
+      18.333333333333332,
+      13.125
+    ],
+    "macro_hits": [
+      64,
+      49,
+      49
+    ]
+  },
+  {
+    "sensor": "Dexcom GL",
+    "method": "nested_glucose_only",
+    "meals": 84,
+    "all_three_within10": 28,
+    "MAE": [
+      10.5,
+      17.285714285714285,
+      12.0
+    ],
+    "macro_hits": [
+      63,
+      51,
+      52
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "nested_selected",
+    "meals": 88,
+    "all_three_within10": 42,
+    "MAE": [
+      10.022727272727273,
+      9.0,
+      10.022727272727273
+    ],
+    "macro_hits": [
+      67,
+      70,
+      60
+    ]
+  },
+  {
+    "sensor": "Libre GL",
+    "method": "nested_glucose_only",
+    "meals": 88,
+    "all_three_within10": 35,
+    "MAE": [
+      10.022727272727273,
+      12.0,
+      11.8125
+    ],
+    "macro_hits": [
+      67,
+      64,
+      55
+    ]
+  }
+]

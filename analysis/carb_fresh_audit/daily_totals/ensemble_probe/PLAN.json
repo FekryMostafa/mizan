@@ -1,0 +1,7 @@
+{
+  "target": "Same44 later CGMacros daily carbohydrate totals",
+  "ensemble": "Nonnegative weights summing to1, each <=.25, fit to minimize absolute percentage error on33 earlier validation predictions. No weight tuning on later data.",
+  "control": "Uniform mean of same31 candidates",
+  "diagnostic": "After scoring, compute whether even arbitrary per-day convex combinations can fall within10%. Diagnostic uses answers and is not achievable model performance.",
+  "limits": "Many candidate weights relative to33 days; ensemble calibration fit is optimistic. Later set repeatedly exposed. Restricted to existing model family, not a CGM information limit."
+}

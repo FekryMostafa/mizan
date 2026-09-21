@@ -1,0 +1,31 @@
+{
+  "observed": {
+    "n": 44,
+    "hits": 16,
+    "mape": 18.395123712408274,
+    "mae": 38.09514337393056
+  },
+  "controls": {
+    "glucose": {
+      "feature_count": 150,
+      "median_mape": 21.27493269560513,
+      "min_mape": 18.9629436311605,
+      "max_mape": 24.95272531454865,
+      "at_least_as_good": 0,
+      "n": 100
+    },
+    "hr_activity": {
+      "feature_count": 68,
+      "median_mape": 18.761609271083888,
+      "min_mape": 17.531267911251028,
+      "max_mape": 20.000213186251912,
+      "at_least_as_good": 22,
+      "n": 100
+    }
+  },
+  "audit": {
+    "all44": true,
+    "reference_reproduced": true,
+    "untouched_columns_exact": true
+  }
+}

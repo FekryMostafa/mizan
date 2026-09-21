@@ -1,0 +1,16 @@
+{
+  "objective": "Daily carbohydrate totals within \u00b110% using CGM with allowed personal calibration, staying in CGMacros",
+  "experiments_recomputed": 14,
+  "same44_days_verified": true,
+  "same_labels_verified": true,
+  "any_all_days_within10": false,
+  "any_mean_percentage_error_at_most10": false,
+  "best_observed_mape": 18.395123712408267,
+  "best_observed_hits": 18,
+  "validation_limitation": "Same44 days repeatedly inspected during development; not a fresh prospective or untouched test.",
+  "status": "blocked",
+  "blocker_audit_count": 3,
+  "blocker": "No demonstrated predictive mapping at requested accuracy in current evaluated CGMacros data. Exhausted currently supported correction hypotheses; cannot certify target by fitting or retuning against known evaluation labels. This is an evidence/validation limit, not a proof of physical impossibility.",
+  "result_files_reverified_unchanged": 14,
+  "resumption_evidence_needed": "A new supported conversion hypothesis or verified additional calibration/label information within the authorized CGMacros scope; no such evidence is currently present."
+}

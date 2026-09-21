@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "family": "context",
+    "loss": "absolute_error",
+    "leaves": 7
+  },
+  "validation": {
+    "candidate": 9,
+    "family": "context",
+    "loss": "absolute_error",
+    "leaves": 7,
+    "n": 33,
+    "hits": 8,
+    "mape": 23.048314741383034,
+    "mae": 46.5633774327411
+  },
+  "later": {
+    "n": 44,
+    "hits": 17,
+    "mape": 20.72995478446934,
+    "mae": 43.248308782775496
+  },
+  "all44": true,
+  "query_labels_unused": true,
+  "own_label_excluded_from_personal_input": true
+}

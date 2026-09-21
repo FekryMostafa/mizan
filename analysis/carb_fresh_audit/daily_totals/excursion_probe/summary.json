@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "family": "old",
+    "kind": "ridge",
+    "reg": 1000.0,
+    "n": 29,
+    "hits": 9,
+    "mape": 22.697763858341897,
+    "mae": 41.355067931487056
+  },
+  "later": {
+    "n": 44,
+    "hits": 15,
+    "mape": 18.93591600272922,
+    "mae": 37.59604594618312
+  },
+  "reference": {
+    "n": 44,
+    "hits": 15,
+    "mape": 18.93591600272922,
+    "mae": 37.59604594618312
+  },
+  "old_model_reproduced": true,
+  "no_query_label_dependence": true,
+  "all44": true
+}

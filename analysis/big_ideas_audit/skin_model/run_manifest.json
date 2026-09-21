@@ -1,0 +1,9 @@
+{
+  "primary": "glucose_both",
+  "script_sha256": "244c3fb7528808ed1e91a58b7246c30301cacb268cf2a93cff4eac68ddf3d947",
+  "raw_hashes_verified": true,
+  "original_glucose_reproduced": true,
+  "reserved_participants_accessed": false,
+  "heldout_meals": 65,
+  "feature_cache_sha256": "b667b3bd9da80c0af84adaf4946eee10c6ac52c2ad54cfb55c41355672c15b5b"
+}

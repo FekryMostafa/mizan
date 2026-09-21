@@ -1,0 +1,61 @@
+{
+  "candidates": 48,
+  "features": [
+    [
+      "peak"
+    ],
+    [
+      "area_60_120"
+    ],
+    [
+      "area_centroid"
+    ],
+    [
+      "peak",
+      "area_60_120"
+    ],
+    [
+      "peak",
+      "area_centroid"
+    ],
+    [
+      "area_60_120",
+      "area_centroid"
+    ],
+    [
+      "peak",
+      "area_60_120",
+      "area_centroid"
+    ],
+    [
+      "peak",
+      "early_peak",
+      "area_0_60",
+      "area_60_120",
+      "area_120_180",
+      "area_0_180",
+      "steepest_15min_rise",
+      "rise_0_30",
+      "peak_time",
+      "positive_duration",
+      "area_centroid",
+      "late_area_fraction"
+    ]
+  ],
+  "degree": [
+    1,
+    2
+  ],
+  "ridge_alpha": [
+    1,
+    10,
+    100
+  ],
+  "selection": "inner leave-one-person-out fraction within 10%, then MAE",
+  "outer": "leave-one-person-out; both later meals held out together",
+  "calibration": "own first low/high meals available; other-person later meals train population conversion",
+  "normalization": "personal midpoint and contrast; contrast magnitude floor 25% of training-person median absolute calibration contrast",
+  "output": "continuous grams clipped only at zero; no snapping to recipe doses",
+  "scope": "controlled 24/66 g dose repeats, previously inspected development data; no new-dose accuracy claim",
+  "reserved_accessed": false
+}

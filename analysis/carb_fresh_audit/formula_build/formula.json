@@ -1,0 +1,314 @@
+{
+  "definition": "max(0, personal_full_curve_projection + intercept + sum(coefficient * standardized_observable))",
+  "target": "carbohydrate grams",
+  "fit_scope": "ten previously selected largest failures; retrospective feature selection and fitting",
+  "steps": [
+    {
+      "terms": [],
+      "coef": []
+    },
+    {
+      "terms": [
+        "personal_area_60_120"
+      ],
+      "coef": [
+        4.525892710724045,
+        -20.26038717547474
+      ]
+    },
+    {
+      "terms": [
+        "personal_area_60_120",
+        "late_hr_coverage"
+      ],
+      "coef": [
+        4.525892710724045,
+        -16.31504186163927,
+        -15.233990229435204
+      ]
+    },
+    {
+      "terms": [
+        "personal_area_60_120",
+        "late_hr_coverage",
+        "pre1_activity"
+      ],
+      "coef": [
+        4.525892710724045,
+        -5.111354992420695,
+        -28.20113910181952,
+        21.91941976946083
+      ]
+    },
+    {
+      "terms": [
+        "personal_area_60_120",
+        "late_hr_coverage",
+        "pre1_activity",
+        "pre24_hr_coverage"
+      ],
+      "coef": [
+        4.525892710724045,
+        -6.427654675309117,
+        -55.964690857897516,
+        19.616122874149664,
+        29.869044882216347
+      ]
+    },
+    {
+      "terms": [
+        "personal_area_60_120",
+        "late_hr_coverage",
+        "pre1_activity",
+        "pre24_hr_coverage",
+        "late_activity"
+      ],
+      "coef": [
+        4.525892710724045,
+        -4.265430014929386,
+        -58.014900308134806,
+        17.73392127151256,
+        28.682016830216654,
+        7.383225670683894
+      ]
+    },
+    {
+      "terms": [
+        "personal_area_60_120",
+        "late_hr_coverage",
+        "pre1_activity",
+        "pre24_hr_coverage",
+        "late_activity",
+        "pre24_hr"
+      ],
+      "coef": [
+        4.525892710724045,
+        -4.660628654760965,
+        -66.53582162064227,
+        18.456424291444797,
+        35.66486685623166,
+        9.427010348477715,
+        -6.269585971583382
+      ]
+    },
+    {
+      "terms": [
+        "personal_area_60_120",
+        "late_hr_coverage",
+        "pre1_activity",
+        "pre24_hr_coverage",
+        "late_activity",
+        "pre24_hr",
+        "middle_hr"
+      ],
+      "coef": [
+        4.525892710724044,
+        -6.539854213883028,
+        -65.85584651617086,
+        13.009450808130321,
+        37.61681158843839,
+        10.815526929156423,
+        -10.474916572122787,
+        6.442696113339362
+      ]
+    },
+    {
+      "terms": [
+        "personal_area_60_120",
+        "late_hr_coverage",
+        "pre1_activity",
+        "pre24_hr_coverage",
+        "late_activity",
+        "pre24_hr",
+        "middle_hr",
+        "pre24_glucose"
+      ],
+      "coef": [
+        4.525892710724045,
+        -7.177461986282797,
+        -67.02083007696942,
+        11.224825631330443,
+        39.61170279600306,
+        11.106851129543214,
+        -11.76066332682301,
+        8.483797943696333,
+        0.8430456864108306
+      ]
+    }
+  ],
+  "scaling": {
+    "medians": {
+      "personal_peak": -0.1040528058868254,
+      "personal_area_0_60": 0.00363868908230746,
+      "personal_area_60_120": 0.10861160802372954,
+      "personal_area_120_180": -0.2524092224846157,
+      "personal_peak_time": -0.23333333333333334,
+      "personal_rise_0_30": -0.07162897385831543,
+      "shape_start": 0.17602420204591315,
+      "shape_minimum": -0.0485248345070485,
+      "baseline_difference": -4.516666666666673,
+      "pre24_glucose_coverage": 1.0,
+      "pre24_glucose": 112.86388888888888,
+      "pre24_hr_coverage": 0.9989583333333334,
+      "pre24_hr": 81.18735067269776,
+      "pre24_activity_coverage": 1.0,
+      "pre24_activity": 1.5549079190432673,
+      "pre6_glucose_coverage": 1.0,
+      "pre6_glucose": 99.85925925925926,
+      "pre6_hr_coverage": 1.0,
+      "pre6_hr": 72.12777777777778,
+      "pre6_activity_coverage": 1.0,
+      "pre6_activity": 1.186254807105541,
+      "pre1_glucose_coverage": 1.0,
+      "pre1_glucose": 106.62777777777778,
+      "pre1_hr_coverage": 1.0,
+      "pre1_hr": 84.43333333333334,
+      "pre1_activity_coverage": 1.0,
+      "pre1_activity": 1.6598781739672046,
+      "early_glucose_coverage": 1.0,
+      "early_glucose": 153.5,
+      "early_hr_coverage": 1.0,
+      "early_hr": 87.55,
+      "early_activity_coverage": 1.0,
+      "early_activity": 1.9204869924873944,
+      "middle_glucose_coverage": 1.0,
+      "middle_glucose": 176.42222222222222,
+      "middle_hr_coverage": 1.0,
+      "middle_hr": 92.725,
+      "middle_activity_coverage": 1.0,
+      "middle_activity": 1.8021951357523593,
+      "late_glucose_coverage": 1.0,
+      "late_glucose": 121.315,
+      "late_hr_coverage": 1.0,
+      "late_hr": 89.75,
+      "late_activity_coverage": 1.0,
+      "late_activity": 2.285521721839906,
+      "prior_food_review": 1.0
+    },
+    "means": {
+      "personal_peak": -0.5213228050421724,
+      "personal_area_0_60": -0.5208232549393628,
+      "personal_area_60_120": 0.5331190285147362,
+      "personal_area_120_180": 0.29567080000560864,
+      "personal_peak_time": -1.0701149425287357,
+      "personal_rise_0_30": -0.4365012043666499,
+      "shape_start": 0.018638970004416316,
+      "shape_minimum": -0.04252805209231482,
+      "baseline_difference": -6.163333333333335,
+      "pre24_glucose_coverage": 1.0,
+      "pre24_glucose": 116.4147777777778,
+      "pre24_hr_coverage": 0.8943055555555557,
+      "pre24_hr": 80.33182337088797,
+      "pre24_activity_coverage": 1.0,
+      "pre24_activity": 1.7544686295864778,
+      "pre6_glucose_coverage": 1.0,
+      "pre6_glucose": 103.1236851851852,
+      "pre6_hr_coverage": 0.7822222222222222,
+      "pre6_hr": 73.18638888888889,
+      "pre6_activity_coverage": 1.0,
+      "pre6_activity": 1.329068250194595,
+      "pre1_glucose_coverage": 1.0,
+      "pre1_glucose": 107.86077777777777,
+      "pre1_hr_coverage": 0.7,
+      "pre1_hr": 85.22,
+      "pre1_activity_coverage": 1.0,
+      "pre1_activity": 1.8860432840831032,
+      "early_glucose_coverage": 1.0,
+      "early_glucose": 151.70177777777778,
+      "early_hr_coverage": 0.7849999999999999,
+      "early_hr": 90.18482758620688,
+      "early_activity_coverage": 1.0,
+      "early_activity": 2.0336387857522134,
+      "middle_glucose_coverage": 1.0,
+      "middle_glucose": 177.11844444444446,
+      "middle_hr_coverage": 0.7916666666666667,
+      "middle_hr": 90.8378787878788,
+      "middle_activity_coverage": 1.0,
+      "middle_activity": 2.288829080634519,
+      "late_glucose_coverage": 1.0,
+      "late_glucose": 136.947,
+      "late_hr_coverage": 0.8,
+      "late_hr": 88.10166666666666,
+      "late_activity_coverage": 1.0,
+      "late_activity": 2.2513568895615155,
+      "prior_food_review": 0.7
+    },
+    "scales": {
+      "personal_peak": 1.1416151530630807,
+      "personal_area_0_60": 0.8584936535264365,
+      "personal_area_60_120": 1.0690698513506072,
+      "personal_area_120_180": 3.4247254966183296,
+      "personal_peak_time": 3.0239376596551684,
+      "personal_rise_0_30": 0.6864621906945145,
+      "shape_start": 0.31163656644777676,
+      "shape_minimum": 0.29903513532465115,
+      "baseline_difference": 6.007092104800418,
+      "pre24_glucose_coverage": 1.0,
+      "pre24_glucose": 37.5398957478475,
+      "pre24_hr_coverage": 0.19570814556563748,
+      "pre24_hr": 5.349706275298452,
+      "pre24_activity_coverage": 1.0,
+      "pre24_activity": 0.4648347552494795,
+      "pre6_glucose_coverage": 1.0,
+      "pre6_glucose": 38.18877130800927,
+      "pre6_hr_coverage": 0.39463062898529977,
+      "pre6_hr": 5.058042039632666,
+      "pre6_activity_coverage": 1.0,
+      "pre6_activity": 0.4194002248991665,
+      "pre1_glucose_coverage": 1.0,
+      "pre1_glucose": 35.841222408227786,
+      "pre1_hr_coverage": 0.45825756949558405,
+      "pre1_hr": 12.50756171281997,
+      "pre1_activity_coverage": 1.0,
+      "pre1_activity": 0.9994297451657899,
+      "early_glucose_coverage": 1.0,
+      "early_glucose": 50.31644145104358,
+      "early_hr_coverage": 0.394014241141386,
+      "early_hr": 5.835949575814262,
+      "early_activity_coverage": 1.0,
+      "early_activity": 0.9131086595643871,
+      "middle_glucose_coverage": 1.0,
+      "middle_glucose": 72.49520555488097,
+      "middle_hr_coverage": 0.39660013447635983,
+      "middle_hr": 10.221082655344441,
+      "middle_activity_coverage": 1.0,
+      "middle_activity": 1.1546578374087841,
+      "late_glucose_coverage": 1.0,
+      "late_glucose": 64.03546750651374,
+      "late_hr_coverage": 0.4,
+      "late_hr": 8.60377000699887,
+      "late_activity_coverage": 1.0,
+      "late_activity": 1.3482621892991005,
+      "prior_food_review": 0.45825756949558405
+    }
+  },
+  "missing": "less than 90 percent coverage => unavailable mean; training-only median imputation; coverage remains observable",
+  "source_hashes": {
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-001.csv": "2ed6ce4fcd29b1afbf6cedba26738278c296a96818e75e8c65fba6ad523fb186",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-002.csv": "6d5e5e7c30ef42b713e14d09258a7a5e89e2d89a11b887246564c72c1ed2f629",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-003.csv": "3fef68745d1e60834c7abb9fad02632dcdd174ad189539ea3d5ad2d311cd481c",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-004.csv": "c3a882923f0633dee7703290522ee477df615910a60e974da3bd65c35863b387",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-005.csv": "8c747a6e04e3a6fb6ff73df367c6f27278396f3c8fcdf247e506340bec83a674",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-006.csv": "9b70d1f38a8f2e44b686b583786ea69b2e442588c541cd7dd2802cec6b192db7",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-008.csv": "a1c1db07fb76a40dc24d1b43e7cb9ff3d82972157862b13d238e0bfb02e8b727",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-009.csv": "aaf05802cdb44e4d31d2b900dddc7393749b835e547b6fe920d3978f4dc42d40",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-010.csv": "e6772330018714d158012e5c74b30e6f722498ed58c9d9aa2e11a137dd25c148",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-014.csv": "0af5a10db24e89e0d12af037e6c85dfe4bd8c45b65e83777cb1b41aa8b2132db",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-017.csv": "f8295825515aee2199dd5d34f753941e1bb864be59ff0660ae5f4eb6c47b3d74",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-027.csv": "085dbec56f65b626e0128f170dc5f945cf24e5b31dd4bb0593fd0f5c7488b6a2",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-031.csv": "9e271dd6b6e7cbc4987b2e24fb3825f4aaaa917ec3aef0a6cb839f2c53e90aef",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-032.csv": "96c4eb98cab7b587cf7e3a781dd3022c3b3fb88e4c522388d0cd81f0def16deb",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-033.csv": "79ee26daec982982bb2e6f53b716b2ba79d31c4442523e2db06028136c704220",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-034.csv": "0d4b65d0f742e209701ab1645074d444b0ce872483e886ca5b5858be326841b9",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-035.csv": "4020c9dc9e60b68c3f2044ea0e05576f5fb9124d11c47d49f0ef165469646e6a",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-036.csv": "124c297b47e8c646c45c4adbdea553c5a6f54c5173c39b76671ede9ff1bb0e62",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-038.csv": "56c0832afdf648fb78521961f811975ff5f0b30d05e5ebbb71db550c252d93e4",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-039.csv": "bd4c1b884354f9c97e2531807fce1292c17f260195e563c86bee0702b1cc8c06",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-041.csv": "6b4e08756f64560f3b0218245982044a432ec5dd4676d692ea4d44c97311f549",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-042.csv": "0448e24751e56fb2f034ea50d5645cf7d9fbb99c82cf468f6101f3818010501f",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-043.csv": "5803d1b0db53a66e7e03c115cccc266ba8e12598704f8421a2e830164eca1ed3",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-044.csv": "63c0bcff200ebe64340ca0f36bd4f6efcde4320a6a2bfeff7c1020c322f56715",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-045.csv": "15de0ebf5c19cf2dc2bd806e8253c817492e921b2ac3259ba0d925b527670a06",
+    "<repo>/dataset/cgmacros_clean_v1/participants/CGMacros-049.csv": "c366f0680e1f08793d470955362ef6f7e6580caad709f387dd1996d9991f8eea"
+  }
+}

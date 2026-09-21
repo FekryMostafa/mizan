@@ -1,0 +1,50 @@
+{
+  "specs": {
+    "Carbs": {
+      "low": [
+        24,
+        22,
+        10.5
+      ],
+      "high": [
+        66,
+        22,
+        10.5
+      ],
+      "feature": "peak_height"
+    },
+    "Protein": {
+      "low": [
+        66,
+        22,
+        10.5
+      ],
+      "high": [
+        66,
+        66,
+        10.5
+      ],
+      "feature": "response_std"
+    },
+    "Fat": {
+      "low": [
+        66,
+        22,
+        10.5
+      ],
+      "high": [
+        66,
+        22,
+        42
+      ],
+      "feature": "rise_max"
+    }
+  },
+  "matching": "Exact recorded other macros, fiber zero, breakfast, amount consumed 100.",
+  "calibration": "First available low and high dose; both responses finish before either query.",
+  "query": "First later low and first later high dose; no repeated reuse within a macro/person.",
+  "conversion": "Two-point affine inverse, clip only at zero. Zero feature contrast means abstention, counted as failure.",
+  "selection": "Feature choices fixed from preceding audit. No test-driven feature or sign selection.",
+  "limitation": "Exploratory repeated controlled recipes; not unseen-portion or arbitrary-meal validation.",
+  "reserved_accessed": false
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "dataset": "CGMacros",
+    "pid": 1,
+    "minimum_time": "2020-05-01 10:30:00",
+    "maximum_time": "2020-05-11 15:59:00",
+    "minute_coverage": 0.9923964697895451
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 2,
+    "minimum_time": "2019-11-15 20:12:00",
+    "maximum_time": "2019-11-27 15:56:00",
+    "minute_coverage": 0.8391189427312775
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 3,
+    "minimum_time": "2020-03-11 09:03:00",
+    "maximum_time": "2020-03-21 12:02:00",
+    "minute_coverage": 0.9930041152263375
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 4,
+    "minimum_time": "2023-09-11 09:54:00",
+    "maximum_time": "2023-09-21 07:48:00",
+    "minute_coverage": 0.9971978984238179
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 5,
+    "minimum_time": "2020-08-17 11:14:00",
+    "maximum_time": "2020-08-27 12:13:00",
+    "minute_coverage": 0.9877593360995851
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 6,
+    "minimum_time": "2023-04-07 11:19:00",
+    "maximum_time": "2023-04-17 12:18:00",
+    "minute_coverage": 0.991701244813278
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 8,
+    "minimum_time": "2023-01-30 10:52:00",
+    "maximum_time": "2023-02-09 16:51:00",
+    "minute_coverage": 0.9779810298102981
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 9,
+    "minimum_time": "2020-09-15 09:05:00",
+    "maximum_time": "2020-09-25 08:34:00",
+    "minute_coverage": 0.9851774530271399
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 10,
+    "minimum_time": "2020-06-21 09:18:00",
+    "maximum_time": "2020-07-02 14:32:00",
+    "minute_coverage": 0.9371092541008975
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 11,
+    "minimum_time": "2020-10-03 09:21:00",
+    "maximum_time": "2020-10-13 16:05:00",
+    "minute_coverage": 0.989935832489024
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 12,
+    "minimum_time": "2023-02-26 08:43:00",
+    "maximum_time": "2023-03-08 13:12:00",
+    "minute_coverage": 0.9133605998636674
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 13,
+    "minimum_time": "2024-01-25 08:42:00",
+    "maximum_time": "2024-02-05 08:41:00",
+    "minute_coverage": 0.9594065656565657
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 14,
+    "minimum_time": "2023-05-09 09:01:00",
+    "maximum_time": "2023-05-21 08:30:00",
+    "minute_coverage": 0.8783768115942029
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 15,
+    "minimum_time": "2024-01-25 09:12:00",
+    "maximum_time": "2024-02-06 08:26:00",
+    "minute_coverage": 0.8639396576733391
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 17,
+    "minimum_time": "2023-10-10 08:51:00",
+    "maximum_time": "2023-10-21 14:35:00",
+    "minute_coverage": 0.8130367624343527
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 26,
+    "minimum_time": "2021-03-26 08:16:00",
+    "maximum_time": "2021-04-06 16:15:00",
+    "minute_coverage": 0.9320465686274509
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 27,
+    "minimum_time": "2024-06-10 08:12:00",
+    "maximum_time": "2024-06-20 10:26:00",
+    "minute_coverage": 0.9965600275197798
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 31,
+    "minimum_time": "2022-06-29 20:05:00",
+    "maximum_time": "2022-07-09 08:49:00",
+    "minute_coverage": 0.9862295081967213
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 32,
+    "minimum_time": "2022-01-01 20:54:00",
+    "maximum_time": "2022-01-11 10:38:00",
+    "minute_coverage": 0.47580703663402246
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 33,
+    "minimum_time": "2022-04-16 09:30:00",
+    "maximum_time": "2022-04-27 09:44:00",
+    "minute_coverage": 0.684642068748029
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 34,
+    "minimum_time": "2022-03-02 09:12:00",
+    "maximum_time": "2022-03-12 14:11:00",
+    "minute_coverage": 0.5408843537414966
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 35,
+    "minimum_time": "2024-12-12 09:07:00",
+    "maximum_time": "2024-12-22 09:06:00",
+    "minute_coverage": 0.8370138888888888
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 36,
+    "minimum_time": "2022-03-29 09:58:00",
+    "maximum_time": "2022-04-10 07:12:00",
+    "minute_coverage": 0.8415425065731814
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 38,
+    "minimum_time": "2022-01-25 08:56:00",
+    "maximum_time": "2022-02-04 10:40:00",
+    "minute_coverage": 0.9890382626680455
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 39,
+    "minimum_time": "2025-02-07 09:28:00",
+    "maximum_time": "2025-02-19 08:12:00",
+    "minute_coverage": 0.8333623946527172
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 41,
+    "minimum_time": "2022-04-26 09:04:00",
+    "maximum_time": "2022-05-06 07:33:00",
+    "minute_coverage": 0.6881900768693221
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 42,
+    "minimum_time": "2025-07-25 10:10:00",
+    "maximum_time": "2025-08-04 12:09:00",
+    "minute_coverage": 0.9115013774104683
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 43,
+    "minimum_time": "2025-10-14 09:09:00",
+    "maximum_time": "2025-10-24 11:23:00",
+    "minute_coverage": 0.9636738906088751
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 44,
+    "minimum_time": "2022-10-17 08:36:00",
+    "maximum_time": "2022-10-27 10:50:00",
+    "minute_coverage": 0.8411420708634331
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 45,
+    "minimum_time": "2025-03-25 19:59:00",
+    "maximum_time": "2025-04-05 15:28:00",
+    "minute_coverage": 0.9375080282594733
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 46,
+    "minimum_time": "2025-05-01 08:32:00",
+    "maximum_time": "2025-05-11 13:16:00",
+    "minute_coverage": 0.9276132107592782
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 47,
+    "minimum_time": "2025-10-30 08:49:00",
+    "maximum_time": "2025-11-10 06:18:00",
+    "minute_coverage": 0.9177820267686424
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 48,
+    "minimum_time": "2022-11-14 09:14:00",
+    "maximum_time": "2022-11-26 10:28:00",
+    "minute_coverage": 0.8266781907231345
+  },
+  {
+    "dataset": "CGMacros",
+    "pid": 49,
+    "minimum_time": "2025-05-11 08:53:00",
+    "maximum_time": "2025-05-22 00:07:00",
+    "minute_coverage": 0.9124387855044075
+  },
+  {
+    "dataset": "BIG IDEAs",
+    "pid": 2,
+    "minimum_time": "2020-02-21 09:19:00",
+    "maximum_time": "2020-02-29 12:45:00",
+    "minute_coverage": 0.8957107529632472
+  },
+  {
+    "dataset": "BIG IDEAs",
+    "pid": 4,
+    "minimum_time": "2020-02-27 08:37:00",
+    "maximum_time": "2020-03-06 11:38:00",
+    "minute_coverage": 0.6412579046316869
+  },
+  {
+    "dataset": "BIG IDEAs",
+    "pid": 5,
+    "minimum_time": "2020-02-27 13:34:00",
+    "maximum_time": "2020-03-07 14:36:00",
+    "minute_coverage": 0.9337326268908853
+  },
+  {
+    "dataset": "BIG IDEAs",
+    "pid": 6,
+    "minimum_time": "2020-02-28 10:18:00",
+    "maximum_time": "2020-03-09 10:00:00",
+    "minute_coverage": 0.5799207397622193
+  },
+  {
+    "dataset": "BIG IDEAs",
+    "pid": 7,
+    "minimum_time": "2020-03-14 10:24:00",
+    "maximum_time": "2020-03-22 11:09:00",
+    "minute_coverage": 0.9361058274252119
+  },
+  {
+    "dataset": "BIG IDEAs",
+    "pid": 8,
+    "minimum_time": "2020-03-14 12:20:00",
+    "maximum_time": "2020-03-23 11:45:00",
+    "minute_coverage": 0.8594306049822064
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "target": "Same 44 later daily carbohydrate totals, no changed exclusions",
+  "features": "15-minute CGM readings; daily summaries; prior 24h sensor context; hourly HR/activity where >=90% complete. No food inputs or later-day labels.",
+  "selection": "Expanding same-person windows after 2 and 3 earlier days, next day validation; minimum MAPE then MAE. Candidate families summary+context, full CGM, full CGM+context. Residual ridge and Gaussian kernel ridge; personal mean baseline.",
+  "interpretation": "Already exposed development outcomes; not a fresh validation cohort. Previous-day signals are available before prediction."
+}

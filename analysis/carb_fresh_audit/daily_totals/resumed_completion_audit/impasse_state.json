@@ -1,0 +1,9 @@
+{
+  "consecutive_impasse_assessments": 3,
+  "condition": "No evidence-supported correction to reach 10% identified with current verified calibration data; ambiguous source labels and lack of untouched confirmation remain unresolved.",
+  "goal_completed": false,
+  "goal_marked_blocked": true,
+  "historical_blocked_count_reset": true,
+  "second_assessment": "All audited result hashes unchanged. Source rows confirm consumption codes300/400/500 and partial-portion ambiguity; exact clarification draft prepared, not sent. No new verified labels or viable correction available.",
+  "third_assessment": "All42 audited prediction vectors unchanged; checked ambiguous source values remain unresolved. No new user-provided correction or verified calibration data. Current evidence-supported methods remain short of10%."
+}

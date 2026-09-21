@@ -1,0 +1,7 @@
+{
+  "target": "Same44 daily carbohydrate totals; known meal-time diagnostic",
+  "expansion": "Valid full-consumption individual meals from other days/people in sameCGMacros. Each evaluation participant: training four-hour postmeal window ends before earliest later midnight minus1h. Others have no evaluation days.",
+  "quality": "Require all301 published minute values from\u221260 through+240min finite; keep device bounds flagged and overlaps. No new interpolation.",
+  "models": "Fixed exact-event Poisson boosting80iterations,7leaves,min_leaf20,L2=1; clock/cgm/cgm+clock. No tuning on later labels. Compare prior267-event results.",
+  "limits": "Known event times supplied; not passive. More individual meals do not establish complete daily intake. Additional participants are training-only."
+}

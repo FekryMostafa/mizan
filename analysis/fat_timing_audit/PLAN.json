@@ -1,0 +1,25 @@
+{
+  "fat_grid_g": [
+    0,
+    100,
+    0.25
+  ],
+  "gain_grid": [
+    0.8,
+    1.2,
+    0.05
+  ],
+  "time_scale_grid": [
+    0.8,
+    1.2,
+    0.05
+  ],
+  "calibration": "first low and high fat meals",
+  "evaluation": "same later controlled meals; no reserved subjects",
+  "near_fit": "RMSE <= best RMSE + 1 mg/dL; NOT a confidence interval",
+  "models": [
+    "fixed",
+    "gain_and_time"
+  ],
+  "limitation": "empirical interpolation, not a validated physiological model"
+}

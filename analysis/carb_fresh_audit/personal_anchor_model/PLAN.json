@@ -1,0 +1,69 @@
+{
+  "model": "Independent kernel regressions per person. Zero observation regularization on the two initial known anchors enforces their labels exactly; ridge regularization applies only to other earlier meals.",
+  "families": {
+    "shape": [
+      "shape_start",
+      "shape_minimum"
+    ],
+    "glucose": [
+      "personal_peak",
+      "personal_area_0_60",
+      "personal_area_60_120",
+      "personal_area_120_180",
+      "personal_peak_time",
+      "personal_rise_0_30",
+      "shape_start",
+      "shape_minimum",
+      "baseline_difference",
+      "pre24_glucose",
+      "pre6_glucose",
+      "pre1_glucose",
+      "early_glucose",
+      "middle_glucose",
+      "late_glucose"
+    ],
+    "glucose_activity": [
+      "personal_peak",
+      "personal_area_0_60",
+      "personal_area_60_120",
+      "personal_area_120_180",
+      "personal_peak_time",
+      "personal_rise_0_30",
+      "shape_start",
+      "shape_minimum",
+      "baseline_difference",
+      "pre24_glucose",
+      "pre24_hr",
+      "pre24_activity",
+      "pre6_glucose",
+      "pre6_hr",
+      "pre6_activity",
+      "pre1_glucose",
+      "pre1_hr",
+      "pre1_activity",
+      "early_glucose",
+      "early_hr",
+      "early_activity",
+      "middle_glucose",
+      "middle_hr",
+      "middle_activity",
+      "late_glucose",
+      "late_hr",
+      "late_activity"
+    ]
+  },
+  "gamma": [
+    0.01,
+    0.1,
+    1.0,
+    10.0
+  ],
+  "ridge": [
+    0.001,
+    0.1,
+    1.0,
+    10.0
+  ],
+  "selection": "Same three earlier rolling windows; equal-weight dose-band hit rate, then equal-band MAE. No later answers used for selection.",
+  "validation": "Known people, later meals. Reused development holdout, not fresh validation."
+}

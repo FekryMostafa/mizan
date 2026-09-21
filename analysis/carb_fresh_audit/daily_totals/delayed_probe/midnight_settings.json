@@ -1,0 +1,10 @@
+{
+  "arm": "midnight",
+  "family": "midnight_summary_context",
+  "kind": "ridge",
+  "reg": 1000.0,
+  "n": 29,
+  "hits": 8,
+  "mape": 23.789791273244813,
+  "mae": 42.72477668169311
+}

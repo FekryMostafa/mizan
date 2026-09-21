@@ -1,0 +1,6 @@
+{
+  "predictions_independently_recomputed": 32,
+  "prior_participant_predictions_reproduced": 20,
+  "no_calibration_query_overlap": true,
+  "absolute_tolerance": 1e-08
+}

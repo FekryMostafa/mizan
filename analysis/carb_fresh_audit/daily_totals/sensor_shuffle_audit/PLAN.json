@@ -1,0 +1,6 @@
+{
+  "target": "Does the fixed31-model uniform ensemble exploit correctly paired sensor days beyond personal intake averages?",
+  "control": "100 fixed-seed permutations of complete sensor feature rows within each participant, separately in64training and44later days. Preserve personal identity, labels, split, feature correlations and all outcomes. Refit unchanged models.",
+  "interpretation": "Descriptive negative control on repeatedly inspected development days. Temporal dependence and nonexchangeable daily states mean this is not a formal causal or prospective significance test. Shuffle does not show physical impossibility.",
+  "selection": "No feature or model selection, fixed uniform ensemble and seed20260908."
+}

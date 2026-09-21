@@ -1,0 +1,127 @@
+{
+  "labeled_events": 1706,
+  "participants": 45,
+  "exact_fat_only": 0,
+  "matched_breakfasts": {
+    "high": 69,
+    "low": 68
+  },
+  "matched_participants": 35,
+  "all_events_no_later_food_for_hours": {
+    "1": 1538,
+    "2": 1455,
+    "3": 1357,
+    "5": 793
+  },
+  "sensor_comparisons": {
+    "Libre GL_180": {
+      "usable_low": 66,
+      "usable_high": 63,
+      "paired_people": 33,
+      "mean_delta_high_minus_low": {
+        "median": -5.3107407407407266,
+        "q25": -12.817962962962994,
+        "q75": 2.5113888888888862,
+        "positive_people": 12
+      },
+      "peak_delay_high_minus_low_min": {
+        "median": 10.5,
+        "q25": -10.0,
+        "q75": 28.0,
+        "positive_people": 22
+      },
+      "tail_delta_high_minus_low": {
+        "median": 3.961111111111113,
+        "q25": -9.523333333333323,
+        "q75": 12.705277777777775,
+        "positive_people": 18
+      },
+      "same_recipe_repeat_median_abs_difference": 11.95648148148147,
+      "same_recipe_repeat_pairs": 62,
+      "fat_contrast_median_abs_difference": 8.125740740740742
+    },
+    "Libre GL_300": {
+      "usable_low": 12,
+      "usable_high": 20,
+      "paired_people": 8,
+      "mean_delta_high_minus_low": {
+        "median": 5.528027777777788,
+        "q25": -6.510930555555575,
+        "q75": 8.053902777777775,
+        "positive_people": 5
+      },
+      "peak_delay_high_minus_low_min": {
+        "median": 9.5,
+        "q25": -63.125,
+        "q75": 17.625,
+        "positive_people": 5
+      },
+      "tail_delta_high_minus_low": {
+        "median": 1.4177777777777678,
+        "q25": -14.870231481481484,
+        "q75": 7.783611111111109,
+        "positive_people": 4
+      }
+    },
+    "Dexcom GL_180": {
+      "usable_low": 65,
+      "usable_high": 61,
+      "paired_people": 33,
+      "mean_delta_high_minus_low": {
+        "median": -5.486666666666665,
+        "q25": -14.703333333333319,
+        "q75": 2.791111111111107,
+        "positive_people": 10
+      },
+      "peak_delay_high_minus_low_min": {
+        "median": 11.0,
+        "q25": 5.0,
+        "q75": 33.0,
+        "positive_people": 26
+      },
+      "tail_delta_high_minus_low": {
+        "median": 2.739166666666648,
+        "q25": -13.241666666666678,
+        "q75": 10.101666666666665,
+        "positive_people": 17
+      },
+      "same_recipe_repeat_median_abs_difference": 13.658888888888878,
+      "same_recipe_repeat_pairs": 59,
+      "fat_contrast_median_abs_difference": 6.814999999999998
+    },
+    "Dexcom GL_300": {
+      "usable_low": 11,
+      "usable_high": 20,
+      "paired_people": 8,
+      "mean_delta_high_minus_low": {
+        "median": -2.3128333333333355,
+        "q25": -8.35875,
+        "q75": 2.034541666666666,
+        "positive_people": 4
+      },
+      "peak_delay_high_minus_low_min": {
+        "median": 5.75,
+        "q25": -65.25,
+        "q75": 36.625,
+        "positive_people": 5
+      },
+      "tail_delta_high_minus_low": {
+        "median": -4.371944444444438,
+        "q25": -11.972152777777767,
+        "q75": 3.6265277777777767,
+        "positive_people": 3
+      }
+    }
+  },
+  "no_model_trained": true,
+  "near_fat_only_snack": {
+    "participant": 10,
+    "carbs": 2,
+    "protein": 4,
+    "fat": 14,
+    "next_food_min": 73,
+    "previous_food_min": 188.0,
+    "Libre GL_baseline": 102.6,
+    "Dexcom GL_baseline": 112.5
+  }
+}

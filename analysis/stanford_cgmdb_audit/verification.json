@@ -1,0 +1,13 @@
+{
+  "rows": 23520,
+  "sessions": 588,
+  "people": 38,
+  "unique_session_time_keys": true,
+  "no_missing_glucose": true,
+  "window": [
+    -25,
+    170
+  ],
+  "actual_dates_present": false,
+  "chronological_rep_order_verified": false
+}

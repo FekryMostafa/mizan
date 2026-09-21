@@ -1,0 +1,6 @@
+{
+  "scope": "Same64 training/44 later days, sensors through next06:00, no query food information.",
+  "model": "100 boosting rounds, L2=1, learning_rate0.05, leaves3 or7, min_leaf5. Raw sensor features plus personal sensor deviations and personal earlier mean intake. Each training row personal mean excludes its own target; singleton uses other-person pooled mean.",
+  "objective": "absolute_error weighted1/actual minimizes empirical absolute percentage error; squared_error unweighted is paired control. Predict residual to personal mean.",
+  "selection": "33 earlier chronological validation days. Eight model configurations and mean/weighted-median personal baselines. MAPE thenMAE. No later-label tuning."
+}

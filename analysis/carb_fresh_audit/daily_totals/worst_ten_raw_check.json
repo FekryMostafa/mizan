@@ -1,0 +1,202 @@
+[
+  {
+    "pid": 26,
+    "day": "2021-04-04",
+    "actual": 122.0,
+    "prediction": 215.5914377687598,
+    "baseline": 211.0,
+    "ape": 76.71429325308179,
+    "meal_carbs": [
+      24.0,
+      94.0,
+      4.0
+    ],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "pid": 9,
+    "day": "2020-09-22",
+    "actual": 132.0,
+    "prediction": 206.53604395785536,
+    "baseline": 200.0,
+    "ape": 56.46669996807224,
+    "meal_carbs": [
+      66.0,
+      40.0,
+      0.0,
+      26.0
+    ],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ]
+  },
+  {
+    "pid": 6,
+    "day": "2023-04-15",
+    "actual": 150.0,
+    "prediction": 226.0962573493473,
+    "baseline": 224.66666666666663,
+    "ape": 50.7308382328982,
+    "meal_carbs": [
+      66.0,
+      43.0,
+      41.0
+    ],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "pid": 27,
+    "day": "2024-06-18",
+    "actual": 133.0,
+    "prediction": 200.2794395157534,
+    "baseline": 208.0,
+    "ape": 50.586044748686774,
+    "meal_carbs": [
+      66.0,
+      43.0,
+      24.0
+    ],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "pid": 12,
+    "day": "2023-03-05",
+    "actual": 107.0,
+    "prediction": 157.13153612903753,
+    "baseline": 170.0,
+    "ape": 46.85190292433414,
+    "meal_carbs": [
+      66.0,
+      40.0,
+      1.0
+    ],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "pid": 4,
+    "day": "2023-09-19",
+    "actual": 513.0,
+    "prediction": 317.445539899934,
+    "baseline": 321.6,
+    "ape": 38.119777797283824,
+    "meal_carbs": [
+      66.0,
+      43.0,
+      124.0,
+      126.0,
+      32.0,
+      14.0,
+      39.0,
+      35.0,
+      34.0
+    ],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "dinner",
+      "snack",
+      "dinner",
+      "snack",
+      "snack",
+      "dinner"
+    ]
+  },
+  {
+    "pid": 17,
+    "day": "2023-10-17",
+    "actual": 173.0,
+    "prediction": 237.05540661806504,
+    "baseline": 239.33333333333337,
+    "ape": 37.02624660003761,
+    "meal_carbs": [
+      66.0,
+      40.0,
+      14.0,
+      53.0
+    ],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "snack",
+      "dinner"
+    ]
+  },
+  {
+    "pid": 1,
+    "day": "2020-05-09",
+    "actual": 137.0,
+    "prediction": 187.34309886796265,
+    "baseline": 183.8,
+    "ape": 36.74678749486325,
+    "meal_carbs": [
+      66.0,
+      43.0,
+      28.0,
+      0.0
+    ],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "dinner"
+    ]
+  },
+  {
+    "pid": 8,
+    "day": "2023-02-06",
+    "actual": 148.0,
+    "prediction": 201.15368960817725,
+    "baseline": 210.83333333333337,
+    "ape": 35.9146551406603,
+    "meal_carbs": [
+      66.0,
+      40.0,
+      42.0
+    ],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "pid": 5,
+    "day": "2020-08-26",
+    "actual": 157.0,
+    "prediction": 206.0478516074823,
+    "baseline": 206.16666666666663,
+    "ape": 31.24066981368299,
+    "meal_carbs": [
+      24.0,
+      94.0,
+      15.0,
+      24.0
+    ],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "snack",
+      "dinner"
+    ]
+  }
+]

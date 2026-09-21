@@ -1,0 +1,52 @@
+[
+  {
+    "view": "glucose",
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "total_carb": 39.56391641043939,
+      "protein": 13.734200066187741,
+      "total_fat": 13.017423834770444
+    }
+  },
+  {
+    "view": "glucose_both",
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "total_carb": 39.41076091564456,
+      "protein": 14.376556408427113,
+      "total_fat": 11.996042371681057
+    }
+  },
+  {
+    "view": "glucose_eda",
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "total_carb": 39.74588156296761,
+      "protein": 14.305839727239546,
+      "total_fat": 12.365349519288072
+    }
+  },
+  {
+    "view": "glucose_temperature",
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "total_carb": 39.12638093233541,
+      "protein": 13.90758210949174,
+      "total_fat": 12.630234715320203
+    }
+  },
+  {
+    "view": "no_sensor_median",
+    "meals": 65,
+    "hits": 0,
+    "MAE": {
+      "total_carb": 41.17923076923077,
+      "protein": 15.563846153846153,
+      "total_fat": 13.736153846153849
+    }
+  }
+]

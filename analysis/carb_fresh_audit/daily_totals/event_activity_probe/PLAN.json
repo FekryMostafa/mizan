@@ -1,0 +1,7 @@
+{
+  "target": "Same44 daily carbohydrate totals under supplied-meal-time diagnostic",
+  "features": "20 consecutive15min HR/activity means from\u221260 to+240min; mean unavailable if <90% observed. Premeal24h means similarly require90% coverage. No missing-to-rest conversion.",
+  "arms": "glucose+clock reference; plus activity; plus activity+HR; activity+HR+clock without glucose control",
+  "models": "Same fixed Poisson boosting80iterations,7leaves,min_leaf20,L2=1. No later-label selection or filtering.",
+  "limits": "All meal times supplied; not passive. Activity calories are tracker estimates, not directly measured glucose disposal. Missingness may encode participant differences."
+}

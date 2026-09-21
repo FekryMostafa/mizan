@@ -1,0 +1,36 @@
+{
+  "setting": {
+    "family": "glucose",
+    "kind": "extra",
+    "leaf": 5,
+    "weight": 1.0
+  },
+  "validation": {
+    "candidate": 11,
+    "family": "glucose",
+    "kind": "extra",
+    "leaf": 5,
+    "weight": 1.0,
+    "n": 29,
+    "hits": 10,
+    "mape": 23.6825258136,
+    "mae": 43.935236041
+  },
+  "later": {
+    "n": 44,
+    "hits": 15,
+    "mape": 20.26920044628343,
+    "mae": 40.7332230454136
+  },
+  "baseline": {
+    "n": 44,
+    "hits": 14,
+    "mape": 20.57518464093853,
+    "mae": 39.653030303030306
+  },
+  "own_training_label_cannot_change_own_oob_prediction": true,
+  "minimum_oob_voters": 54,
+  "query_labels_do_not_change_predictions": true,
+  "all_44_days_retained": true,
+  "source_unchanged": true
+}

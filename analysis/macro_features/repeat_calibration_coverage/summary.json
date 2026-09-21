@@ -1,0 +1,42 @@
+[
+  {
+    "dataset": "BIG_IDEAs_development",
+    "macro": "Carbs",
+    "dose_pairs": 1,
+    "pairs_with_two_each": 0,
+    "pairs_with_later_query": 0,
+    "pairs_with_both_later_doses": 0
+  },
+  {
+    "dataset": "BIG_IDEAs_development",
+    "macro": "Protein",
+    "dose_pairs": 1,
+    "pairs_with_two_each": 0,
+    "pairs_with_later_query": 0,
+    "pairs_with_both_later_doses": 0
+  },
+  {
+    "dataset": "CGMacros",
+    "macro": "Carbs",
+    "dose_pairs": 36,
+    "pairs_with_two_each": 27,
+    "pairs_with_later_query": 0,
+    "pairs_with_both_later_doses": 0
+  },
+  {
+    "dataset": "CGMacros",
+    "macro": "Fat",
+    "dose_pairs": 33,
+    "pairs_with_two_each": 25,
+    "pairs_with_later_query": 0,
+    "pairs_with_both_later_doses": 0
+  },
+  {
+    "dataset": "CGMacros",
+    "macro": "Protein",
+    "dose_pairs": 35,
+    "pairs_with_two_each": 28,
+    "pairs_with_later_query": 0,
+    "pairs_with_both_later_doses": 0
+  }
+]

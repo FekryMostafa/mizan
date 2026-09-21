@@ -1,0 +1,6 @@
+{
+  "scope": "Add P27 2024-06-11 training day only, retain same44 queries and fixed31model uniform ensemble.",
+  "assumption": "Accept original zero macros for tea recordCGMacros-027:2388. Photo shows tea, additives unverified. No estimated macros, original daily recorded sum277g. Source files unchanged.",
+  "verification": "Reextract all required features and reproduce existing P27 rows before applying to added day. Complete30hour glucose required. Exclude query labels.",
+  "interpretation": "Sensitivity under label acceptance, not independently verified extra ground truth or a new untouched validation set."
+}

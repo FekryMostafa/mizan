@@ -1,0 +1,9 @@
+{
+  "target": "Same midnight-to-midnight carbohydrate totals and same 44 later days",
+  "availability": "Delayed estimate uses sensor data up to next-day 05:59; no next-day food labels are predictors.",
+  "comparison": "Same folds, same training rows, same candidate grid for midnight and delayed models. Select independently on earlier validation MAPE then MAE.",
+  "purge": "For each person exclude calibration days whose 30-hour sensor window overlaps the first query day. Apply to both arms.",
+  "missing": "Retain all days; unavailable overnight features remain NaN, converted to zero personal deviations by training-only preprocessing.",
+  "candidates": "summary_context and sequence_context, ridge/kernel, regularization .1,1,10,100,1000, plus baseline.",
+  "limitations": "Repeatedly exposed development cohort, sparse personal calibration, unverified food-log completeness; next-day food may affect overnight CGM."
+}

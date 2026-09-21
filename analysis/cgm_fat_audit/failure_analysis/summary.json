@@ -1,0 +1,210 @@
+{
+  "Dexcom GL": {
+    "by_recipe": {
+      "carb_low": {
+        "meals": 21,
+        "hits": 10
+      },
+      "fat_high": {
+        "meals": 21,
+        "hits": 10
+      },
+      "protein_high": {
+        "meals": 21,
+        "hits": 1
+      },
+      "reference": {
+        "meals": 21,
+        "hits": 4
+      }
+    },
+    "confusion": {
+      "carb_low": {
+        "carb_low": 10,
+        "fat_high": 3,
+        "protein_high": 6,
+        "reference": 2
+      },
+      "fat_high": {
+        "carb_low": 1,
+        "fat_high": 10,
+        "protein_high": 5,
+        "reference": 5
+      },
+      "protein_high": {
+        "carb_low": 5,
+        "fat_high": 10,
+        "protein_high": 1,
+        "reference": 5
+      },
+      "reference": {
+        "carb_low": 6,
+        "fat_high": 8,
+        "protein_high": 3,
+        "reference": 4
+      }
+    },
+    "passed_failed": {
+      "False": {
+        "n": 59,
+        "wrong_recipe_closer": 44,
+        "same_recipe_RMSE": 28.04200146483568,
+        "nearest_other_RMSE": 25.170251060756993,
+        "abs_shift_base": 10.400000000000006,
+        "abs_shift_slope30": 0.2482758620689651,
+        "abs_shift_mean180": 16.85722222222221,
+        "abs_shift_peak_time180": 18.0,
+        "prev_min": 750.0,
+        "next_min": 271.0
+      },
+      "True": {
+        "n": 25,
+        "wrong_recipe_closer": 14,
+        "same_recipe_RMSE": 19.713174040961302,
+        "nearest_other_RMSE": 18.559757955981414,
+        "abs_shift_base": 8.300000000000011,
+        "abs_shift_slope30": 0.2689655172413796,
+        "abs_shift_mean180": 9.038333333333327,
+        "abs_shift_peak_time180": 17.0,
+        "prev_min": 706.0,
+        "next_min": 277.0
+      }
+    },
+    "per_macro": {
+      "C": {
+        "hits": 61,
+        "MAE": 11.5
+      },
+      "P": {
+        "hits": 50,
+        "MAE": 17.80952380952381
+      },
+      "F": {
+        "hits": 52,
+        "MAE": 12.0
+      }
+    }
+  },
+  "Libre GL": {
+    "by_recipe": {
+      "carb_low": {
+        "meals": 22,
+        "hits": 13
+      },
+      "fat_high": {
+        "meals": 22,
+        "hits": 10
+      },
+      "protein_high": {
+        "meals": 22,
+        "hits": 8
+      },
+      "reference": {
+        "meals": 22,
+        "hits": 8
+      }
+    },
+    "confusion": {
+      "carb_low": {
+        "carb_low": 13,
+        "fat_high": 5,
+        "protein_high": 3,
+        "reference": 1
+      },
+      "fat_high": {
+        "carb_low": 3,
+        "fat_high": 10,
+        "protein_high": 1,
+        "reference": 8
+      },
+      "protein_high": {
+        "carb_low": 4,
+        "fat_high": 9,
+        "protein_high": 8,
+        "reference": 1
+      },
+      "reference": {
+        "carb_low": 3,
+        "fat_high": 7,
+        "protein_high": 4,
+        "reference": 8
+      }
+    },
+    "passed_failed": {
+      "False": {
+        "n": 49,
+        "wrong_recipe_closer": 40,
+        "same_recipe_RMSE": 23.369546989527347,
+        "nearest_other_RMSE": 18.91691234450199,
+        "abs_shift_base": 11.433333333333294,
+        "abs_shift_slope30": 0.19770114942528783,
+        "abs_shift_mean180": 14.561851851851856,
+        "abs_shift_peak_time180": 21.0,
+        "prev_min": 727.0,
+        "next_min": 279.0
+      },
+      "True": {
+        "n": 39,
+        "wrong_recipe_closer": 20,
+        "same_recipe_RMSE": 15.412762499410931,
+        "nearest_other_RMSE": 16.741955588373674,
+        "abs_shift_base": 7.59999999999998,
+        "abs_shift_slope30": 0.1977011494252875,
+        "abs_shift_mean180": 8.871296296296284,
+        "abs_shift_peak_time180": 12.0,
+        "prev_min": 760.0,
+        "next_min": 253.0
+      }
+    },
+    "per_macro": {
+      "C": {
+        "hits": 69,
+        "MAE": 9.068181818181818
+      },
+      "P": {
+        "hits": 66,
+        "MAE": 11.0
+      },
+      "F": {
+        "hits": 55,
+        "MAE": 11.8125
+      }
+    }
+  },
+  "paired_devices": {
+    "meals": 80,
+    "both_correct": 15,
+    "both_wrong": 36,
+    "only_Libre_correct": 22,
+    "only_Dexcom_correct": 7,
+    "same_prediction": 35
+  },
+  "dose_coverage": {
+    "Dexcom GL": {
+      "total": 259,
+      "unfamiliar": 155,
+      "unfamiliar_inside_calibration_hull": 2,
+      "unfamiliar_outside_calibration_hull": 153,
+      "by_meal_type": {
+        "breakfast": 104,
+        "dinner": 28,
+        "lunch": 112,
+        "snack": 14,
+        "snacks": 1
+      }
+    },
+    "Libre GL": {
+      "total": 286,
+      "unfamiliar": 179,
+      "unfamiliar_inside_calibration_hull": 2,
+      "unfamiliar_outside_calibration_hull": 177,
+      "by_meal_type": {
+        "breakfast": 126,
+        "dinner": 30,
+        "lunch": 115,
+        "snack": 14,
+        "snacks": 1
+      }
+    }
+  }
+}

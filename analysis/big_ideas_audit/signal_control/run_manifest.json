@@ -1,0 +1,7 @@
+{
+  "script_sha256": "64fbae85b02417e4de53b66a1555aa2fce5c88c676bf2a8ce3a39a09c97f9c8d",
+  "reproduced_original_predictions": true,
+  "permutations": 50,
+  "reserved_accessed": false,
+  "limitations": "Five development people; post-hoc controls. Permutations break curve/premeal-state consistency; not a causal test or proof of absent information."
+}

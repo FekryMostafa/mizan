@@ -1,0 +1,18 @@
+{
+  "selected": "median",
+  "validation": {
+    "rule": "median",
+    "n": 33,
+    "hits": 9,
+    "mape": 24.201899727759095,
+    "mae": 44.862179305946825
+  },
+  "later": {
+    "n": 44,
+    "hits": 17,
+    "mape": 19.0171334591076,
+    "mae": 37.70836611129588
+  },
+  "reference_reproduced": true,
+  "all44": true
+}

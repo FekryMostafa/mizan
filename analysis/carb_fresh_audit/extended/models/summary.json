@@ -1,0 +1,8 @@
+{
+  "meals": 52,
+  "people": 26,
+  "within10": 4,
+  "MAE": 22.960196260003734,
+  "both_meals_correct": 0,
+  "median_absolute_percentage_error": 34.72398745298065
+}

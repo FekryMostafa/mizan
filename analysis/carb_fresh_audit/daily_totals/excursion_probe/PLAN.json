@@ -1,0 +1,7 @@
+{
+  "target": "Same44 later daily carb totals; known-day calibration and next-morning sensors",
+  "hypothesis": "Rise-only measures miss sustained elevation. Describe amplitude, duration and positive increments after assumed exponential decay.",
+  "features": "Observed CGM only. Baseline=30-hour10th percentile; three separate clock segments. Fixed descriptive decay constants30/60/120min. These are not measured absorption rates or gram conversions.",
+  "selection": "Same29 purged earlier validation days, MAPE thenMAE; old summaries versus excursions versus combined, ridge/kernel, regularization. No food features.",
+  "limitations": "Daily baseline may change with physiology; fixed decay rates are hypotheses, not subject physiology. Existing outcomes repeatedly exposed."
+}

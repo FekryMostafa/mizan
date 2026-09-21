@@ -1,0 +1,5 @@
+{
+  "target": "Separate dependence of fixed uniform ensemble on glucose and HR/activity day pairing",
+  "controls": "100 same-seed paired permutations per group, within person separately in training/later. Shuffle all glucose features together or all HR/activity features together. Refit unchanged31 models. Other group unchanged.",
+  "limits": "Descriptive development-set audit, not causal attribution. Shuffling one group disrupts cross-sensor coherence and may create unrealistic combinations. No model selection or claimed percentage improvement from a shuffled run."
+}

@@ -1,0 +1,536 @@
+pid,source_row,time,food,amount,unit,Carbs,Protein,Fat,Calories,complete_macros,gram_unit,macro_mass,mass_conflict,calorie_macro_mismatch,macro_kcal
+1,2,2020-02-13 18:00:00,Berry Smoothie,20.0,fluid ounce,85.0,16.0,3.3,456.0,True,False,104.3,False,False,433.7
+1,3,2020-02-13 20:30:00,Chicken Leg,1.0,nan,0.0,62.0,23.0,475.0,True,False,85.0,False,False,455.0
+1,4,2020-02-13 20:30:00,Asparagus,4.0,nan,2.5,1.4,0.1,13.0,True,False,4.0,False,True,16.5
+1,5,2020-02-14 07:10:00,Natrel Lactose Free 2 Percent,8.0,fluid ounce,9.0,12.0,,120.0,False,False,,False,False,
+1,6,2020-02-14 07:10:00,Standard Breakfast,0.75,cup,26.0,1.0,,110.0,False,False,,False,False,
+1,7,2020-02-14 09:38:00,Breakfast Trail Mix,0.5,cup,30.0,4.0,,280.0,False,False,,False,False,
+1,8,2020-02-14 12:38:00,Spinach Salad w/ strawberries and cheese,200.0,grams,14.0,7.6,,286.0,False,True,,False,False,
+1,9,2020-02-14 12:38:00,Egg,1.0,nan,0.4,6.3,,72.0,False,False,,False,False,
+1,10,2020-02-14 19:30:00,Acai Smoothie,20.0,fluid ounce,92.0,5.0,,440.0,False,False,,False,False,
+1,11,2020-02-14 20:00:00,(Trader Joe's) Mac and Cheese,0.5,cup,23.5,5.0,,135.0,False,False,,False,False,
+1,12,2020-02-14 20:00:00,Coconut Shrimp,5.0,nan,30.0,11.0,,317.0,False,False,,False,False,
+1,13,2020-02-15 07:30:00,Spinach Smoothie,20.0,fluid ounce,69.0,7.2,,308.0,False,False,,False,False,
+1,14,2020-02-15 11:02:00,Breakfast Trail Mix,0.5,cup,30.0,4.0,,280.0,False,False,,False,False,
+1,15,2020-02-15 12:38:00,"Spinach Salad w/ blueberries, egg, and cheese",200.0,grams,14.0,7.6,,286.0,False,True,,False,False,
+1,16,2020-02-15 12:38:00,Egg,1.0,nan,0.4,6.3,,72.0,False,False,,False,False,
+1,17,2020-02-15 15:30:00,Babel Cheese,1.0,nan,0.3,5.0,,71.0,False,False,,False,False,
+1,18,2020-02-15 15:35:00,Breakfast Trail Mix,0.5,cup,30.0,4.0,,280.0,False,False,,False,False,
+1,19,2020-02-15 20:30:00,Bourbon Chicken,0.5,cup,10.0,22.0,,212.0,False,False,,False,False,
+1,20,2020-02-15 20:30:00,Rice,0.5,cup,22.0,2.1,,103.0,False,False,,False,False,
+1,21,2020-02-15 20:30:00,Shrimp,0.5,cup,1.1,17.0,,86.0,False,False,,False,False,
+1,22,2020-02-15 20:30:00,Cabbage,0.5,cup,4.1,0.9,,17.0,False,False,,False,False,
+1,23,2020-02-16 07:00:00,Natrel Lactose Free 2 Percent,8.0,fluid ounce,9.0,12.0,,120.0,False,False,,False,False,
+1,24,2020-02-16 07:00:00,Standard Breakfast,0.75,cup,26.0,1.0,,110.0,False,False,,False,False,
+1,25,2020-02-16 08:15:00,Breakfast Trail Mix,0.5,cup,30.0,4.0,,280.0,False,False,,False,False,
+1,26,2020-02-16 08:49:00,Hot Chocolate,1.0,cup,32.0,2.5,,151.0,False,False,,False,False,
+1,27,2020-02-16 11:56:00,Salty Sweet Popcorn,1.0,cup,14.0,2.0,,110.0,False,False,,False,False,
+1,28,2020-02-16 12:15:00,Bourbon Chicken,0.5,cup,10.0,22.0,,212.0,False,False,,False,False,
+1,29,2020-02-16 12:15:00,Shrimp,0.5,cup,1.1,17.0,,86.0,False,False,,False,False,
+1,30,2020-02-16 21:10:00,Chai Tea,20.0,fluid ounce,3.4,0.2,,12.0,False,False,,False,False,
+1,31,2020-02-17 06:42:00,Maple Brown Sugar Oatmeal,1.0,nan,33.0,4.0,,158.0,False,False,,False,False,
+1,32,2020-02-17 12:30:00,Salad with Cranberries,2.0,cup,21.0,0.0,,80.0,False,False,,False,False,
+1,33,2020-02-17 12:30:00,Chicken Nuggets,3.0,nan,7.2,7.5,,147.0,False,False,,False,False,
+1,34,2020-02-17 21:00:00,Kale Salad,2.0,cup,4.0,1.2,,83.7,False,False,,False,False,
+1,35,2020-02-17 21:00:00,Pizza,1.0,slice,36.0,12.0,,285.0,False,False,,False,False,
+1,36,2020-02-17 21:56:00,Oreo Cookies,2.0,nan,17.0,0.7,,107.0,False,False,,False,False,
+1,37,2020-02-18 06:20:00,Natrel Lactose Free 2 Percent,8.0,fluid ounce,9.0,12.0,,120.0,False,False,,False,False,
+1,38,2020-02-18 06:20:00,Standard Breakfast,0.75,cup,26.0,1.0,,110.0,False,False,,False,False,
+1,39,2020-02-18 11:00:00,Muffin,0.5,nan,30.0,2.5,,212.0,False,False,,False,False,
+1,40,2020-02-18 11:45:00,Grilled Chicken Wrap,0.5,nan,23.0,16.0,,277.0,False,False,,False,False,
+1,41,2020-02-18 01:40:00,Kale and Fruit Smoothie,20.0,fluid ounce,70.0,7.3,,307.5,False,False,,False,False,
+1,42,2020-02-18 22:00:00,Ranch Wings,8.0,nan,30.4,44.0,,776.0,False,False,,False,False,
+1,43,2020-02-19 11:00:00,Acai Smoothie,20.0,fluid ounce,92.0,5.0,,440.0,False,False,,False,False,
+1,44,2020-02-19 15:30:00,Lemon Loaf,0.5,nan,34.0,3.0,,235.0,False,False,,False,False,
+1,45,2020-02-19 18:00:00,Turkey Slider,1.0,nan,21.0,18.0,,314.0,False,False,,False,False,
+1,46,2020-02-19 20:00:00,Chicken and Rice,2.0,cup,22.0,67.0,,532.0,False,False,,False,False,
+1,47,2020-02-20 07:37:00,Green Smoothie,20.0,fluid ounce,69.0,7.2,,308.0,False,False,,False,False,
+1,48,2020-02-20 07:37:00,Bagel,0.5,nan,27.0,5.5,,139.0,False,False,,False,False,
+1,49,2020-02-20 12:30:00,Salad,2.0,cup,2.8,0.8,,13.0,False,False,,False,False,
+1,50,2020-02-20 13:00:00,Hot Chocolate,1.0,cup,32.0,2.5,,151.0,False,False,,False,False,
+1,51,2020-02-20 12:30:00,Babel bell cheese,1.0,nan,0.3,5.0,,71.0,False,False,,False,False,
+1,52,2020-02-20 18:45:00,Tangerine Orange,1.0,nan,12.0,0.7,,47.0,False,False,,False,False,
+1,53,2020-02-20 20:15:00,Salad,2.0,cup,2.8,0.8,,13.0,False,False,,False,False,
+1,54,2020-02-20 20:30:00,Green Smoothie,20.0,fluid ounce,69.0,7.2,,308.0,False,False,,False,False,
+1,55,2020-02-21 07:30:00,Natrel Lactose Free 2 Percent,8.0,fluid ounce,9.0,12.0,,120.0,False,False,,False,False,
+1,56,2020-02-21 07:30:00,Standard Breakfast,0.75,cup,26.0,1.0,,110.0,False,False,,False,False,
+1,57,2020-02-21 11:00:00,Babybel Cheese,1.0,nan,0.3,5.0,,71.0,False,False,,False,False,
+1,58,2020-02-21 12:30:00,Chicken Salad,0.5,cup,3.3,19.0,,254.0,False,False,,False,False,
+1,59,2020-02-21 12:30:00,Pita Bread,7.0,nan,109.0,18.0,,539.0,False,False,,False,False,
+1,60,2020-02-21 19:50:00,Cheese Pita,5.0,nan,95.0,30.0,,640.0,False,False,,False,False,
+1,61,2020-02-21 20:00:00,Spinach Smoothie,20.0,fluid ounce,69.0,7.2,,308.0,False,False,,False,False,
+1,62,2020-02-22 15:10:00,Boost,,nan,82.0,26.0,26.0,654.0,True,False,134.0,False,False,666.0
+2,2,2020-02-21 10:09:00,Mello Yello,12.0,fluid ounce,48.0,0.0,0.0,180.0,True,False,48.0,False,False,192.0
+2,3,2020-02-21 10:11:00,(Jimmy Dean) Chicken Biscuit,1.0,nan,32.0,13.0,12.0,280.0,True,False,57.0,False,False,288.0
+2,4,2020-02-21 12:09:00,Beef Jerky,2.0,nan,4.4,13.0,10.0,164.0,True,False,27.4,False,False,159.6
+2,5,2020-02-21 12:12:00,(Gatorade) Fierce Grape,12.0,fluid ounce,21.6,0.0,,84.0,False,False,,False,False,
+2,6,2020-02-21 14:02:00,Banquet Chicken Pot Pie,198.0,gram,66.0,24.0,,700.0,False,True,,False,False,
+2,7,2020-02-21 18:00:00,(Red Baron) Brick Oven Pepperoni Pizza,1.0,nan,144.0,52.0,,1360.0,False,False,,False,False,
+2,8,2020-02-21 20:19:00,M & M ,0.5,cup,62.0,4.0,,400.0,False,False,,False,False,
+2,9,2020-02-22 05:39:00,Natrel Lactose Free 2 Percent,8.0,fluid ounce,9.0,12.0,,120.0,False,False,,False,False,
+2,10,2020-02-22 05:39:00,Corn Flakes,0.75,cup,26.0,1.0,,110.0,False,False,,False,False,
+2,11,2020-02-22 06:30:00,Mello Yello,12.0,fluid ounce,48.0,0.0,0.0,180.0,True,False,48.0,False,False,192.0
+2,12,2020-02-22 13:46:00,(Powerade) Grape,20.0,fluid ounce,35.0,0.0,,130.0,False,False,,False,False,
+2,13,2020-02-22 16:08:00,(Powerade) Grape,20.0,fluid ounce,35.0,0.0,,130.0,False,False,,False,False,
+2,14,2020-02-22 17:50:00,Stouffers Salisbury Steak Family Size ,0.5,nan,12.0,11.5,,175.0,False,False,,False,False,
+2,15,2020-02-22 17:50:00,Mashed Potato,1.0,cup,40.0,4.0,,300.0,False,False,,False,False,
+2,16,2020-02-22 18:22:00,Chocolate Milk,8.0,fluid ounce,36.0,11.0,,241.0,False,False,,False,False,
+2,17,2020-02-22 20:45:00,Frozen Pop,1.0,nan,10.0,0.0,,41.1,False,False,,False,False,
+2,18,2020-02-23 10:34:00,"Omelet (3 egg, bacon 3 strip, cheese 2 tsp)",1.0,nan,3.1,45.0,,566.0,False,False,,False,False,
+2,19,2020-02-23 10:36:00,Chocolate Milk,8.0,fluid ounce,36.0,11.0,,241.0,False,False,,False,False,
+2,20,2020-02-23 13:00:00,Mello Yello,5.0,fluid ounce,19.0,0.0,0.0,72.5,True,False,19.0,False,False,76.0
+2,21,2020-02-23 15:00:00,(Arby's) Classic Roast Beef FF,1.0,nan,37.0,23.0,14.0,360.0,True,False,74.0,False,False,366.0
+2,22,2020-02-23 15:00:00,Mello Yello,12.0,fluid ounce,48.0,0.0,0.0,180.0,True,False,48.0,False,False,192.0
+2,23,2020-02-23 18:48:00,Mello Yello,10.0,fluid ounce,38.0,0.0,0.0,145.0,True,False,38.0,False,False,152.0
+2,24,2020-02-23 20:59:00,Chip,2.0,cup,43.0,4.5,13.0,302.0,True,False,60.5,False,False,307.0
+2,25,2020-02-23 20:59:00,Salsa,0.25,cup,4.3,1.0,0.1,19.0,True,False,5.3999999999999995,False,False,22.099999999999998
+2,26,2020-02-24 00:33:00,(Powerade) Grape,10.0,fluid ounce,17.5,0.0,,65.0,False,False,,False,False,
+2,27,2020-02-24 09:30:00,Natrel Lactose Free 2 Percent,8.0,fluid ounce,9.0,12.0,,120.0,False,False,,False,False,
+2,28,2020-02-24 09:30:00,Corn Flakes,0.75,cup,26.0,1.0,,110.0,False,False,,False,False,
+2,29,2020-02-24 12:12:00,Moutain Dew,10.0,fluid ounce,22.0,0.0,,80.0,False,False,,False,False,
+2,30,2020-02-24 15:59:00,Gatorade,10.0,fluid ounce,19.6,0.0,,79.3,False,False,,False,False,
+2,31,2020-02-24 15:59:00,"Cheeseburger (mayo , mustard, chili)",0.75,lb,47.0,39.0,,677.0,False,False,,False,False,
+2,32,2020-02-24 15:59:00,Tater Tots,10.0,nan,23.0,1.8,,161.0,False,False,,False,False,
+2,33,2020-02-24 15:59:00,Onion Rings,5.0,nan,14.2,1.3,,133.6,False,False,,False,False,
+2,34,2020-02-24 15:59:00,Sweet Tea,20.0,fluid ounce,52.0,0.0,,199.0,False,False,,False,False,
+2,35,2020-02-24 20:21:00,Gatorade,10.0,fluid ounce,19.6,0.0,,79.3,False,False,,False,False,
+2,36,2020-02-24 21:38:00,Fig Newton,7.0,nan,73.5,3.5,,350.0,False,False,,False,False,
+2,37,2020-02-25 04:49:00,Mello Yello,12.0,fluid ounce,48.0,0.0,0.0,180.0,True,False,48.0,False,False,192.0
+2,38,2020-02-25 14:00:00,Water ,20.0,fluid ounce,0.0,0.0,0.0,0.0,True,False,0.0,False,False,0.0
+2,39,2020-02-25 15:00:00,Gatorade,20.0,fluid ounce,36.0,0.0,,140.0,False,False,,False,False,
+2,40,2020-02-25 16:59:00,Gatorade,12.0,fluid ounce,22.0,0.0,,80.0,False,False,,False,False,
+2,41,2020-02-25 19:58:00,Small Oranges/Summer Cuties,4.0,nan,48.0,0.0,,188.0,False,False,,False,False,
+2,42,2020-02-25 19:59:00,Chocolate Milk,8.0,fluid ounce,36.0,11.0,,241.0,False,False,,False,False,
+2,43,2020-02-26 10:05:00,Natrel Lactose Free 2 Percent,8.0,fluid ounce,9.0,12.0,,120.0,False,False,,False,False,
+2,44,2020-02-26 10:05:00,Corn Flakes,0.75,cup,26.0,1.0,,110.0,False,False,,False,False,
+2,45,2020-02-26 13:35:00,Gatorade,20.0,fluid ounce,36.0,0.0,,140.0,False,False,,False,False,
+2,46,2020-02-26 14:32:00,Vienna Sausage,4.6,ounce,3.4,14.0,,300.0,False,False,,False,False,
+2,47,2020-02-26 14:32:00,Lance Toast Chee,40.0,gram,24.0,3.0,,100.0,False,True,,False,False,
+2,48,2020-02-26 14:45:00,Tootsie Roll,10.0,nan,22.0,0.8,,108.0,False,False,,False,False,
+2,49,2020-02-26 19:00:00,Steak,10.0,ounce,0.0,74.0,,788.0,False,False,,False,False,
+2,50,2020-02-26 19:00:00,Fried Potato,1.0,nan,48.0,4.0,,365.0,False,False,,False,False,
+2,51,2020-02-26 20:00:00,Ice Cream,1.0,cup,31.0,4.6,,273.0,False,False,,False,False,
+2,52,2020-02-27 08:42:00,JD Sausage Biscuit,1.0,nan,26.0,12.0,29.0,410.0,True,False,67.0,False,False,413.0
+2,53,2020-02-27 08:42:00,Mello Yello,12.0,fluid ounce,48.0,0.0,0.0,180.0,True,False,48.0,False,False,192.0
+2,54,2020-02-27 13:30:00,Chex Mix,1.0,cup,44.0,4.4,,242.0,False,False,,False,False,
+2,55,2020-02-27 14:54:00,Fig Bar,7.0,nan,77.0,4.1,,392.0,False,False,,False,False,
+2,56,2020-02-27 19:15:00,Rib,4.0,nan,0.0,29.0,,505.0,False,False,,False,False,
+2,57,2020-02-27 19:15:00,Mash Potato,1.0,cup,36.0,4.1,,237.0,False,False,,False,False,
+2,58,2020-02-27 19:15:00,Sweet Tea,16.0,fluid ounce,41.0,0.0,,160.0,False,False,,False,False,
+2,59,2020-02-27 21:30:00,Cake,1.0,piece,38.0,2.0,,262.0,False,False,,False,False,
+2,60,2020-02-27 21:30:00,Ice Cream,1.0,cup,31.0,4.6,,273.0,False,False,,False,False,
+2,61,2020-02-28 08:37:00,Natrel Lactose Free 2 Percent,8.0,fluid ounce,9.0,12.0,,120.0,False,False,,False,False,
+2,62,2020-02-28 08:37:00,Corn Flakes,0.75,cup,26.0,1.0,,110.0,False,False,,False,False,
+2,63,2020-02-28 13:32:00,Powerade,20.0,fluid ounce,35.0,0.0,,130.0,False,False,,False,False,
+2,64,2020-02-28 17:22:00,Rice Krispies,1.3,ounce,31.0,2.5,,140.0,False,False,,False,False,
+2,65,2020-02-28 19:00:00,(Hamburger Helper) Deluxe Cheeseburger Macaroni,1.5,cup,132.0,18.0,,660.0,False,False,,False,False,
+2,66,2020-02-28 19:00:00,Mello Yello,12.0,fluid ounce,48.0,0.0,0.0,180.0,True,False,48.0,False,False,192.0
+2,67,2020-02-28 21:30:00,Chocolate Cake,1.0,piece,58.0,3.8,,424.0,False,False,,False,False,
+2,68,2020-02-28 21:30:00,Ice Cream,1.0,cup,31.0,4.6,,273.0,False,False,,False,False,
+2,69,2020-02-29 08:00:00,Boost,,nan,82.0,26.0,26.0,654.0,True,False,134.0,False,False,666.0
+4,2,2020-02-27 13:30:00,Grapes,10.0,nan,8.9,0.4,0.1,34.0,True,False,9.4,False,False,38.1
+4,3,2020-02-27 16:00:00,Turkey Wings,2.0,nan,0.0,102.0,46.0,852.0,True,False,148.0,False,False,822.0
+4,4,2020-02-27 18:00:00,Peach,1.0,nan,17.0,1.6,0.4,68.0,True,False,19.0,False,False,78.0
+4,5,2020-02-28 08:00:00,Milk,4.0,fluid ounce,4.5,6.0,2.5,60.0,True,False,13.0,False,False,64.5
+4,6,2020-02-28 08:00:00,Frosted Flakes,1.5,cup,52.0,2.0,0.0,220.0,True,False,54.0,False,False,216.0
+4,7,2020-02-28 12:45:00,Turkey Wings,2.0,nan,0.0,102.0,46.0,852.0,True,False,148.0,False,False,822.0
+4,8,2020-02-28 12:45:00,Spinach,,nan,6.8,5.3,0.5,41.0,True,False,12.6,False,True,52.9
+4,9,2020-02-28 12:45:00,Coffee,1.0,cup,70.0,13.0,0.1,358.0,True,False,83.1,False,False,332.9
+4,10,2020-02-28 12:45:00,Creamers,3.0,nan,58.0,5.5,0.0,362.0,True,False,63.5,False,True,254.0
+4,11,2020-02-28 20:15:00,Grapes,10.0,nan,8.9,0.4,0.1,34.0,True,False,9.4,False,False,38.1
+4,12,2020-02-28 20:15:00,Peach,1.0,nan,17.0,1.6,0.4,68.0,True,False,19.0,False,False,78.0
+4,13,2020-02-29 08:30:00,Coffee,1.0,cup,70.0,13.0,0.1,358.0,True,False,83.1,False,False,332.9
+4,14,2020-02-29 14:00:00,Chicken Breast,1.0,nan,0.0,37.0,4.3,198.0,True,False,41.3,False,False,186.7
+4,15,2020-02-29 14:00:00,Chicken Wing,1.0,nan,2.6,4.5,6.5,88.0,True,False,13.6,False,False,86.9
+4,16,2020-02-29 14:00:00,Spinach,1.0,nan,6.8,5.3,0.5,41.0,True,False,12.6,False,True,52.9
+4,17,2020-02-29 14:00:00,Peach,1.0,nan,17.0,1.6,0.4,68.0,True,False,19.0,False,False,78.0
+4,18,2020-02-29 20:00:00,Popcorn,1.0,bag,48.0,6.5,30.0,485.0,True,False,84.5,False,False,488.0
+4,19,2020-02-29 20:00:00,Tea with Lemon,1.0,nan,0.7,0.0,0.0,2.2,True,False,0.7,False,True,2.8
+4,20,2020-03-01 08:45:00,Milk,4.0,fluid ounce,4.5,6.0,2.5,60.0,True,False,13.0,False,False,64.5
+4,21,2020-03-01 08:45:00,Frosted Flakes,1.5,cup,52.0,2.0,0.0,220.0,True,False,54.0,False,False,216.0
+4,22,2020-03-01 13:15:00,Turkey Wings,2.0,nan,0.0,102.0,46.0,852.0,True,False,148.0,False,False,822.0
+4,23,2020-03-01 13:15:00,Small Bowl of Spinach,1.0,nan,6.8,5.3,0.5,41.0,True,False,12.6,False,True,52.9
+4,24,2020-03-01 13:15:00,Tea,1.0,nan,0.5,0.0,0.0,2.0,True,False,0.5,False,False,2.0
+4,25,2020-03-02 08:15:00,Coffee,1.0,cup,70.0,13.0,0.1,358.0,True,False,83.1,False,False,332.9
+4,26,2020-03-02 08:15:00,Peach,1.0,nan,17.0,1.6,0.4,68.0,True,False,19.0,False,False,78.0
+4,27,2020-03-02 08:15:00,Banana,1.0,nan,27.0,1.3,0.4,105.0,True,False,28.7,False,False,116.8
+4,28,2020-03-02 12:30:00,Baked Chicken,1.0,nan,0.0,20.0,11.0,187.0,True,False,31.0,False,False,179.0
+4,29,2020-03-02 12:30:00,Squash,1.0,nan,6.8,1.9,0.7,41.0,True,False,9.399999999999999,False,False,41.099999999999994
+4,30,2020-03-02 16:30:00,(Chipotle) Bowl,1.0,nan,117.0,49.0,38.0,1008.0,True,False,204.0,False,False,1006.0
+4,31,2020-03-02 20:45:00,Peanut Butter,1.0,nan,3.9,3.5,8.0,94.0,True,False,15.4,False,False,101.6
+4,32,2020-03-02 20:45:00,Spoon Biscotti,,nan,13.0,1.5,3.2,87.0,True,False,17.7,False,False,86.8
+4,33,2020-03-03 09:30:00,Milk,4.0,fluid ounce,4.5,6.0,2.5,60.0,True,False,13.0,False,False,64.5
+4,34,2020-03-03 09:30:00,Frosted Flakes,1.5,cup,52.0,2.0,0.0,220.0,True,False,54.0,False,False,216.0
+4,35,2020-03-03 15:30:00,Baked Chicken,,nan,0.0,20.0,11.0,187.0,True,False,31.0,False,False,179.0
+4,36,2020-03-03 15:30:00,Green Bean,,nan,9.9,2.4,0.3,44.0,True,False,12.600000000000001,False,False,51.900000000000006
+4,37,2020-03-03 15:30:00,Tea with Lemon,,nan,0.7,0.0,0.0,2.2,True,False,0.7,False,True,2.8
+4,38,2020-03-03 20:30:00,Salmon,,nan,0.0,50.0,28.0,468.0,True,False,78.0,False,False,452.0
+4,39,2020-03-03 20:30:00,Spinach,,nan,6.8,5.3,0.5,41.0,True,False,12.6,False,True,52.9
+4,40,2020-03-04 20:30:00,Mash Potatoes,,nan,36.0,4.1,8.8,237.0,True,False,48.900000000000006,False,False,239.60000000000002
+4,41,2020-03-04 11:30:00,Eggs,2.0,nan,0.7,13.0,9.5,143.0,True,False,23.2,False,False,140.3
+4,42,2020-03-04 11:30:00,Bacon,4.0,nan,0.8,16.0,16.0,215.0,True,False,32.8,False,False,211.2
+4,43,2020-03-04 11:30:00,Waffle with Syrup,,nan,25.0,5.9,11.0,218.0,True,False,41.9,False,False,222.6
+4,44,2020-03-04 11:30:00,Soda,2.0,cup,51.0,0.0,1.2,206.0,True,False,52.2,False,False,214.8
+4,45,2020-03-04 18:30:00,Small Bag of Popcorn,1.0,nan,48.0,6.5,30.0,485.0,True,False,84.5,False,False,488.0
+4,46,2020-03-04 18:30:00,Cookies,3.0,nan,60.0,4.5,22.2,444.0,True,False,86.7,False,False,457.79999999999995
+4,47,2020-03-04 18:30:00,Cheese Stick,,nan,0.6,6.3,6.3,85.0,True,False,13.2,False,False,84.3
+4,48,2020-03-05 09:00:00,Milk,4.0,fluid ounce,4.5,6.0,2.5,60.0,True,False,13.0,False,False,64.5
+4,49,2020-03-05 09:00:00,Frosted Flakes,1.5,cup,52.0,2.0,0.0,220.0,True,False,54.0,False,False,216.0
+4,50,2020-03-05 09:00:00,Banana,,nan,27.0,1.3,0.4,105.0,True,False,28.7,False,False,116.8
+4,51,2020-03-05 13:15:00,Chicken Breast,,nan,0.0,37.0,4.3,198.0,True,False,41.3,False,False,186.7
+4,52,2020-03-05 13:15:00,Spinach,,nan,6.8,5.3,0.5,41.0,True,False,12.6,False,True,52.9
+4,53,2020-03-05 13:15:00,Biscott Cookie,4.0,nan,52.0,6.0,12.8,348.0,True,False,70.8,False,False,347.2
+4,54,2020-03-05 20:00:00,Chicken Breast ,,nan,0.0,37.0,4.3,198.0,True,False,41.3,False,False,186.7
+4,55,2020-03-05 20:00:00,Spinach,,nan,6.8,5.3,0.5,41.0,True,False,12.6,False,True,52.9
+4,56,2020-03-06 08:00:00,Boost,,nan,82.0,26.0,26.0,654.0,True,False,134.0,False,False,666.0
+5,2,2020-02-27 12:45:00,Chicken,8.0,ounce,0.1,54.3,29.6,498.7,True,False,84.0,False,False,484.0
+5,3,2020-02-27 12:45:00,Fries,6.5,ounce,76.0,6.3,27.0,575.0,True,False,109.3,False,False,572.2
+5,4,2020-02-27 12:45:00,Biscuit,1.0,nan,27.0,4.2,9.8,212.0,True,False,41.0,False,False,213.0
+5,5,2020-02-27 15:45:00,Peppermint,3.0,nan,5.9,0.0,0.0,24.0,True,False,5.9,False,False,23.6
+5,6,2020-02-27 19:00:00,Cereal,2.0,cup,41.0,6.8,3.8,211.0,True,False,51.599999999999994,False,False,225.39999999999998
+5,7,2020-02-27 19:00:00,Banana,1.0,nan,27.0,1.3,0.4,105.0,True,False,28.7,False,False,116.8
+5,8,2020-02-27 22:00:00,90% Cocoa Dark Chocolate,1.0,ounce,3.0,1.0,5.5,60.0,True,False,9.5,False,False,65.5
+5,9,2020-02-28 09:00:00,Milk,4.0,fluid ounce,4.5,6.0,2.5,60.0,True,False,13.0,False,False,64.5
+5,10,2020-02-28 09:00:00,Cornflakes,1.5,cup,52.0,2.0,0.0,220.0,True,False,54.0,False,False,216.0
+5,11,2020-02-28 14:00:00,6-inch Turkey Sub,1.0,nan,36.0,28.0,22.0,456.0,True,False,86.0,False,False,454.0
+5,12,2020-02-28 15:30:00,Dark Chocolate Toffee,2.0,ounce,8.7,0.6,4.4,77.0,True,False,13.7,False,False,76.8
+5,13,2020-02-28 19:00:00,Ziti,8.0,ounce,70.0,13.0,2.1,358.0,True,False,85.1,False,False,350.9
+5,14,2020-02-28 19:30:00,Slice of Banana Bread,5.0,ounce,58.0,5.5,13.0,362.0,True,False,76.5,False,False,371.0
+5,15,2020-02-28 22:00:00,Cheese,1.0,ounce,0.9,6.4,9.3,113.0,True,False,16.6,False,False,112.9
+5,16,2020-02-29 09:00:00,Coffee,12.0,fluid ounce,0.0,0.4,0.1,3.6,True,False,0.5,False,True,2.5
+5,17,2020-02-29 09:00:00,Creamer,0.17,fluid ounce,0.7,0.1,0.6,7.7,True,False,1.4,False,False,8.6
+5,18,2020-02-29 09:00:00,Sugar,0.33,fluid ounce,8.5,0.0,0.0,33.0,True,False,8.5,False,False,34.0
+5,19,2020-02-29 10:30:00,Chicken Biscuit,1.0,nan,40.0,16.0,20.0,396.0,True,False,76.0,False,False,404.0
+5,20,2020-02-29 11:00:00,Muffin,0.5,nan,60.0,5.1,18.0,424.0,True,False,83.1,False,False,422.4
+5,21,2020-02-29 16:20:00,Apple,1.0,nan,25.0,0.5,0.3,95.0,True,False,25.8,False,False,104.7
+5,22,2020-02-29 17:45:00,Salad,10.0,ounce,14.0,4.1,0.7,67.0,True,False,18.8,False,False,78.7
+5,23,2020-02-29 17:45:00,Ranch Dressing,2.0,ounce,1.7,0.4,13.0,244.0,True,False,15.1,False,True,125.4
+5,24,2020-02-29 17:45:00,Baked Potato,0.5,nan,18.3,2.2,0.1,80.5,True,False,20.6,False,False,82.9
+5,25,2020-02-29 22:30:00,(Babybel) Cheese,1.0,nan,0.3,5.0,5.5,71.0,True,False,10.8,False,False,70.7
+5,26,2020-02-29 22:30:00,Pepperoni,4.0,slice,0.1,1.5,3.7,40.0,True,False,5.300000000000001,False,False,39.7
+5,27,2020-03-01 08:00:00,Milk,4.0,fluid ounce,4.5,6.0,2.5,60.0,True,False,13.0,False,False,64.5
+5,28,2020-03-01 08:00:00,Cornflakes,1.5,cup,52.0,2.0,0.0,220.0,True,False,54.0,False,False,216.0
+5,29,2020-03-01 11:00:00,Baked Chicken Thigh,1.0,nan,0.0,20.0,11.0,180.0,True,False,31.0,False,False,179.0
+5,30,2020-03-01 11:00:00,Baked Potato,0.5,nan,18.3,2.2,0.1,80.5,True,False,20.6,False,False,82.9
+5,31,2020-03-01 18:00:00,Chicken,0.5,cup,0.0,16.0,8.8,149.0,True,False,24.8,False,False,143.2
+5,32,2020-03-01 18:00:00,Peppers,0.33,cup,2.7,0.4,0.1,11.0,True,False,3.2,False,True,13.3
+5,33,2020-03-01 18:00:00,Onions,0.33,cup,6.9,0.9,0.1,30.0,True,False,7.9,False,False,32.1
+5,34,2020-03-01 18:00:00,Flour Tortilla,1.0,nan,27.0,4.3,3.5,159.0,True,False,34.8,False,False,156.7
+5,35,2020-03-01 18:00:00,Black Beans,0.5,cup,20.0,7.6,0.5,114.0,True,False,28.1,False,False,114.9
+5,36,2020-03-01 22:00:00,Babybel Cheese,1.0,nan,0.3,5.0,5.5,71.0,True,False,10.8,False,False,70.7
+5,37,2020-03-01 10:00:00,Pepperoni,4.0,slices,0.1,1.5,3.7,40.0,True,False,5.300000000000001,False,False,39.7
+5,38,2020-03-02 11:00:00,Chicken,0.5,cup,0.0,16.0,8.8,149.0,True,False,24.8,False,False,143.2
+5,39,2020-03-02 11:00:00,Peppers,0.25,cup,2.7,0.4,0.1,11.0,True,False,3.2,False,True,13.3
+5,40,2020-03-02 11:00:00,Onions,0.25,cup,6.9,0.9,0.1,30.0,True,False,7.9,False,False,32.1
+5,41,2020-03-02 16:00:00,Peanut Butter,1.0,ounce,6.8,6.2,14.0,167.0,True,False,27.0,False,False,178.0
+5,42,2020-03-02 18:00:00,Salad,13.0,ounce,18.0,5.3,0.8,87.0,True,False,24.1,False,False,100.4
+5,43,2020-03-02 18:00:00,Ranch Dressing,1.5,fluid ounce,2.5,0.6,19.0,183.0,True,False,22.1,False,False,183.4
+5,44,2020-03-02 22:30:00,Cheese,1.0,ounce,0.9,6.4,9.3,113.0,True,False,16.6,False,False,112.9
+5,45,2020-03-03 09:40:00,Milk,4.0,fluid ounce,4.5,6.0,2.5,60.0,True,False,13.0,False,False,64.5
+5,46,2020-03-03 09:40:00,Cornflakes,1.5,cup,52.0,2.0,0.0,220.0,True,False,54.0,False,False,216.0
+5,47,2020-03-03 13:15:00,Chicken Chorizo,3.0,ounce,0.0,20.0,8.9,167.0,True,False,28.9,False,False,160.10000000000002
+5,48,2020-03-03 13:15:00,Pepperjack Cheese,2.0,ounce,0.4,14.0,17.0,211.0,True,False,31.4,False,False,210.6
+5,49,2020-03-03 13:15:00,Grapes,0.5,cup,14.0,0.5,0.1,52.0,True,False,14.6,False,False,58.9
+5,50,2020-03-03 13:15:00,Strawberries,0.5,cup,6.7,0.6,0.3,28.0,True,False,7.6,False,False,31.9
+5,51,2020-03-03 14:00:00,90% Dark Chocolate,1.0,ounce,3.0,1.0,5.5,60.0,True,False,9.5,False,False,65.5
+5,52,2020-03-03 18:00:00,Coffee,10.0,fluid ounce,0.0,0.4,0.1,3.0,True,False,0.5,False,False,2.5
+5,53,2020-03-03 18:00:00,Creamer,0.33,fluid ounce,1.0,0.1,0.9,12.0,True,False,2.0,False,False,12.5
+5,54,2020-03-03 18:00:00,Sugar,0.33,fluid ounce,8.5,0.0,0.0,33.0,True,False,8.5,False,False,34.0
+5,55,2020-03-03 19:30:00,Taco Salad,2.0,cup,45.0,22.0,27.0,503.0,True,False,94.0,False,False,511.0
+5,56,2020-03-03 19:30:00,Tortilla Chips,15.0,nan,31.0,3.2,9.3,212.0,True,False,43.5,False,False,220.5
+5,57,2020-03-03 19:30:00,Salsa,0.125,cup,1.7,0.4,0.0,7.5,True,False,2.1,False,False,8.4
+5,58,2020-03-03 22:45:00,Peanut Butter,0.5,ounce,3.4,3.1,7.0,83.0,True,False,13.5,False,False,89.0
+5,59,2020-03-04 11:00:00,Eggs,2.0,nan,0.7,13.0,9.5,143.0,True,False,23.2,False,False,140.3
+5,60,2020-03-04 11:00:00,Cheese,1.0,ounce,0.9,6.4,9.3,113.0,True,False,16.6,False,False,112.9
+5,61,2020-03-04 11:00:00,Sausage,2.0,nan,1.3,16.0,38.0,420.0,True,False,55.3,False,False,411.2
+5,62,2020-03-04 11:00:00,Coffee,10.0,fluid ounce,0.0,0.4,0.1,3.0,True,False,0.5,False,False,2.5
+5,63,2020-03-04 11:00:00,Creamer,0.33,fluid ounce,1.0,0.1,0.9,12.0,True,False,2.0,False,False,12.5
+5,64,2020-03-04 11:00:00,Sugar,0.33,fluid ounce,8.5,0.0,0.0,33.0,True,False,8.5,False,False,34.0
+5,65,2020-03-04 14:00:00,Grapes,0.5,cup,14.0,0.5,0.1,52.0,True,False,14.6,False,False,58.9
+5,66,2020-03-04 14:00:00,Strawberries,0.5,cup,6.7,0.6,0.3,28.0,True,False,7.6,False,False,31.9
+5,67,2020-03-04 14:00:00,Tortilla Chips,10.0,nan,20.7,2.1,6.2,141.3,True,False,29.0,False,False,147.0
+5,68,2020-03-04 14:00:00,Hummus,0.5,ounce,2.0,1.1,1.4,24.0,True,False,4.5,False,False,25.0
+5,69,2020-03-04 18:30:00,(Outback Steakhouse) Chicken Tacos,3.0,nan,55.0,65.0,82.0,1210.0,True,False,202.0,False,False,1218.0
+5,70,2020-03-04 18:30:00,(Outback Steakhouse) Asparagus,0.5,cup,4.0,2.0,4.0,60.0,True,False,10.0,False,False,60.0
+5,71,2020-03-04 18:30:00,(Outback Steakhouse) Bread with Butter,1.0,nan,51.0,10.0,9.0,310.0,True,False,70.0,False,False,325.0
+5,72,2020-03-04 18:30:00,(Outback Steakhouse) Mixed Drink,20.0,ounce,44.0,0.0,0.0,601.0,True,False,44.0,False,True,176.0
+5,73,2020-03-04 22:15:00,90% Dark Chocolate,1.0,ounce,3.0,1.0,5.5,60.0,True,False,9.5,False,False,65.5
+5,74,2020-03-05 08:30:00,Milk,4.0,fluid ounce,4.5,6.0,2.5,60.0,True,False,13.0,False,False,64.5
+5,75,2020-03-05 08:30:00,Cornflakes,1.5,cup,52.0,2.0,0.0,220.0,True,False,54.0,False,False,216.0
+5,76,2020-03-05 13:30:00,Pistachios,0.5,cup,17.0,13.0,28.0,350.0,True,False,58.0,False,False,372.0
+5,77,2020-03-05 17:00:00,Salad,10.0,ounce,14.0,4.1,0.7,67.0,True,False,18.8,False,False,78.7
+5,78,2020-03-05 17:00:00,Ranch Dressing,1.0,ounce,1.7,0.4,13.0,122.0,True,False,15.1,False,False,125.4
+5,79,2020-03-05 18:00:00,Yogurt,1.0,cup,16.0,12.0,3.5,143.0,True,False,31.5,False,False,143.5
+5,80,2020-03-05 18:00:00,Strawberries,0.25,cup,4.0,0.3,0.2,17.0,True,False,4.5,False,False,19.0
+5,81,2020-03-05 22:00:00,Granola Bar,6.0,ounce,119.0,9.6,28.0,711.0,True,False,156.6,False,False,766.4
+5,82,2020-03-06 08:00:00,Coffee,12.0,fluid ounce,0.0,0.4,0.1,3.6,True,False,0.5,False,True,2.5
+5,83,2020-03-06 08:00:00,Creamer,0.33,fluid ounce,1.0,0.1,0.9,12.0,True,False,2.0,False,False,12.5
+5,84,2020-03-06 08:00:00,Sugar,0.33,fluid ounce,8.5,0.0,0.0,33.0,True,False,8.5,False,False,34.0
+5,85,2020-03-06 09:00:00,Eggs,2.0,nan,0.7,13.0,9.5,143.0,True,False,23.2,False,False,140.3
+5,86,2020-03-06 09:00:00,Peppers,0.25,cup,2.7,0.4,0.1,11.0,True,False,3.2,False,True,13.3
+5,87,2020-03-06 09:00:00,Onions,0.25,cup,6.9,0.9,0.1,30.0,True,False,7.9,False,False,32.1
+5,88,2020-03-06 09:00:00,Cheese,1.0,ounce,0.9,6.4,9.3,113.0,True,False,16.6,False,False,112.9
+5,89,2020-03-06 09:00:00,Sausage,2.0,nan,1.3,16.0,38.0,420.0,True,False,55.3,False,False,411.2
+5,90,2020-03-06 13:30:00,Egg Salad,0.5,cup,2.7,9.1,21.0,236.0,True,False,32.8,False,False,236.2
+5,91,2020-03-06 13:30:00,Blueberries,0.25,cup,6.4,0.3,0.1,25.0,True,False,6.8,False,False,27.7
+5,92,2020-03-06 21:00:00,Multigrain Chips,20.0,nan,36.0,6.0,14.0,280.0,True,False,56.0,False,False,294.0
+5,93,2020-03-06 21:00:00,Hummus,1.5,ounce,6.1,3.4,4.1,71.0,True,False,13.6,False,False,74.9
+5,94,2020-03-07 09:15:00,Boost,,nan,82.0,26.0,26.0,654.0,True,False,134.0,False,False,666.0
+6,2,2020-02-28 08:10:00,Quest Bar cookie dough,,bar,5.8,5.0,2.0,45.0,True,False,12.8,False,True,61.2
+6,3,2020-02-28 09:15:00,Quest Bar cookie dough,,nan,17.3,15.0,6.0,135.0,True,False,38.3,False,True,183.2
+6,4,2020-02-28 11:25:00,Premier protein choc shake,10.0,fluid oz,5.0,30.0,3.0,160.0,True,False,38.0,False,False,167.0
+6,5,2020-02-28 15:30:00,4 small pizza slices everything,,nan,70.0,26.0,26.0,626.0,True,False,122.0,False,False,618.0
+6,6,2020-02-28 19:30:00,Chocolate chip cookies,2.0,nan,40.0,3.0,14.8,296.0,True,False,57.8,False,False,305.20000000000005
+6,7,2020-02-28 23:00:00,Baked cheetos,3.0,servings,60.0,6.0,15.0,420.0,True,False,81.0,False,False,399.0
+6,8,2020-02-28 23:50:00,Oreo shake,,nan,102.0,15.0,22.0,652.0,True,False,139.0,False,False,666.0
+6,9,2020-02-29 11:50:00,Std breakfast,,nan,56.5,8.0,2.5,280.0,True,False,67.0,False,False,280.5
+6,10,2020-02-29 16:00:00,4 small pizza slices everything,,nan,70.0,26.0,26.0,626.0,True,False,122.0,False,False,618.0
+6,11,2020-02-29 23:30:00,Fruit smoothie,30.0,fluid oz,126.0,21.0,6.1,606.0,True,False,153.1,False,False,642.9
+6,12,2020-02-29 23:30:00,PB protein whey powder,1.0,servings,2.0,25.0,0.5,113.0,True,False,27.5,False,False,112.5
+6,13,2020-02-29 23:30:00,Baked cheetos,3.0,servings,60.0,6.0,15.0,420.0,True,False,81.0,False,False,399.0
+6,14,2020-03-01 11:00:00,Fruit smoothie,10.0,fluid oz,42.0,7.0,2.1,202.0,True,False,51.1,False,False,214.9
+6,15,2020-03-01 11:00:00,PB protein whey powder,1.0,servings,2.0,25.0,0.5,113.0,True,False,27.5,False,False,112.5
+6,16,2020-03-01 14:00:00,4 small pizza slices everything,,nan,70.0,26.0,26.0,626.0,True,False,122.0,False,False,618.0
+6,17,2020-03-01 23:00:00,Fruit smoothie,35.0,fluid oz,126.0,21.0,6.1,606.0,True,False,153.1,False,False,642.9
+6,18,2020-03-01 23:00:00,PB protein whey powder,1.0,servings,2.0,25.0,0.5,113.0,True,False,27.5,False,False,112.5
+6,19,2020-03-01 23:00:00,Baked cheetos,3.0,servings,60.0,6.0,15.0,420.0,True,False,81.0,False,False,399.0
+6,20,2020-03-02 01:30:00,Fruit smoothie,6.0,fluid oz,42.0,7.0,2.1,202.0,True,False,51.1,False,False,214.9
+6,21,2020-03-02 01:30:00,Baked cheetos,1.0,servings,20.0,2.0,5.0,140.0,True,False,27.0,False,False,133.0
+6,22,2020-03-02 05:15:00,Std breakfast,,nan,56.5,8.0,2.5,280.0,True,False,67.0,False,False,280.5
+6,23,2020-03-02 09:50:00,Premier protein choc shake,,nan,5.0,30.0,3.0,160.0,True,False,38.0,False,False,167.0
+6,24,2020-03-02 15:00:00,Fun size snickers bar,,nan,9.2,1.1,3.6,74.0,True,False,13.899999999999999,False,False,73.6
+6,25,2020-03-02 22:00:00,Fruit smoothie,30.0,fluid oz,126.0,21.0,6.1,606.0,True,False,153.1,False,False,642.9
+6,26,2020-03-02 22:00:00,Baked cheetos,5.0,servings,100.0,10.0,25.0,700.0,True,False,135.0,False,False,665.0
+6,27,2020-03-03 11:00:00,Premier protein choc shake,5.5,fluid oz,5.0,30.0,3.0,160.0,True,False,38.0,False,False,167.0
+6,28,2020-03-03 13:55:00,Mac and cheese,0.75,cup,47.0,9.7,16.0,376.0,True,False,72.7,False,False,370.8
+6,29,2020-03-03 13:55:00,Bacon,1.0,slcie,0.2,4.0,4.0,54.0,True,False,8.2,False,False,52.8
+6,30,2020-03-03 14:40:00,Blue Bunny fudge bar,,nan,12.0,2.2,0.6,62.0,True,False,14.799999999999999,False,False,62.199999999999996
+6,31,2020-03-03 18:25:00,Fruit smoothie,26.0,fluid oz,126.0,21.0,6.1,606.0,True,False,153.1,False,False,642.9
+6,32,2020-03-03 18:25:00,PB protein whey powder,1.0,servings,2.0,25.0,0.5,113.0,True,False,27.5,False,False,112.5
+6,33,2020-03-03 18:25:00,Chex Mix cheddar,2.0,servings,44.0,4.0,7.0,260.0,True,False,55.0,False,False,255.0
+6,34,2020-03-03 20:00:00,Fritos single serving bag,,nan,48.0,5.1,27.9,452.0,True,False,81.0,False,False,463.5
+6,35,2020-03-03 23:45:00,Veggie omelet,,omelet,9.5,18.5,22.0,310.0,True,False,50.0,False,False,310.0
+6,36,2020-03-03 23:45:00,Bacon,2.0,slices,0.4,8.0,8.0,107.0,True,False,16.4,False,False,105.6
+6,37,2020-03-03 23:45:00,Cinnamon raisin bagel,,nan,36.0,6.5,1.1,180.0,True,False,43.6,False,False,179.9
+6,38,2020-03-03 23:45:00,Fritos single serving bag,,nan,48.0,5.1,27.9,452.0,True,False,81.0,False,False,463.5
+6,39,2020-03-04 00:45:00,Blue Bunny fudge bar,2.0,nan,24.0,4.4,1.3,124.0,True,False,29.7,False,False,125.3
+6,40,2020-03-04 02:00:00,2 small fruit bars,,nan,52.0,3.4,6.4,240.0,True,False,61.8,False,False,279.2
+6,41,2020-03-04 08:25:00,Std breakfast,,nan,56.5,8.0,2.5,280.0,True,False,67.0,False,False,280.5
+6,42,2020-03-04 13:20:00,Veggie omelet,,omelet,9.5,18.5,22.0,310.0,True,False,50.0,False,False,310.0
+6,43,2020-03-04 13:20:00,Bacon,2.0,slices,0.4,8.0,8.0,107.0,True,False,16.4,False,False,105.6
+6,44,2020-03-04 13:20:00,Cinnamon raisin bagel,,nan,36.0,6.5,1.1,180.0,True,False,43.6,False,False,179.9
+6,45,2020-03-04 20:25:00,Lean Cuisine mushroom ravioli box meal,,nan,40.0,10.0,8.0,270.0,True,False,58.0,False,False,272.0
+6,46,2020-03-05 00:05:00,M&Ms,,nan,34.0,2.1,10.0,236.0,True,False,46.1,False,False,234.4
+6,47,2020-03-05 11:00:00,Premier protein choc shake,11.0,fluid oz,5.0,30.0,3.0,160.0,True,False,38.0,False,False,167.0
+6,48,2020-03-05 18:15:00,Premier protein choc shake,11.0,fluid oz,5.0,30.0,3.0,160.0,True,False,38.0,False,False,167.0
+6,49,2020-03-05 23:30:00,Fruit smoothie,30.0,fluid oz,126.0,21.0,6.1,606.0,True,False,153.1,False,False,642.9
+6,50,2020-03-05 23:30:00,Baked cheetos,5.0,servings,100.0,10.0,25.0,700.0,True,False,135.0,False,False,665.0
+6,51,2020-03-05 23:30:00,PB protein whey powder,1.0,servings,2.0,25.0,0.5,113.0,True,False,27.5,False,False,112.5
+6,52,2020-03-06 13:00:00,Std breakfast,,nan,56.5,8.0,2.5,280.0,True,False,67.0,False,False,280.5
+6,53,2020-03-06 18:15:00,Nutrigrain bar,,nan,25.0,2.0,3.5,130.0,True,False,30.5,False,False,139.5
+6,54,2020-03-06 20:35:00,Fruit smoothie,28.0,fluid oz,126.0,21.0,6.1,606.0,True,False,153.1,False,False,642.9
+6,55,2020-03-06 20:35:00,PB protein whey powder,1.0,servings,2.0,25.0,0.5,113.0,True,False,27.5,False,False,112.5
+6,56,2020-03-06 20:35:00,Baked cheetos,6.0,servings,120.0,12.0,30.0,840.0,True,False,162.0,False,False,798.0
+6,57,2020-03-07 08:20:00,1/4 blueberry pancake,,nan,11.0,2.3,3.5,84.0,True,False,16.8,False,False,84.7
+6,58,2020-03-07 08:20:00,Grits,1.0,bowl,32.0,2.9,0.9,151.0,True,False,35.8,False,False,147.7
+6,59,2020-03-07 08:20:00,Bacon,2.0,slices,0.4,8.0,8.0,107.0,True,False,16.4,False,False,105.6
+6,60,2020-03-07 13:30:00,Premier protein choc shake,10.0,fluid oz,5.0,30.0,3.0,160.0,True,False,38.0,False,False,167.0
+6,61,2020-03-07 11:45:00,1 snack size baby ruth,,nan,12.0,1.0,3.9,83.0,True,False,16.9,False,False,87.1
+6,62,2020-03-07 13:15:00,1 snack size baby ruth,,nan,12.0,1.0,3.9,83.0,True,False,16.9,False,False,87.1
+6,63,2020-03-07 14:35:00,Ritz PB crackers,4.0,crackers,22.0,4.0,11.0,200.0,True,False,37.0,False,False,203.0
+6,64,2020-03-07 18:45:00,Baked cheetos,1.5,servings,30.0,3.0,7.5,210.0,True,False,40.5,False,False,199.5
+6,65,2020-03-07 19:15:00,Totinos pizza,,nan,148.0,44.0,64.0,1320.0,True,False,256.0,False,False,1344.0
+6,66,2020-03-07 20:00:00,Baked cheetos,1.5,servings,20.0,2.0,5.0,140.0,True,False,27.0,False,False,133.0
+6,67,2020-03-08 10:50:00,Std breakfast,,nan,56.5,8.0,2.5,280.0,True,False,67.0,False,False,280.5
+6,68,2020-03-08 12:30:00,Baked chicken ,,nan,0.0,20.0,11.0,187.0,True,False,31.0,False,False,179.0
+6,69,2020-03-08 12:30:00,String beans,,nan,5.0,1.2,0.2,22.0,True,False,6.4,False,True,26.6
+6,70,2020-03-08 12:30:00,Lemon risotto,,nan,25.0,5.0,4.0,165.0,True,False,34.0,False,False,156.0
+6,71,2020-03-08 12:30:00,Cheesecake,3.0,bites,6.4,1.4,5.6,80.0,True,False,13.4,False,False,81.6
+6,72,2020-03-08 19:50:00,3/4 large blueberry pancake,,nan,11.0,2.3,3.5,84.0,True,False,16.8,False,False,84.7
+6,73,2020-03-08 19:50:00,Baked cheetos,5.0,servings,100.0,10.0,25.0,700.0,True,False,135.0,False,False,665.0
+6,74,2020-03-09 07:30:00,Boost,,nan,82.0,26.0,26.0,654.0,True,False,134.0,False,False,666.0
+7,2,2020-03-14 13:44:00,(Costco) Seafood Stuffed Salmon,129.0,gram,1.5,24.0,11.0,201.0,True,True,36.5,False,False,201.0
+7,3,2020-03-14 13:44:00,(Green Giant) Rice Cauliflower - Plain,58.0,gram,2.9,1.1,0.2,15.0,True,True,4.2,False,False,17.8
+7,4,2020-03-14 13:44:00,(Dayka and Hackett) Navel Orange,212.0,gram,27.0,1.9,0.3,104.0,True,True,29.2,False,False,118.3
+7,5,2020-03-14 17:55:00,Salad - Butter Lettuce,171.0,gram,8.5,2.5,0.4,171.0,True,True,11.4,False,True,47.6
+7,6,2020-03-14 17:55:00,Chickpeas,71.0,gram,19.0,6.3,1.8,116.0,True,True,27.1,False,False,117.4
+7,7,2020-03-14 17:55:00,Red Onion,26.0,gram,2.6,0.4,0.0,11.4,True,True,3.0,False,False,12.0
+7,8,2020-03-14 17:55:00,Chicken,59.0,gram,0.0,14.0,7.7,130.0,True,True,21.7,False,False,125.3
+7,9,2020-03-14 17:55:00,(Toast) Red Wine Vinegrette,1.0,tablespoon,1.8,0.1,3.1,35.0,True,False,5.0,False,False,35.5
+7,10,2020-03-14 20:30:00,(Jolly Time) Select Yellow Pop Corn - Air Popped,0.25,cup,48.0,8.0,2.0,200.0,True,False,58.0,False,True,242.0
+7,11,2020-03-14 20:30:00,Virgil's Zero Sugar Black Cherry Soda,12.0,ounce,0.0,0.0,0.0,0.0,True,False,0.0,False,False,0.0
+7,12,2020-03-14 22:25:00,(Peppridge Farm) Whole Wheat Hamburger Bun,1.0,nan,22.0,7.0,1.5,130.0,True,False,30.5,False,False,129.5
+7,13,2020-03-14 22:25:00,(Jif) Extra Crunchy Peanut Butter,2.0,tablespoon,8.0,7.0,16.0,190.0,True,False,31.0,False,False,204.0
+7,14,2020-03-15 10:05:00,(Quaker) Old Fashioned Oats,1.0,nan,27.0,5.0,3.0,150.0,True,False,35.0,False,False,155.0
+7,15,2020-03-15 10:05:00,(Red Delicious) Apple with Skin,113.0,gram,30.0,0.6,0.4,125.0,True,True,31.0,False,False,126.0
+7,16,2020-03-15 10:05:00,Ground Flaxseeds,1.0,tablespoon,3.0,1.9,4.3,55.0,True,False,9.2,False,False,58.3
+7,17,2020-03-15 10:05:00,(Now) Whole Psyllium Husks,2.0,tablespoon,8.0,0.0,0.0,35.0,True,False,8.0,False,False,32.0
+7,18,2020-03-15 10:05:00,(Harris Teeter) Fat Free Organic Milk,1.0,cup,13.0,8.0,0.0,80.0,True,False,21.0,False,False,84.0
+7,19,2020-03-15 13:00:00,(Peppridge Farm) Whole Wheat Hamburger Bun,1.0,nan,22.0,7.0,1.5,130.0,True,False,30.5,False,False,129.5
+7,20,2020-03-15 13:00:00,(Jif) Extra Crunchy Peanut Butter,2.0,tablespoon,8.0,7.0,16.0,190.0,True,False,31.0,False,False,204.0
+7,21,2020-03-15 16:35:00,"Homemade Chicken Noodle Soup with chicken, onion, celery, (Kirkland) organic chicken stock, and (Amish Kitchens) wide egg noodles",2.0,cup,15.0,6.3,4.7,124.0,True,False,26.0,False,False,127.5
+7,22,2020-03-15 19:05:00,Tilapia,58.0,gram,0.0,15.0,1.5,74.0,True,True,16.5,False,False,73.5
+7,23,2020-03-15 19:05:00,(Harris Teeter) Charleston Crabcake,52.0,gram,3.7,5.8,5.7,90.0,True,True,15.2,False,False,89.30000000000001
+7,24,2020-03-15 19:05:00,(Green Giant) Rice Cauliflower - Plain,42.0,gram,2.1,0.8,0.1,10.5,True,True,3.0000000000000004,False,False,12.500000000000002
+7,25,2020-03-15 19:05:00,Broccoli - Steamed,85.0,gram,6.1,2.0,0.3,30.0,True,True,8.4,False,False,35.1
+7,26,2020-03-15 19:05:00,Lemon Juice,1.0,teaspoon,0.3,0.0,0.0,0.8,True,False,0.3,False,True,1.2
+7,27,2020-03-15 20:50:00,(Jolly Time) Select Yellow Pop Corn - Air Popped,0.25,cup,48.0,8.0,2.0,200.0,True,False,58.0,False,True,242.0
+7,28,2020-03-15 20:50:00,Virgil's Zero Sugar Black Cherry Soda,12.0,ounce,0.0,0.0,0.0,0.0,True,False,0.0,False,False,0.0
+7,29,2020-03-16 09:45:00,Std bfast,,nan,56.5,8.0,2.5,280.0,True,False,67.0,False,False,280.5
+7,30,2020-03-16 13:00:00,(Firebirds Wood Fired Grill) Steak Sandwich with lettuce and onion,0.5,nan,26.5,20.5,14.0,315.0,True,False,61.0,False,False,314.0
+7,31,2020-03-16 13:00:00,(Firebirds Wood Fired Grill) Seasoned Steak Fries,0.75,nan,59.3,6.8,21.0,457.5,True,False,87.1,False,False,453.4
+7,32,2020-03-16 13:00:00,(Alex's) Lemonade,8.0,ounce,26.0,0.2,0.1,99.0,True,False,26.3,False,False,105.7
+7,33,2020-03-16 18:10:00,Butter Lettuce,85.0,gram,1.9,1.1,0.2,11.0,True,True,3.2,False,True,13.8
+7,34,2020-03-16 18:10:00,Red Onion,17.0,gram,1.7,0.2,0.0,7.5,True,True,1.9,False,False,7.6
+7,35,2020-03-16 18:10:00,(Toast) Red Wine Vinegrette,1.0,teaspoon,0.6,0.0,1.0,12.0,True,False,1.6,False,False,11.4
+7,36,2020-03-16 18:10:00,Tilapia,50.0,gram,0.0,12.9,1.3,63.8,True,True,14.200000000000001,False,False,63.300000000000004
+7,37,2020-03-16 18:10:00,(Harris Teeter) Charleston Crabcake,29.0,gram,2.1,3.2,3.2,50.2,True,True,8.5,False,False,50.0
+7,38,2020-03-16 18:10:00,Lemon Juice,1.0,teaspoon,0.3,0.0,0.0,0.8,True,False,0.3,False,True,1.2
+7,39,2020-03-16 18:40:00,Pecans,30.0,gram,4.2,2.8,22.0,207.0,True,True,29.0,False,False,226.0
+7,40,2020-03-16 21:00:00,(Jolly Time) Select Yellow Pop Corn - Air Popped,0.25,cup,48.0,8.0,2.0,200.0,True,False,58.0,False,True,242.0
+7,41,2020-03-16 22:30:00,(Peppridge Farm) Whole Wheat Hamburger Bun,1.0,nan,22.0,7.0,1.5,130.0,True,False,30.5,False,False,129.5
+7,42,2020-03-16 22:30:00,Smart Balance,7.0,gram,0.0,0.0,4.5,41.0,True,True,4.5,False,False,40.5
+7,43,2020-03-16 22:30:00,Navel Orange,212.0,gram,27.0,1.9,0.3,104.0,True,True,29.2,False,False,118.3
+7,44,2020-03-17 12:10:00,(Quaker) Old Fashioned Oats,1.0,nan,27.0,5.0,3.0,150.0,True,False,35.0,False,False,155.0
+7,45,2020-03-17 12:10:00,(Red Delicious) Apple with Skin,115.0,gram,16.0,0.3,0.2,68.0,True,True,16.5,False,False,67.0
+7,46,2020-03-17 12:10:00,Ground Flaxseeds,1.0,tablespoon,3.0,1.9,4.3,55.0,True,False,9.2,False,False,58.3
+7,47,2020-03-17 12:10:00,(Now) Whole Psyllium Husks,2.0,tablespoon,8.0,0.0,0.0,35.0,True,False,8.0,False,False,32.0
+7,48,2020-03-17 12:10:00,Cinnamon,2.0,teaspoon,4.2,0.2,0.1,13.0,True,False,4.5,False,True,18.5
+7,49,2020-03-17 12:10:00,(Harris Teeter) Fat Free Organic Milk,1.0,cup,13.0,8.0,0.0,80.0,True,False,21.0,False,False,84.0
+7,50,2020-03-17 16:15:00,Chicken breaded with (Progesso) Italian Bread Crumbs,143.0,gram,24.0,35.0,8.6,323.0,True,True,67.6,False,False,313.4
+7,51,2020-03-17 16:15:00,Potato,100.0,gram,21.0,2.5,0.1,93.0,True,True,23.6,False,False,94.9
+7,52,2020-03-17 16:15:00,Extra Virgin Olive Oil,1.0,tablespoon,0.0,0.0,14.0,119.0,True,False,14.0,False,False,126.0
+7,53,2020-03-17 16:15:00,(Crosse and Blackwell) Old Fashioned English Fish and Chip  Vinegar,1.0,tablespoon,0.0,0.0,0.0,0.0,True,False,0.0,False,False,0.0
+7,54,2020-03-17 20:25:00,"Homemade soup with Hot Italian sausage, kale, cannolli beans, onion, garlic, (Kirkland) organic chicken stock, white wine",3.0,cup,48.0,22.5,36.0,600.0,True,False,106.5,False,False,606.0
+7,55,2020-03-17 21:30:00,"Homemade soup with Hot Italian sausage, kale, cannolli beans, onion, garlic, (Kirkland) organic chicken stock, white wine",1.0,cup,16.0,7.5,12.0,200.0,True,False,35.5,False,False,202.0
+7,56,2020-03-18 10:40:00,Std Bfast,,nan,56.5,8.0,2.5,280.0,True,False,67.0,False,False,280.5
+7,57,2020-03-18 13:40:00,"Homemade soup with Hot Italian sausage, kale, cannolli beans, onion, garlic, (Kirkland) organic chicken stock, white wine",1.0,cup,16.0,7.5,12.0,200.0,True,False,35.5,False,False,202.0
+7,58,2020-03-18 18:35:00,Chicken breaded with (Progesso) Italian Bread Crumbs,122.0,gram,20.5,29.9,7.3,275.6,True,True,57.699999999999996,False,False,267.3
+7,59,2020-03-18 18:35:00,Potato,54.0,gram,11.3,1.4,0.1,50.2,True,True,12.8,False,False,51.7
+7,60,2020-03-18 18:35:00,Extra Virgin Olive Oil,1.0,tablespoon,0.0,0.0,14.0,119.0,True,False,14.0,False,False,126.0
+7,61,2020-03-18 18:35:00,(Crosse and Blackwell) Old Fashioned English Fish and Chip  Vinegar,1.0,tablespoon,0.0,0.0,0.0,0.0,True,False,0.0,False,False,0.0
+7,62,2020-03-18 21:20:00,(Jolly Time) Select Yellow Pop Corn - Air Popped,0.25,cup,48.0,8.0,2.0,200.0,True,False,58.0,False,True,242.0
+7,63,2020-03-18 21:20:00,Virgil's Zero Sugar Black Cherry Soda,12.0,ounce,0.0,0.0,0.0,0.0,True,False,0.0,False,False,0.0
+7,64,2020-03-19 10:30:00,Std Bfast,,nan,56.5,8.0,2.5,280.0,True,False,67.0,False,False,280.5
+7,65,2020-03-19 13:45:00,(Quaker) Old Fashioned Oats,1.0,nan,27.0,5.0,3.0,150.0,True,False,35.0,False,False,155.0
+7,66,2020-03-19 13:45:00,(Red Delicious) Apple with Skin,101.0,gram,14.0,0.3,0.2,60.0,True,True,14.5,False,False,59.0
+7,67,2020-03-19 13:45:00,Ground Flaxseeds,1.0,tablespoon,3.0,1.9,4.3,55.0,True,False,9.2,False,False,58.3
+7,68,2020-03-19 13:45:00,(Now) Whole Psyllium Husks,2.0,tablespoon,8.0,0.0,0.0,35.0,True,False,8.0,False,False,32.0
+7,69,2020-03-19 13:45:00,Cinnamon,2.0,teaspoon,4.2,0.2,0.1,13.0,True,False,4.5,False,True,18.5
+7,70,2020-03-19 13:45:00,(Harris Teeter) Fat Free Organic Milk,1.0,cup,13.0,8.0,0.0,80.0,True,False,21.0,False,False,84.0
+7,71,2020-03-19 19:05:00,Butter Lettuce,171.0,gram,3.8,2.2,0.4,22.1,True,True,6.4,False,True,27.6
+7,72,2020-03-19 19:05:00,Chickpeas,90.0,gram,24.1,8.0,2.3,147.0,True,True,34.4,False,False,149.1
+7,73,2020-03-19 19:05:00,Red Onion,34.0,gram,3.4,0.5,0.1,15.0,True,True,4.0,False,False,16.5
+7,74,2020-03-19 19:05:00,Chicken,48.0,gram,0.0,11.4,6.3,105.8,True,True,17.7,False,False,102.3
+7,75,2020-03-19 19:05:00,(Toast) Red Wine Vinegrette,1.0,tablespoon,1.8,0.1,3.1,35.0,True,False,5.0,False,False,35.5
+7,76,2020-03-20 10:00:00,(Quaker) Old Fashioned Oats,1.0,nan,27.0,5.0,3.0,150.0,True,False,35.0,False,False,155.0
+7,77,2020-03-20 10:00:00,(Red Delicious) Apple with Skin,117.0,gram,16.0,0.3,0.2,69.0,True,True,16.5,False,False,67.0
+7,78,2020-03-20 10:00:00,Ground Flaxseeds,1.0,tablespoon,3.0,1.9,4.3,55.0,True,False,9.2,False,False,58.3
+7,79,2020-03-20 10:00:00,(Now) Whole Psyllium Husks,2.0,tablespoon,8.0,0.0,0.0,35.0,True,False,8.0,False,False,32.0
+7,80,2020-03-20 10:00:00,Cinnamon,2.0,teaspoon,4.2,0.2,0.1,13.0,True,False,4.5,False,True,18.5
+7,81,2020-03-20 10:00:00,(Harris Teeter) Fat Free Organic Milk,1.0,cup,13.0,8.0,0.0,80.0,True,False,21.0,False,False,84.0
+7,82,2020-03-20 16:10:00,"Homemade Beef and Barley Soup with onion, celery, kale, (Simple Truth) fat free organic beef stock, and (Pacific) low sodium organic vegetable broth",3.0,cup,49.5,18.0,6.0,324.0,True,False,73.5,False,False,324.0
+7,83,2020-03-20 19:05:00,Butter Lettuce,93.0,gram,2.1,1.2,0.2,12.0,True,True,3.5,False,True,15.0
+7,84,2020-03-20 19:05:00,Chickpeas,53.0,gram,14.2,4.7,1.3,86.6,True,True,20.2,False,False,87.3
+7,85,2020-03-20 19:05:00,Red Onion,12.0,gram,1.2,0.2,0.0,5.3,True,True,1.4,False,False,5.6
+7,86,2020-03-20 19:05:00,Chicken breaded with (Progesso) Italian Bread Crumbs,105.0,gram,17.6,25.7,6.3,237.2,True,True,49.599999999999994,False,False,229.89999999999998
+7,87,2020-03-20 19:05:00,(Toast) Red Wine Vinegrette,2.0,teaspoon,1.2,0.0,2.0,24.0,True,False,3.2,False,False,22.8
+7,88,2020-03-20 19:05:00,Potato,42.0,gram,8.8,1.1,0.1,39.1,True,True,10.0,False,False,40.5
+7,89,2020-03-20 19:05:00,Extra Virgin Olive Oil,0.5,tablespoon,0.0,0.0,7.0,59.5,True,False,7.0,False,False,63.0
+7,90,2020-03-20 19:05:00,(Crosse and Blackwell) Old Fashioned English Fish and Chip  Vinegar,1.0,tablespoon,0.0,0.0,0.0,0.0,True,False,0.0,False,False,0.0
+7,91,2020-03-21 06:00:00,Std Bfast,,nan,56.5,8.0,2.5,280.0,True,False,67.0,False,False,280.5
+7,92,2020-03-21 11:30:00,(Peppridge Farm) Whole Wheat Hamburger Bun,1.0,nan,22.0,7.0,1.5,130.0,True,False,30.5,False,False,129.5
+7,93,2020-03-21 11:30:00,(Jif) Extra Crunchy Peanut Butter,2.0,tablespoon,8.0,7.0,16.0,190.0,True,False,31.0,False,False,204.0
+7,94,2020-03-21 13:20:00,(NOSH) Owen's Crunchy Chicken Sandwich without dijonnaise,1.0,nan,39.0,30.0,21.0,468.0,True,False,90.0,False,False,465.0
+7,95,2020-03-21 13:20:00,(NOSH) Veggie Slaw Side Order,1.0,nan,14.0,1.0,13.0,174.0,True,False,28.0,False,False,177.0
+7,96,2020-03-21 16:00:00,Hershey's Milk Chocolate Bar,43.0,gram,26.0,3.0,13.0,220.0,True,True,42.0,False,False,233.0
+7,97,2020-03-21 19:15:00,Salad - Spring Mix,60.0,gram,3.1,1.3,0.3,17.0,True,True,4.7,False,False,20.3
+7,98,2020-03-21 19:15:00,Chickpeas,78.0,gram,20.9,6.9,2.0,127.4,True,True,29.799999999999997,False,False,129.2
+7,99,2020-03-21 19:15:00,Red Onion,18.0,gram,1.8,0.3,0.0,7.9,True,True,2.1,False,False,8.4
+7,100,2020-03-21 19:15:00,(Toast) Red Wine Vinegrette,1.0,teaspoon,0.6,0.0,1.0,12.0,True,False,1.6,False,False,11.4
+7,101,2020-03-21 19:15:00,"Homemade Chicken Noodle Soup with chicken, onion, celery, (Kirkland) organic chicken stock, and (Amish Kitchens) wide egg noodles",2.0,cup,15.0,6.3,4.7,124.0,True,False,26.0,False,False,127.5
+7,102,2020-03-21 20:55:00,(Jolly Time) Select Yellow Pop Corn - Air Popped,0.25,cup,48.0,8.0,2.0,200.0,True,False,58.0,False,True,242.0
+7,103,2020-03-21 20:55:00,Virgil's Zero Sugar Black Cherry Soda,12.0,ounce,0.0,0.0,0.0,0.0,True,False,0.0,False,False,0.0
+7,104,2020-03-22 08:30:00,Boost,,nan,82.0,26.0,26.0,654.0,True,False,134.0,False,False,666.0
+8,2,2020-03-14 14:15:00,Golden Crust Chicken Patil,4.0,gram,41.0,30.0,12.0,405.0,True,True,83.0,True,False,392.0
+8,3,2020-03-14 14:15:00,Pineapple and Ginger Juice,8.0,ounce,32.0,0.9,0.3,133.0,True,False,33.199999999999996,False,False,134.29999999999998
+8,4,2020-03-14 14:15:00,Banana,1.0,nan,27.0,1.3,0.4,105.0,True,False,28.7,False,False,116.8
+8,5,2020-03-14 17:55:00,Steamed Shrimp,24.0,gram,0.4,5.5,0.4,29.0,True,True,6.300000000000001,False,False,27.200000000000003
+8,6,2020-03-14 17:55:00,Potato,0.5,nan,18.0,2.2,0.1,80.0,True,False,20.3,False,False,81.7
+8,7,2020-03-14 17:55:00,Mixed Vegetable,2.0,tablespoon,1.2,0.3,0.1,5.7,True,False,1.6,False,True,6.9
+8,8,2020-03-14 17:55:00,Moscato,8.0,fluid ounce,13.0,0.2,0.0,197.0,True,False,13.2,False,True,52.8
+8,9,2020-03-15 09:00:00,Milk,4.0,fluid ounce,4.5,6.0,2.5,60.0,True,False,13.0,False,False,64.5
+8,10,2020-03-15 09:00:00,Frosted Flakes,1.5,cup,52.0,2.0,0.0,220.0,True,False,54.0,False,False,216.0
+8,11,2020-03-15 12:40:00,Eggs,2.0,nan,0.7,13.0,9.5,143.0,True,False,23.2,False,False,140.3
+8,12,2020-03-15 12:40:00,Mini Croissants,2.0,nan,26.0,4.6,12.0,227.0,True,False,42.6,False,False,230.4
+8,13,2020-03-15 12:40:00,Coffee,0.5,cup,0.0,0.1,0.0,1.2,True,False,0.1,False,True,0.4
+8,14,2020-03-15 12:40:00,Turkey Bacon,2.0,piece,0.7,4.8,4.2,60.0,True,False,9.7,False,False,59.800000000000004
+8,15,2020-03-15 16:50:00,Baked Potato,0.5,nan,18.0,2.2,0.1,80.0,True,False,20.3,False,False,81.7
+8,16,2020-03-15 16:50:00,"Salad - Tomato, Cheese, Lettuce, Tortilla Strips",12.0,ounce,17.0,4.9,0.8,80.0,True,False,22.7,False,False,94.8
+8,17,2020-03-15 16:50:00,Air Fried Chicken Wings,,nan,11.0,20.0,22.0,324.0,True,False,53.0,False,False,322.0
+8,18,2020-03-16 08:56:00,Eggs,2.0,nan,0.7,13.0,9.5,143.0,True,False,23.2,False,False,140.3
+8,19,2020-03-16 08:56:00,Mini Croissants,2.0,nan,26.0,4.6,12.0,227.0,True,False,42.6,False,False,230.4
+8,20,2020-03-16 08:56:00,Coffee,1.0,cup,0.0,0.1,0.0,1.2,True,False,0.1,False,True,0.4
+8,21,2020-03-16 08:56:00,Turkey Bacon,2.0,piece,0.7,4.8,4.2,60.0,True,False,9.7,False,False,59.800000000000004
+8,22,2020-03-16 08:56:00,Avocado,0.5,nan,8.6,2.0,15.0,161.0,True,False,25.6,False,False,177.4
+8,23,2020-03-16 14:30:00,Medium Banana,1.0,nan,27.0,1.3,0.4,105.0,True,False,28.7,False,False,116.8
+8,24,2020-03-16 14:30:00,Granola Oats and Honey,4.0,ounce,61.0,16.0,28.0,555.0,True,False,105.0,False,False,560.0
+8,25,2020-03-16 19:00:00,Pizza Triangles,4.0,nan,143.0,49.0,41.0,1138.0,True,False,233.0,False,False,1137.0
+8,26,2020-03-16 19:00:00,Brownie,1.0,ounce,14.0,1.8,8.2,132.0,True,False,24.0,False,False,137.0
+8,27,2020-03-16 19:00:00,Lemon,1.0,nan,7.8,0.9,0.3,24.0,True,False,9.0,False,True,37.5
+8,28,2020-03-16 19:00:00,Tomato and Mozzarella Toothpick,3.0,nan,4.7,13.0,17.0,220.0,True,False,34.7,False,False,223.8
+8,29,2020-03-16 19:00:00,Corona,12.0,ounce,14.0,0.0,0.0,148.0,True,False,14.0,False,True,56.0
+8,30,2020-03-16 19:00:00,Blackberries,0.5,ounce,1.4,0.2,0.1,6.1,True,False,1.7,False,False,7.3
+8,31,2020-03-17 09:03:00,Milk,4.0,fluid ounce,4.5,6.0,2.5,60.0,True,False,13.0,False,False,64.5
+8,32,2020-03-17 09:03:00,Frosted Flakes,1.5,cup,52.0,2.0,0.0,220.0,True,False,54.0,False,False,216.0
+8,33,2020-03-17 12:41:00,"Avocado Sandwich - White bread, with mayo",,nan,35.0,13.0,21.0,378.0,True,False,69.0,False,False,381.0
+8,34,2020-03-17 14:30:00,Medium Banana,1.0,nan,27.0,1.3,0.4,105.0,True,False,28.7,False,False,116.8
+8,35,2020-03-17 14:30:00,Granola Oats and Honey,2.0,ounce,31.0,7.8,14.0,277.0,True,False,52.8,False,False,281.2
+8,36,2020-03-17 20:15:00,Steak,6.0,ounce,0.0,44.0,31.0,473.0,True,False,75.0,False,False,455.0
+8,37,2020-03-17 20:15:00,Large Baked Potato,1.0,nan,63.0,7.5,0.4,278.0,True,False,70.9,False,False,285.6
+8,38,2020-03-17 20:15:00,Mojito,12.0,ounce,48.0,0.6,0.1,343.0,True,False,48.7,False,True,195.3
+8,39,2020-03-17 20:15:00,Steamed Broccoli,3.0,ounce,6.1,2.0,0.3,30.0,True,False,8.4,False,False,35.1
+8,40,2020-03-18 09:55:00,Oatmeal Margarine,7.0,ounce,24.0,5.0,3.0,141.0,True,False,32.0,False,False,143.0
+8,41,2020-03-18 09:55:00,Splenda/Sugar Blend,,nan,0.9,0.0,0.0,3.4,True,False,0.9,False,False,3.6
+8,42,2020-03-18 09:55:00,Coffee,10.0,fluid ounce,0.0,0.4,0.1,3.0,True,False,0.5,False,False,2.5
+8,43,2020-03-18 09:55:00,Creamer,,nan,1.7,0.1,1.5,20.0,True,False,3.3,False,False,20.7
+8,44,2020-03-18 09:55:00,Turkey Bacon,2.0,piece,0.7,4.8,4.2,60.0,True,False,9.7,False,False,59.800000000000004
+8,45,2020-03-18 14:55:00,"Salad - Shrimp, Lettuce, Tomato, Cheese, Avocado",,nan,16.0,42.0,30.0,495.0,True,False,88.0,False,False,502.0
+8,46,2020-03-18 14:55:00,Low Sugar Apple Juice,8.0,ounce,28.0,0.3,0.3,114.0,True,False,28.6,False,False,115.9
+8,47,2020-03-18 15:55:00,Grapes,2.0,ounce,10.0,0.4,0.1,39.0,True,False,10.5,False,False,42.5
+8,48,2020-03-18 15:55:00,Handfull of Oats and Honey Granola,,nan,61.0,16.0,28.0,555.0,True,False,105.0,False,False,560.0
+8,49,2020-03-18 19:18:00,Air Fried French Fries,5.0,ounce,59.0,4.9,21.0,442.0,True,False,84.9,False,False,444.6
+8,50,2020-03-18 19:18:00,Moscato,8.0,ounce,13.0,0.2,0.0,197.0,True,False,13.2,False,True,52.8
+8,51,2020-03-19 09:45:00,Milk,4.0,fluid ounce,4.5,6.0,2.5,60.0,True,False,13.0,False,False,64.5
+8,52,2020-03-19 09:45:00,Frosted Flakes,1.5,cup,52.0,2.0,0.0,220.0,True,False,54.0,False,False,216.0
+8,53,2020-03-19 10:35:00,Banana,,nan,27.0,1.3,0.4,105.0,True,False,28.7,False,False,116.8
+8,54,2020-03-19 13:28:00,(Wheat Thins) Ranch Crackers,25.0,nan,35.0,3.3,8.3,233.3,True,False,46.599999999999994,False,False,227.89999999999998
+8,55,2020-03-19 18:25:00,Air Fried Chicken Loingettes ,,nan,4.4,40.0,21.0,377.0,True,False,65.4,False,False,366.6
+8,56,2020-03-19 18:25:00,"Salad - Tomato, Cheese, Lettuce, Tortilla Strips",,nan,17.0,4.9,0.8,80.0,True,False,22.7,False,False,94.8
+8,57,2020-03-20 06:35:00,Eggs,2.0,nan,0.7,13.0,9.5,143.0,True,False,23.2,False,False,140.3
+8,58,2020-03-20 06:35:00,Turkey Bacon,2.0,piece,0.7,4.8,4.2,60.0,True,False,9.7,False,False,59.800000000000004
+8,59,2020-03-20 06:35:00,Mini Croissants,2.0,nan,26.0,4.6,12.0,227.0,True,False,42.6,False,False,230.4
+8,60,2020-03-20 11:58:00,"Sandwich - White Bread, Lettuce, Chicken, Cheese",,nan,39.0,30.0,21.0,468.0,True,False,90.0,False,False,465.0
+8,61,2020-03-20 11:58:00,Vanilla Cookies,6.0,nan,16.0,0.9,3.9,104.0,True,False,20.799999999999997,False,False,102.69999999999999
+8,62,2020-03-20 11:58:00,Grapes,4.0,ounce,21.0,0.8,0.2,78.0,True,False,22.0,False,False,89.0
+8,63,2020-03-20 11:58:00,Low Sugar Apple Juice,10.0,fluid ounce,35.0,0.3,0.4,143.0,True,False,35.699999999999996,False,False,144.79999999999998
+8,64,2020-03-20 17:32:00,"Burger Salad - Lettuce, Tomato, Cheese, Tortilla Strips, Burger, Thousand Island Dressing",8.0,ounce,13.0,28.0,34.0,471.0,True,False,75.0,False,False,470.0
+8,65,2020-03-21 09:00:00,Milk,4.0,fluid ounce,4.5,6.0,2.5,60.0,True,False,13.0,False,False,64.5
+8,66,2020-03-21 09:00:00,Frosted Flakes,1.5,cup,52.0,2.0,0.0,220.0,True,False,54.0,False,False,216.0
+8,67,2020-03-21 13:25:00,"Chicken and Cheese Sandwich - White Bread, Mayo",,nan,39.0,30.0,21.0,468.0,True,False,90.0,False,False,465.0
+8,68,2020-03-21 13:25:00,Banana,,nan,27.0,1.3,0.4,105.0,True,False,28.7,False,False,116.8
+8,69,2020-03-21 13:25:00,Lemon Cookies,3.0,nan,67.0,4.5,14.0,413.0,True,False,85.5,False,False,412.0
+8,70,2020-03-21 13:25:00,Low Sugar Apple Juice,8.0,fluid ounce,28.0,0.3,0.3,114.0,True,False,28.6,False,False,115.9
+8,71,2020-03-21 17:00:00,Baked Sweet Potato,1.0,nan,24.0,2.3,0.2,103.0,True,False,26.5,False,False,107.0
+8,72,2020-03-21 17:00:00,Lemon Cookies,4.0,nan,89.3,6.0,18.7,550.7,True,False,114.0,False,False,549.5
+8,73,2020-03-21 17:00:00,Moscato,8.0,ounce,13.0,0.2,0.0,197.0,True,False,13.2,False,True,52.8
+8,74,2020-03-22 08:50:00,Mini Croissants,2.0,nan,26.0,4.6,12.0,227.0,True,False,42.6,False,False,230.4
+8,75,2020-03-22 08:50:00,Boiled Eggs,2.0,nan,0.7,13.0,9.5,143.0,True,False,23.2,False,False,140.3
+8,76,2020-03-22 08:50:00,Turkey Bacon,2.0,piece,0.7,4.8,4.2,60.0,True,False,9.7,False,False,59.800000000000004
+8,77,2020-03-22 08:50:00,Avocado,0.5,nan,8.6,2.0,15.0,161.0,True,False,25.6,False,False,177.4
+8,78,2020-03-22 08:50:00,Coffee,8.0,fluid ounce,0.0,0.1,0.0,1.2,True,False,0.1,False,True,0.4
+8,79,2020-03-22 14:10:00,Lemon Cookies,6.0,nan,134.0,9.0,28.0,826.0,True,False,171.0,False,False,824.0
+8,80,2020-03-22 19:00:00,Chicken Wingettes,6.0,nan,16.0,27.0,39.0,526.0,True,False,82.0,False,False,523.0
+8,81,2020-03-22 19:00:00,Medium Baked Potato,0.5,nan,18.0,2.2,0.1,80.0,True,False,20.3,False,False,81.7
+8,82,2020-03-22 19:00:00,"Mixed Vegetable, Green Beans, Peas, Corn, Carrots",4.0,ounce,7.9,9.0,0.4,37.0,True,False,17.299999999999997,False,True,71.19999999999999
+8,83,2020-03-23 09:00:00,Boost,,nan,82.0,26.0,26.0,654.0,True,False,134.0,False,False,666.0

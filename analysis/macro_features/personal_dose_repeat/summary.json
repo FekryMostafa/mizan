@@ -1,0 +1,44 @@
+[
+  {
+    "macro": "Carbs",
+    "people": 26,
+    "meals": 52,
+    "hits": 3,
+    "abstentions": 0,
+    "MAE_emitted": 28.658504616258163,
+    "median_error_emitted": 16.244513369989193,
+    "largest_error": 235.9550561797751,
+    "contrast_sign_repeats": 20,
+    "contrasts": 26,
+    "midpoint_MAE": 21.0,
+    "midpoint_hits": 0
+  },
+  {
+    "macro": "Fat",
+    "people": 25,
+    "meals": 50,
+    "hits": 3,
+    "abstentions": 0,
+    "MAE_emitted": 34.116201609659235,
+    "median_error_emitted": 18.593749999999744,
+    "largest_error": 388.5000000000056,
+    "contrast_sign_repeats": 15,
+    "contrasts": 25,
+    "midpoint_MAE": 15.75,
+    "midpoint_hits": 0
+  },
+  {
+    "macro": "Protein",
+    "people": 28,
+    "meals": 56,
+    "hits": 4,
+    "abstentions": 0,
+    "MAE_emitted": 44.228912294819864,
+    "median_error_emitted": 22.0,
+    "largest_error": 407.2937088277734,
+    "contrast_sign_repeats": 24,
+    "contrasts": 28,
+    "midpoint_MAE": 22.0,
+    "midpoint_hits": 0
+  }
+]
